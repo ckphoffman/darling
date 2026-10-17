@@ -1,0 +1,59 @@
+{"perspective_id": "relapse",
+ "retrieval_note": "所有 snippet 都逐字摘自本次会话 WebSearch 返回的文本。WebFetch 无法解析任何域名，NCBI E-utilities 返回 403，因此没有一条 snippet 对照过原文。",
+ "turns": [
+  {"turn": 1,
+   "question": "停用口服多西环素/四环素类后，痤疮复发率有哪些实测数据？有无比较不同口服疗程的RCT？SDD试验有无停药后随访？",
+   "triggered_by": "initial",
+   "queries": ["Thiboutot 2006 adapalene maintenance after doxycycline Arch Dermatol relapse", "Leyden 2006 tazarotene maintenance minocycline acne relapse", "Skidmore 2003 subantimicrobial doxycycline acne follow-up after discontinuation", "oral antibiotic duration acne relapse randomized 6 weeks versus 12 weeks doxycycline", "Zhang 2008 adapalene maintenance acne China"],
+   "source_ids": ["relapse-S1", "relapse-S2", "relapse-S3", "relapse-S4"],
+   "answer": "最直接的停药后数据来自外用维持RCT：Thiboutot 2006 中，患者先接受12周多西环素+阿达帕林联合治疗，有效者停用多西环素后随机分到阿达帕林或赋形剂组，维持16周。以“未能保持≥50%皮损改善”计失败，赋形剂组失败率46%，阿达帕林组25%（P<.001）。也就是说，标准剂量多西环素疗程结束后只用赋形剂，约一半患者在4个月内失去疗效。Leyden 2006 的设计是他扎罗汀+米诺环素诱导后维持：单用他扎罗汀、单用米诺环素、两者联用三种维持方案到第24周时，各组>80%仍维持≥50%改善；但这个试验没有设“全部停药”组。检索中没有找到比较6 vs 12周或12 vs 24周口服疗程的RCT。Skidmore 2003（SDD 20 mg bid，6个月）的检索结果只报告了第6个月的疗效和菌群，没有停药后随访。Zhang 2008 中国研究没有检索到。"},
+  {"turn": 2,
+   "question": "relapse-S4 这项回顾性队列提示疗程越长，12个月复发越高。它的设计能否区分“长疗程导致复发”和“病情重的人疗程长”？口服抗生素与异维A酸之间有没有复发对比数据？",
+   "triggered_by": "relapse-S4（Frontiers 2026 回顾性队列）：17–24周组12个月复发46.3%，6–12周组23.8%，调整HR 2.31",
+   "queries": ["frontiers medicine 2026 retrospective cohort oral antibiotic duration acne recurrence 240 patients", "Barbieri isotretinoin versus oral antibiotics acne relapse retreatment cohort"],
+   "source_ids": ["relapse-S4", "relapse-S5"],
+   "answer": "relapse-S4 是单中心回顾性研究，n=240，每组80人，药物为多西环素或米诺环素，标准剂量（非SDD）。三组在第12周的成功率都约3/4，没有差异，但12个月复发率随疗程延长而升高。由于是观察性研究，疗程长短很可能反映了临床医生对难治病例的判断（适应证混杂），所以不能证明长疗程本身导致复发。只能说明：在真实世界中，延长到24周并没有换来更低的复发。全文和耐药结果没有获取到。异维A酸方面，Lai & Barbieri 2025（JAMA Dermatol）的保险数据队列（n=19,907，完成≥4个月异维A酸）显示，22.5% 因复发需要再次系统治疗，8.2% 接受了第二个异维A酸疗程；复发后最常用的系统治疗是口服抗生素。检索中没有找到口服抗生素与异维A酸复发率的直接对比研究。"},
+  {"turn": 3,
+   "question": "relapse-S1 的赋形剂组4个月内失败率达46%。那么对频繁复发的患者，指南推荐的维持方案依据什么？有没有长期SDD用于痤疮维持或停药后复发的数据？",
+   "triggered_by": "relapse-S1（Thiboutot 2006）：停用多西环素后，赋形剂组16周失败率46%",
+   "queries": ["NICE NG198 evidence review maintenance treatment acne oral antibiotic relapse", "Poulin 2011 adapalene benzoyl peroxide maintenance severe acne relapse", "subantimicrobial dose doxycycline acne post-treatment follow-up relapse after stopping 40 mg"],
+   "source_ids": ["relapse-S6", "relapse-S7", "relapse-S8", "relapse-S9"],
+   "answer": "NICE NG198 建议，频繁复发的患者考虑用阿达帕林/BPO 外用维持；有地方指南（BSW）写明，含抗生素的方案只有在特殊情况下才继续超过6个月。这些属于指南立场，依据是外用维持RCT（如 Poulin 2011，阿达帕林-BPO 6个月维持用于重度痤疮；检索结果未确认其诱导药物）和抗菌药管理考量，不是比较“长期口服抗生素与外用维持”的研究。SDD 方面，40 mg MR 16周RCT（n=662）显示疗效优于安慰剂、与100 mg相当，但检索结果中没有停药后随访数据。52周 SDD 40 mg 降低复发的数据来自酒渣鼻，不能外推到痤疮。目前没有任何检索结果能说明长疗程SDD是减少痤疮复发还是只是推迟复发。"}
+ ],
+ "sources": [
+  {"source_id": "relapse-S1", "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/405282", "title": "Adapalene gel, 0.1%, as maintenance therapy for acne vulgaris: a randomized, controlled, investigator-blind follow-up of a recent combination study", "authors_year": "Thiboutot D et al., 2006", "journal": "Arch Dermatol 142(5):597-602 (PMID 16702497)", "date": "2006-05", "design": "停药后维持RCT（研究者盲法，1:1随机，阿达帕林 vs 赋形剂）", "evidence_level": "placebo-RCT", "indication": "acne", "regimen": "诱导：12周多西环素（剂量未从检索中确认）+阿达帕林；维持：停用多西环素，阿达帕林0.1%凝胶或赋形剂每晚1次，16周", "n": "入组253，完成219（87%）", "funding": "检索中未显示", "snippet": "Eligible subjects completing the combination study were rerandomized consecutively in a 1:1 ratio to receive either adapalene gel, 0.1%, or its gel vehicle once daily in the evening for an additional 16 weeks.", "claim_supported": "停用口服多西环素后只用赋形剂，16周失败率（未保持≥50%改善）为46%，阿达帕林组为25%（P<.001）", "reliability_note": "片段和数字来自WebSearch对摘要的转述，没有打开原文。复发定义较宽松（失去50%改善），随访只有16周。"},
+  {"source_id": "relapse-S2", "url": "https://clinicaltrials.gov/study/NCT00145106", "title": "Comparison of tazarotene and minocycline maintenance therapies in acne vulgaris", "authors_year": "Leyden J et al., 2006", "journal": "Arch Dermatol 142:605-612", "date": "2006", "design": "双盲多中心RCT，维持阶段比较三组", "evidence_level": "H2H-RCT", "indication": "acne", "regimen": "诱导：他扎罗汀凝胶+米诺环素，最长12周；≥75%整体改善者随机分到他扎罗汀单用、米诺环素单用或两者联用维持（剂量未从检索中确认）", "n": "189入组；110进入维持期，90完成", "funding": "Allergan（据EM-consulte列表的检索转述）", "snippet": "all regimens were effective in sustaining improvements in acne", "claim_supported": "维持24周时，各组>80%仍维持≥50%整体改善；单用外用他扎罗汀的维持效果与继续口服米诺环素相近", "reliability_note": "没有“全部停药”对照组，因此无法得出停药后的自然复发率。片段来自检索摘要转述。属于厂商资助研究。"},
+  {"source_id": "relapse-S3", "url": "https://pubmed.ncbi.nlm.nih.gov/12707093", "title": "Effects of subantimicrobial-dose doxycycline in the treatment of moderate acne", "authors_year": "Skidmore R et al., 2003", "journal": "Arch Dermatol 139:459-464", "date": "2003", "design": "双盲安慰剂对照RCT", "evidence_level": "placebo-RCT", "indication": "acne", "regimen": "多西环素20 mg bid，6个月", "n": "51随机，40完成（据二手摘要）", "funding": "检索中未显示", "snippet": "forehead skin flora samples were collected at baseline and at 6 months", "claim_supported": "SDD 6个月后粉刺和炎性皮损的减少优于安慰剂（据二手摘要：53.2% vs 10.6%，50.1% vs 30.2%），菌群无抗菌效应；检索结果中没有停药后随访", "reliability_note": "疗效数字来自二手摘要（mdedge等）。是否有停药随访需要查原文，当前只能说检索中未发现。"},
+  {"source_id": "relapse-S4", "url": "https://www.emjreviews.com/dermatology/news/long-antibiotic-use-in-acne-linked-to-higher-recurrence-and-resistance/", "title": "Long-term impact of antibiotic exposure duration on recurrence and microbial resistance in moderate-to-severe acne: A real-world retrospective analysis（经EMJ新闻报道）", "authors_year": "作者未从检索中确认, 2026", "journal": "Frontiers in Medicine（Dermatology栏目，2026-03接收）", "date": "2026-03", "design": "单中心回顾性队列，按疗程分三组", "evidence_level": "cohort", "indication": "acne", "regimen": "多西环素或米诺环素（标准剂量），6–12周 / 13–16周 / 17–24周", "n": "240（每组80），耐药培养亚组46", "funding": "检索中未显示", "snippet": "Recurrence within 12 months was 23.8% in the short-term group, 35.0% in the standard-term group, and 46.3% among those receiving prolonged treatment.", "claim_supported": "疗程越长，12个月复发率越高（调整HR 2.31，p=0.004），而12周时三组成功率相近", "reliability_note": "来自新闻报道转述，原文未获取。回顾性研究有严重的适应证混杂，病情重者更可能疗程长。不涉及SDD。"},
+  {"source_id": "relapse-S5", "url": "https://www.dermatologytimes.com/view/higher-cumulative-isotretinoin-dose-may-reduce-acne-relapse-study-finds", "title": "Acne Relapse and Isotretinoin Retrial in Patients With Acne", "authors_year": "Lai J, Barbieri JS, 2025", "journal": "JAMA Dermatol 161(4):367-374", "date": "2025", "design": "商业保险索赔数据回顾性队列", "evidence_level": "cohort", "indication": "acne", "regimen": "完成≥4个月异维A酸；累积剂量>220 mg/kg未见额外获益", "n": "19,907", "funding": "检索中未显示", "snippet": "22.5% experienced acne relapse requiring additional systemic treatment, while 8.2% required a second course of isotretinoin", "claim_supported": "异维A酸疗程后约22.5%因复发需要再次系统治疗；复发后最常用的是口服抗生素", "reliability_note": "本次会话第2轮实际检索到，片段来自检索结果对二手报道的转述。复发以“需要再次系统治疗”为代理指标。没有与口服抗生素复发率的直接对比。与协调者提到的“MarketScan、20–40%”说法无关。"},
+  {"source_id": "relapse-S6", "url": "https://nice.org.uk/guidance/ng198", "title": "Acne vulgaris: management (NG198) 及 evidence review 11（维持治疗）", "authors_year": "NICE, 2021（2026-04复审）", "journal": "NICE guideline", "date": "2021-06", "design": "指南", "evidence_level": "guideline-position", "indication": "acne", "regimen": "维持：首选阿达帕林/BPO固定复方，不耐受时外用单药；12周复评", "n": "不适用", "funding": "NICE", "snippet": "consider fixed combination adapalene/BPO [Epiduo®] as maintenance treatment", "claim_supported": "NICE对频繁复发者推荐外用维持，而不是继续口服抗生素", "reliability_note": "推荐原文经地方指南转述（Derbyshire/BSW）。evidence review 11 的具体纳入研究未获取。"},
+  {"source_id": "relapse-S7", "url": "https://bswtogether.org.uk/medicines/wp-content/uploads/sites/3/2023/06/BSW-Acne-Guidance-Jun-2023-V0.6.pdf", "title": "BSW Acne Guidance Jun 2023", "authors_year": "BSW ICB, 2023", "journal": "地方处方指南", "date": "2023-06", "design": "地方指南", "evidence_level": "guideline-position", "indication": "acne", "regimen": "含抗生素方案（外用或口服）原则上不超过6个月", "n": "不适用", "funding": "NHS", "snippet": "only continue a treatment option that includes antibiotic (topical/oral) for > 6 months in exceptional circumstances", "claim_supported": "限制疗程的依据主要是抗菌药管理，而不是复发方面的证据", "reliability_note": "地方指南，来自检索片段。"},
+  {"source_id": "relapse-S8", "url": "https://academic.oup.com/bjd/article/164/6/1376/6644353", "title": "A 6-month maintenance therapy with adapalene-benzoyl peroxide gel prevents relapse and continuously improves efficacy among patients with severe acne vulgaris", "authors_year": "Poulin Y et al., 2011", "journal": "Br J Dermatol 164(6):1376-1382", "date": "2011", "design": "多中心双盲随机对照维持试验", "evidence_level": "placebo-RCT", "indication": "acne", "regimen": "初始治疗成功后，阿达帕林-BPO维持6个月 vs 对照（诱导方案未从检索中确认）", "n": "检索中未显示", "funding": "检索中未显示", "snippet": "A 6-month maintenance therapy with adapalene-benzoyl peroxide gel prevents relapse and continuously improves efficacy among patients with severe acne vulgaris", "claim_supported": "外用复方维持可以降低重度痤疮在初始治疗后的复发", "reliability_note": "只获得标题和设计描述，没有复发数字，也没有确认诱导药物是否为多西环素。"},
+  {"source_id": "relapse-S9", "url": "https://jddonline.com/articles/dermatology/S1545961615P0581X", "title": "40 mg改良释放多西环素痤疮16周RCT（经检索摘要）", "authors_year": "作者推测为Moore等，2015（未核实）", "journal": "J Drugs Dermatol", "date": "2015", "design": "随机、安慰剂及活性对照RCT", "evidence_level": "H2H-RCT", "indication": "acne", "regimen": "MR多西环素40 mg qd vs 多西环素100 mg qd vs 安慰剂，16周", "n": "662", "funding": "检索中未显示", "snippet": "MR-DC 40 mg was also comparable to DC 100 mg in the reduction of the number of inflammatory lesions, and percent reduction of total lesions.", "claim_supported": "SDD 40 mg在16周时的疗效与100 mg相当，不良事件更少；检索结果中没有停药后复发数据", "reliability_note": "片段来自检索摘要，URL与该片段的对应关系由检索工具给出，未打开页面核对。疗程只有16周，没有停药随访。"}
+ ],
+ "key_findings": [
+  "停用标准剂量多西环素（12周联合治疗后）只用赋形剂，16周内46%失去≥50%改善；阿达帕林维持组为25%（Thiboutot 2006, placebo-RCT）。",
+  "检索中未找到比较口服四环素类不同疗程（6 vs 12周，12 vs 24周）复发率的RCT。",
+  "唯一的疗程对比是回顾性队列（2026）：17–24周组12个月复发46.3%，6–12周组23.8%，调整HR 2.31；但存在适应证混杂，只能说明延长疗程没有换来更低的复发。",
+  "SDD痤疮RCT（Skidmore 2003，6个月；40 mg MR 16周）在检索结果中都没有停药后随访，因此“长疗程SDD减少复发还是推迟复发”目前没有痤疮证据。",
+  "SDD 40 mg 52周降低复发的数据来自酒渣鼻，不能外推到痤疮。",
+  "指南（NICE NG198、BSW）推荐短疗程后改为外用维持、抗生素原则上不超过6个月，依据是外用维持RCT和抗菌药管理考量。",
+  "异维A酸后约22.5%因复发需要再次系统治疗（Lai & Barbieri 2025 队列），复发后最常用口服抗生素。"
+ ],
+ "unverified": [
+  "Zhang 2008 中国阿达帕林维持研究：检索中没有找到。",
+  "Thiboutot 2006 诱导期多西环素的具体剂量，以及75% vs 54%维持率的出处（只见于新闻转述）。",
+  "Skidmore 2003 是否有停药后随访：需要查原文。",
+  "Alirezai 2007（Eur J Dermatol 17:45-51，赖甲环素后阿达帕林维持）的复发数字：只检索到书目信息。",
+  "Poulin 2011 的诱导药物和复发率。",
+  "relapse-S4 回顾性队列的作者、全文和耐药亚组结果。",
+  "'Barbieri 队列（IBM MarketScan）……异维A酸复发约20–40%'：本次会话中未检索到这一说法，不作为来源。",
+  "'Hellgren 1979'：本次会话中未检索到，不作为来源。"
+ ],
+ "gaps": [
+  "没有RCT比较长疗程SDD与短疗程标准剂量+外用维持在停药后的复发率。",
+  "没有任何SDD痤疮试验报告停药后随访，无法区分“减少复发”与“推迟复发”。",
+  "没有比较口服四环素类不同疗程复发率的RCT。",
+  "没有关于频繁复发个体再次口服抗生素疗效的前瞻性数据。",
+  "长期SDD用于痤疮的病例系列在检索中未找到。"
+ ]}

@@ -1,0 +1,218 @@
+{
+  "perspective_id": "efficacy",
+  "turns": [
+    {
+      "turn": 1,
+      "question": "痤疮（非酒渣鼻）中是否存在多西环素 SDD（20 mg bid 或 40 mg MR）与标准剂量（50–200 mg/d）的头对头 RCT？若无，SDD 与标准剂量各自对安慰剂的效应量是多少？",
+      "triggered_by": "initial",
+      "queries": [
+        "doxycycline 40 mg versus 100 mg acne randomized trial",
+        "low-dose doxycycline 20 mg twice daily acne randomized placebo Skidmore",
+        "Toossi 2008 subantimicrobial dose doxycycline acne Iran"
+      ],
+      "source_ids": ["efficacy-S1", "efficacy-S2", "efficacy-S3", "efficacy-S4", "efficacy-S5"],
+      "answer": "存在头对头试验，并非仅靠跨试验间接比较。至少有两项：(1) Moore 2015 JDD 三臂 RCT（MR 40 mg qd vs 多西环素 100 mg qd vs 安慰剂，16 周，n=662，Galderma 资助）；(2) Toossi 2008 JDD（伊朗，20 mg bid vs 100 mg + 匹配安慰剂，3 个月，n=100；注册号很可能为 NCT00388778，Shahid Beheshti 大学，但二者对应关系未被明确证实）。另有在研的 NCT05399290（青少年 20 mg bid vs 100 mg bid，12 周，非盲）。SDD 对安慰剂：Skidmore 2003（20 mg bid，6 个月，n=51）炎性皮损减少 50.4% vs 30.2%（P=.04），粉刺 53.6% vs 10.6%，但医生总体评估仅改善 0.4 分（7 分制），患者总体评估无显著差异。Toossi 的摘要只报告 SDD 组丘疹减少 84%、脓疱减少 90%，检索结果未给出组间比较数据。"
+    },
+    {
+      "turn": 2,
+      "question": "Moore 2015 三臂试验中，40 mg、100 mg 和安慰剂各组的具体效应量是多少？'相当'的结论建立在什么统计比较之上？",
+      "triggered_by": "efficacy-S1（Moore 2015）的检索摘要称 40 mg 'comparable efficacy and superior safety to DC 100 mg'，但未给出各组数字；同时发现注册号 NCT01320033（CD2475/101）",
+      "queries": [
+        "Moore 2015 modified-release doxycycline 40 mg acne 662 patients IGA success inflammatory lesions placebo doxycycline 100 mg results",
+        "\"CD2475/101\" doxycycline 40 mg acne NCT01320033 results success rate inflammatory lesions week 16"
+      ],
+      "source_ids": ["efficacy-S1", "efficacy-S6", "efficacy-S7"],
+      "answer": "按 Shang 2025 NMA 转引的 Moore 试验第 16 周数据，炎性皮损平均减少数为：40 mg 组 16.1，100 mg 组 12.9，安慰剂组 12.6；40 mg vs 安慰剂 p=0.006，40 mg vs 100 mg p=0.024。也就是说，在这项试验里，100 mg 对照组几乎与安慰剂没有差别（12.9 vs 12.6）。在这种情况下，'40 mg 与 100 mg 相当'无法说明 SDD 达到了一个已被证实有效的标准剂量疗效，因为活性对照本身没有体现出检测灵敏度（assay sensitivity）。论文结论措辞是'comparable'，而 p=0.024 反而提示 40 mg 数值更优；两种说法如何调和，需看原文预设的检验方法（是否为非劣效设计、是否校正多重比较）。各组 IGA 成功率没有检索到。试验由 Galderma R&D 资助（NCT01320033）。"
+    },
+    {
+      "turn": 3,
+      "question": "目前把 SDD 与标准剂量'相当'写成结论的 meta 分析（Quintero 2025、Shang 2025 NMA）用了哪些原始数据？是否主要依赖 Moore 这一项试验？",
+      "triggered_by": "efficacy-S6（Shang 2025 NMA）引用 Moore 的数据中 100 mg 组与安慰剂几乎相同；efficacy-S7（Quintero 2025）只纳入 2 项研究",
+      "queries": [
+        "Quintero subantimicrobial dose doxycycline compared to standard dose doxycycline acne systematic review meta-analysis Journal of Pharmacy Practice and Research",
+        "Shang 2025 network meta-analysis different doses doxycycline moderate-to-severe acne included trials 40 mg 80-160 mg results",
+        "ijbcp doxycycline 40 mg versus 100 mg acne vulgaris comparative study India"
+      ],
+      "source_ids": ["efficacy-S6", "efficacy-S7", "efficacy-S8", "efficacy-S9"],
+      "answer": "Quintero 2025 只合并了 2 项 40 mg/d vs 100 mg/d 的研究。第 4 周炎性皮损差异不显著（MD 0.06，95% CI −0.38 至 0.49），但 I²=75.3%；第 8、12 周 I²>99%，置信区间很宽。证据基础非常薄弱，而且异质性极高。Shang 2025 NMA（检索覆盖 PubMed/EMBASE/CENTRAL/万方/CNKI）报告：40 mg/d 优于安慰剂（p=0.03），与 80、100、160 mg/d 均无显著差异（p=0.22/0.07/0.08）。这里的'无显著差异'不等于等效，因为没有预设等效界值，结论又大量依赖 Moore 试验，而该试验中 100 mg 组几乎与安慰剂相同。印度方面没有检索到 40 vs 100 mg 的痤疮试验，IJBCP 上的相关文章是头孢氨苄 vs 多西环素 100 mg。纳入试验清单和 IGA 数据都没能获取全文核实（WebFetch 对所有域名均 DNS 失败，PubMed E-utilities 被代理 403 拒绝）。"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "efficacy-S1",
+      "url": "https://jddonline.com/articles/efficacy-and-safety-of-subantimicrobial-dose-modified-release-doxycycline-40-mg-versus-doxycycline-1-S1545961615P0581X",
+      "title": "Efficacy and Safety of Subantimicrobial Dose, Modified-Release Doxycycline 40 mg Versus Doxycycline 100 mg Versus Placebo for the treatment of Inflammatory Lesions in Moderate and Severe Acne: A Randomized, Double-Blinded, Controlled Study",
+      "authors_year": "Moore A, et al. 2015",
+      "journal": "Journal of Drugs in Dermatology 2015;14(6):581-586",
+      "date": "2015-06",
+      "design": "多中心、随机、双盲、三臂（活性对照 + 安慰剂对照）RCT",
+      "evidence_level": "H2H-RCT",
+      "indication": "acne",
+      "regimen": "MR 多西环素 40 mg 片 qd vs 多西环素 100 mg 胶囊 qd vs 安慰剂 qd，16 周；联合用药情况未核实",
+      "n": "662（≥12 岁，中重度痤疮）",
+      "funding": "Galderma R&D（注册 NCT01320033；检索摘要称有两位作者隶属 Galderma）",
+      "snippet": "MR-DC 40 mg demonstrated comparable efficacy and superior safety to DC 100 mg",
+      "claim_supported": "40 mg 在炎性皮损减少、总皮损中位百分比减少、成功率上优于安慰剂；作者结论为与 100 mg 疗效相当、安全性更好。",
+      "reliability_note": "唯一的大样本头对头试验，由厂家资助。仅通过检索摘要获得，全文和各组 IGA 成功率未核实。100 mg 组与安慰剂差异极小（见 S6），对照组的检测灵敏度存疑。"
+    },
+    {
+      "source_id": "efficacy-S2",
+      "url": "https://jddonline.com/articles/dermatology/S1545961608P1149X",
+      "title": "Subantimicrobial-dose Doxycycline in the Treatment of Moderate Facial Acne",
+      "authors_year": "Toossi P, et al. 2008",
+      "journal": "Journal of Drugs in Dermatology 2008;7(12):1149-1152",
+      "date": "2008-12",
+      "design": "随机双盲 RCT，SDD vs 标准剂量",
+      "evidence_level": "H2H-RCT",
+      "indication": "acne",
+      "regimen": "20 mg bid vs 100 mg + 匹配安慰剂片（检索结果中有的写 100 mg bid，有的写 100 mg qd 加安慰剂，未核实），3 个月",
+      "n": "100（中度面部痤疮）",
+      "funding": "未核实（推测为伊朗 Shahid Beheshti 大学）",
+      "snippet": "84% reduction in number of papules and a 90% reduction in number of pustules",
+      "claim_supported": "SDD 组 3 个月后丘疹、脓疱明显减少；作者认为 SDD 是中度痤疮的有效选择。",
+      "reliability_note": "样本小。检索到的摘要只报告 SDD 组内变化，没有标准剂量组数据和组间检验，因此不能据此支持'相当'。"
+    },
+    {
+      "source_id": "efficacy-S3",
+      "url": "https://clinicaltrials.gov/study/NCT00388778",
+      "title": "The Effect of Doxycycline 100mg and Doxycycline 20mg in Treatment of Mild and Moderate Acne",
+      "authors_year": "Shahid Beheshti University of Medical Sciences, 2005-2006",
+      "journal": "ClinicalTrials.gov registry",
+      "date": "2008-01（最后核实）",
+      "design": "注册记录（RCT）",
+      "evidence_level": "H2H-RCT",
+      "indication": "acne",
+      "regimen": "多西环素 100 mg vs 20 mg（细节未核实）",
+      "n": "未核实",
+      "funding": "Shahid Beheshti University of Medical Sciences",
+      "snippet": "The Effect of Doxycycline 100mg and Doxycycline 20mg in Treatment of Mild and Moderate Acne",
+      "claim_supported": "伊朗确有一项 SDD vs 100 mg 的痤疮试验注册，没有张贴结果；很可能对应 Toossi 2008。",
+      "reliability_note": "只有标题和元数据，未能抓取页面，与 Toossi 2008 的对应关系未被证实。"
+    },
+    {
+      "source_id": "efficacy-S4",
+      "url": "https://cdn.clinicaltrials.gov/large-docs/90/NCT05399290/Prot_SAP_ICF_000.pdf",
+      "title": "Subantimicrobial Doxycycline in Acne",
+      "authors_year": "NCT05399290",
+      "journal": "ClinicalTrials.gov protocol/SAP",
+      "date": "未核实",
+      "design": "随机、非盲试验方案",
+      "evidence_level": "H2H-RCT",
+      "indication": "acne",
+      "regimen": "20 mg bid vs 100 mg bid，12 周，青少年",
+      "n": "未核实",
+      "funding": "未核实",
+      "snippet": "Subantimicrobial Doxycycline in Acne",
+      "claim_supported": "有一项在研/已注册的 SDD vs 标准剂量头对头试验（青少年，非盲）。",
+      "reliability_note": "设计信息来自检索摘要，结果未知；非盲设计。"
+    },
+    {
+      "source_id": "efficacy-S5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12707093",
+      "title": "Effects of subantimicrobial-dose doxycycline in the treatment of moderate acne",
+      "authors_year": "Skidmore R, et al. 2003",
+      "journal": "Archives of Dermatology 2003;139:459-464",
+      "date": "2003-04",
+      "design": "多中心双盲安慰剂对照平行组 RCT（两家大学诊所）",
+      "evidence_level": "placebo-RCT",
+      "indication": "acne",
+      "regimen": "多西环素 20 mg bid（Periostat）vs 安慰剂，6 个月",
+      "n": "51（26 vs 25，成人中度面部痤疮）",
+      "funding": "未核实",
+      "snippet": "50.4% fewer inflammatory lesions vs 30.2% fewer for placebo (P=.04)",
+      "claim_supported": "SDD 相对安慰剂使炎性皮损多减少约 20 个百分点，粉刺 53.6% vs 10.6%；医生总体评估仅改善 0.4/7，患者总体评估无显著差异；未检测到对皮肤菌群耐药的影响。",
+      "reliability_note": "样本很小，疗程 6 个月，与 12–16 周的标准剂量试验不可直接比较。数据来自 MDedge/JFP 等二手摘要，JFP 评论认为该研究存在缺陷。"
+    },
+    {
+      "source_id": "efficacy-S6",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1155/dth/1713121",
+      "title": "Comparisons of Efficacy and Safety of Different Doses of Doxycycline for the Treatment of Moderate-to-Severe Acne Vulgaris: A Systematic Review and Network Meta-Analysis",
+      "authors_year": "Shang, et al. 2025",
+      "journal": "Dermatologic Therapy",
+      "date": "2025-08",
+      "design": "RCT 的系统综述 + 网络 meta 分析（剂量 0–200 mg/d）",
+      "evidence_level": "review",
+      "indication": "acne",
+      "regimen": "不同剂量多西环素（0–200 mg/d），疗程不一",
+      "n": "纳入试验数未核实",
+      "funding": "未核实",
+      "snippet": "Average decrease in inflammatory lesion count: doxycycline 40 mg group, 16.1; doxycycline 100 mg group, 12.9; placebo group, 12.6",
+      "claim_supported": "转引 Moore 试验第 16 周数据：100 mg 组与安慰剂几乎相同；40 mg vs 安慰剂 p=0.006，40 mg vs 100 mg p=0.024。NMA 中 40 mg/d 优于安慰剂（p=0.03），与 80/100/160 mg/d 无显著差异（p=0.22/0.07/0.08）。",
+      "reliability_note": "'无显著差异'不是等效检验。网络很可能由 Moore 一项试验主导；全文未获取。"
+    },
+    {
+      "source_id": "efficacy-S7",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/jppr.70017",
+      "title": "Effectiveness and safety of subantimicrobial dose doxycycline compared to standard dose doxycycline in the treatment of patients with acne: systematic review and meta-analysis",
+      "authors_year": "Quintero, García-Perdomo 2025",
+      "journal": "Journal of Pharmacy Practice and Research",
+      "date": "2025",
+      "design": "系统综述与 meta 分析（2 项研究）",
+      "evidence_level": "review",
+      "indication": "acne",
+      "regimen": "40 mg/d vs 100 mg/d",
+      "n": "2 项研究（总样本未核实）",
+      "funding": "未核实",
+      "snippet": "mean difference 0.06, 95% CI −0.38 to 0.49",
+      "claim_supported": "第 4 周炎性皮损差异不显著，I²=75.3%；第 8、12 周 I²>99%，置信区间很宽；作者承认证据基础薄弱。",
+      "reliability_note": "仅 2 项研究，异质性极高，无法支持等效结论。纳入研究身份未核实（检索称两项均为 40 mg vs 100 mg，但已知只有 Moore 是 40 mg MR 试验）。"
+    },
+    {
+      "source_id": "efficacy-S8",
+      "url": "https://cfpclearn.ca/wp-content/uploads/2024/04/TFP-364-Oral-agents-for-acne-Part-2-FV-1.pdf",
+      "title": "Tools for Practice #364: Oral agents for acne Part 2",
+      "authors_year": "CFPC Tools for Practice 2024",
+      "journal": "CFPCLearn",
+      "date": "2024-04",
+      "design": "证据综述",
+      "evidence_level": "review",
+      "indication": "acne",
+      "regimen": "各类口服抗生素（标准剂量）vs 安慰剂",
+      "n": "未核实",
+      "funding": "未核实",
+      "snippet": "efficacy appears similar between individual antibiotics",
+      "claim_supported": "口服抗生素比安慰剂多减少总皮损约 10–24%，炎性皮损约 13–27%；各口服抗生素之间疗效无差异。",
+      "reliability_note": "二手综述，可作为标准剂量对安慰剂效应量的参照；与 SDD 试验在疗程和基线上不同。"
+    },
+    {
+      "source_id": "efficacy-S9",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.592075/full",
+      "title": "Network meta-analysis of acne treatments (Frontiers in Pharmacology 2020)",
+      "authors_year": "Shi, et al. 2020",
+      "journal": "Frontiers in Pharmacology",
+      "date": "2020",
+      "design": "网络 meta 分析（73 项 RCT，约 27,745 例轻中度痤疮）",
+      "evidence_level": "review",
+      "indication": "acne",
+      "regimen": "多种干预，含口服抗生素",
+      "n": "73 RCT / 27,745",
+      "funding": "未核实",
+      "snippet": "OA had more risk in combination treatment with others",
+      "claim_supported": "该 NMA 涵盖口服抗生素，但检索片段未单独给出多西环素各剂量的排名。",
+      "reliability_note": "未能区分 SDD 与标准剂量，对本问题价值有限。"
+    }
+  ],
+  "key_findings": [
+    "存在痤疮中的头对头 RCT：Moore 2015（40 mg MR vs 100 mg vs 安慰剂，16 周，n=662，Galderma）和 Toossi 2008（20 mg bid vs 100 mg，3 个月，n=100，伊朗）。因此'相当'的说法并不完全来自间接比较，但几乎全靠 Moore 一项厂家试验。",
+    "Moore 试验第 16 周炎性皮损平均减少：40 mg 16.1，100 mg 12.9，安慰剂 12.6（据 Shang 2025 转引）。100 mg 活性对照与安慰剂几乎无差别，说明该试验的检测灵敏度不足，'40 mg 与 100 mg 相当'不能外推为'SDD 达到了标准剂量的已知疗效'。",
+    "Quintero 2025 meta 分析只有 2 项研究，第 8、12 周 I²>99%；Shang 2025 NMA 中 40 mg 与 100 mg 的比较 p=0.07，'无显著差异'并非等效证明，且没有预设等效界值。",
+    "SDD 对安慰剂：Skidmore 2003（6 个月）炎性皮损 −50.4% vs −30.2%，差约 20 个百分点，但医生总体评估仅改善 0.4/7。标准剂量口服抗生素对安慰剂约多减少 13–27% 的炎性皮损（TFP 2024）。两组数字的疗程（6 个月 vs 12–16 周）、样本量和结局定义都不同，并列比较属于跨试验拼接。",
+    "Toossi 2008 的摘要只报告 SDD 组内的减少百分比（丘疹 84%、脓疱 90%），检索中未见组间比较数据，不能作为'相当'的证据。"
+  ],
+  "unverified": [
+    "Moore 2015 各组 IGA/成功率的具体百分比，以及原文预设的主要比较（是否非劣效）。",
+    "Moore 试验 40 vs 100 mg 的 p=0.024 是来自原文还是 NMA 作者计算，与原文'comparable'表述的关系。",
+    "Toossi 2008 对照组究竟是 100 mg qd 还是 100 mg bid，以及组间比较结果；与 NCT00388778 是否为同一试验。",
+    "Quintero 2025 纳入的第二项研究身份。",
+    "Shang 2025 NMA 纳入试验数量和清单（是否含中文数据库中的中国试验）。",
+    "Cochrane 关于四环素类/口服抗生素治疗痤疮的综述中 SDD 相关内容（本次未检索到）。",
+    "NCT05399290 的状态与结果。",
+    "所有原文均未能直接抓取（WebFetch DNS 失败，NCBI E-utilities 被代理 403 拒绝）；snippet 来自 WebSearch 返回的摘录文本。"
+  ],
+  "gaps": [
+    "没有独立（非厂家资助）、足够样本、预设非劣效界值的 SDD vs 标准剂量痤疮 RCT。",
+    "没有 SDD 长疗程（如 6 个月）与标准剂量 12–16 周的复发率比较。",
+    "未发现韩国、印度、中国的 SDD vs 标准剂量痤疮 RCT（中国试验可能在 Shang NMA 检索的 CNKI/万方中，未核实）。",
+    "20 mg bid 速释剂型与 40 mg MR 剂型在痤疮中的疗效是否可以互换，缺乏直接比较。"
+  ]
+}
