@@ -1,0 +1,398 @@
+{
+  "sources": [
+    {
+      "id": 1,
+      "key": "skid",
+      "title": "Skidmore R, et al. Effects of subantimicrobial-dose doxycycline in the treatment of moderate acne. Arch Dermatol. 2003;139(4):459-464",
+      "evidence_rows": [
+        "basic-S1",
+        "efficacy-S5",
+        "resistance-S1",
+        "safety_guideline-S1",
+        "relapse-S3"
+      ],
+      "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/479281"
+    },
+    {
+      "id": 2,
+      "key": "moore",
+      "title": "Moore A, et al. Efficacy and safety of subantimicrobial dose, modified-release doxycycline 40 mg versus doxycycline 100 mg versus placebo for the treatment of inflammatory lesions in moderate and severe acne. J Drugs Dermatol. 2015;14(6):581-586",
+      "evidence_rows": [
+        "basic-S2",
+        "efficacy-S1",
+        "resistance-S9",
+        "safety_guideline-S2",
+        "relapse-S9"
+      ],
+      "url": "https://jddonline.com/articles/dermatology/S1545961615P0581X"
+    },
+    {
+      "id": 3,
+      "key": "toossi",
+      "title": "Toossi P, et al. Subantimicrobial-dose doxycycline in the treatment of moderate facial acne. J Drugs Dermatol. 2008;7(12):1149-1152",
+      "evidence_rows": [
+        "efficacy-S2",
+        "basic-S3",
+        "safety_guideline-S5"
+      ],
+      "url": "https://jddonline.com/articles/dermatology/S1545961608P1149X"
+    },
+    {
+      "id": 4,
+      "key": "oracea_pi",
+      "title": "Galderma. ORACEA (doxycycline) 40 mg capsules prescribing information, 2022",
+      "evidence_rows": [
+        "basic-S4"
+      ],
+      "url": "https://www.galderma.com/us/sites/default/files/2022-04/Oracea%20PI.pdf"
+    },
+    {
+      "id": 5,
+      "key": "periostat",
+      "title": "Periostat (doxycycline hyclate 20 mg) package insert / prescribing information",
+      "evidence_rows": [
+        "basic-S5"
+      ],
+      "url": "https://www.drugs.com/pro/periostat.html"
+    },
+    {
+      "id": 6,
+      "key": "gold",
+      "title": "Gold LS, et al. Effective and safe combination therapy for severe acne vulgaris. Cutis. 2010;85(2):94-104",
+      "evidence_rows": [
+        "basic-S9"
+      ],
+      "url": "https://mdedge.com/dermatology/article/67917/acne/effective-and-safe-combination-therapy-severe-acne-vulgaris"
+    },
+    {
+      "id": 7,
+      "key": "shang",
+      "title": "Shang, et al. Comparisons of efficacy and safety of different doses of doxycycline for the treatment of moderate-to-severe acne vulgaris: a systematic review and network meta-analysis. Dermatol Ther. 2025",
+      "evidence_rows": [
+        "efficacy-S6",
+        "safety_guideline-S4"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1155/dth/1713121"
+    },
+    {
+      "id": 8,
+      "key": "quintero",
+      "title": "Arias Quintero DA, García-Perdomo HA. Effectiveness and safety of subantimicrobial dose doxycycline compared to standard dose doxycycline in the treatment of patients with acne: systematic review and meta-analysis. J Pharm Pract Res. 2025",
+      "evidence_rows": [
+        "efficacy-S7",
+        "basic-S13"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/jppr.70017"
+    },
+    {
+      "id": 9,
+      "key": "thomas",
+      "title": "Thomas J, Walker C, et al. Long-term use of subantimicrobial dose doxycycline does not lead to changes in antimicrobial susceptibility. J Periodontol. 2000;71:1472-1483",
+      "evidence_rows": [
+        "resistance-S2"
+      ],
+      "url": "https://independent.academia.edu/JOHNTHOMAS504"
+    },
+    {
+      "id": 10,
+      "key": "walker",
+      "title": "Walker C, Preshaw PM, et al. Subantimicrobial dose doxycycline: effects on intestinal and vaginal flora over 9 months (Newcastle University repository record, 2005)",
+      "evidence_rows": [
+        "resistance-S3"
+      ],
+      "url": "https://eprints.ncl.ac.uk/70546"
+    },
+    {
+      "id": 11,
+      "key": "ccid",
+      "title": "Safety and efficacy of doxycycline in the treatment of rosacea. Clin Cosmet Investig Dermatol (review)",
+      "evidence_rows": [
+        "resistance-S5"
+      ],
+      "url": "https://www.tandfonline.com/doi/full/10.2147/ccid.s4296"
+    },
+    {
+      "id": 12,
+      "key": "parish",
+      "title": "Parish LC, et al. Doxycycline 20-mg tablets administered twice daily as maintenance therapy for the treatment of acne. J Am Acad Dermatol. 2005;52(3 Suppl):P16 (abstract)",
+      "evidence_rows": [
+        "basic-S10",
+        "resistance-S7"
+      ],
+      "url": "https://www.jaad.org/article/S0190-9622(04)02850-6/fulltext"
+    },
+    {
+      "id": 13,
+      "key": "thib06",
+      "title": "Thiboutot D, et al. Adapalene gel 0.1% as maintenance therapy for acne vulgaris: a randomized, controlled, investigator-blind follow-up of a recent combination study. Arch Dermatol. 2006;142(5):597-602",
+      "evidence_rows": [
+        "relapse-S1"
+      ],
+      "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/405282"
+    },
+    {
+      "id": 14,
+      "key": "marg10",
+      "title": "Margolis DJ, et al. Potential association between the oral tetracycline class of antimicrobials used to treat acne and inflammatory bowel disease. Am J Gastroenterol. 2010;105(12):2610-2616",
+      "evidence_rows": [
+        "safety_guideline-S16"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20700115/"
+    },
+    {
+      "id": 15,
+      "key": "taylor23",
+      "title": "Taylor, Margolis, Kwatra, Barbieri. A propensity score matched cohort study identifying the association between acne, acne treatments and IBD. 2023",
+      "evidence_rows": [
+        "safety_guideline-S17"
+      ],
+      "url": "https://www.em-consulte.com/article/1578877/a-propensity-score-matched-cohort-study-identifyin"
+    },
+    {
+      "id": 16,
+      "key": "bhate",
+      "title": "Bhate K, et al. Is there an association between long-term antibiotics for acne and subsequent infection sequelae and antimicrobial resistance? A systematic review. BJGP Open. 2021;5(3)",
+      "evidence_rows": [
+        "safety_guideline-S20"
+      ],
+      "url": "https://bjgpopen.org/node/4134"
+    },
+    {
+      "id": 17,
+      "key": "aad24",
+      "title": "Reynolds RV, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30",
+      "evidence_rows": [
+        "safety_guideline-S9"
+      ],
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    },
+    {
+      "id": 18,
+      "key": "egd26",
+      "title": "Nast A, et al. Update of the EuroGuiDerm evidence-based guideline for the treatment of acne — short version. J Eur Acad Dermatol Venereol. 2026;40:1162-1172",
+      "evidence_rows": [
+        "safety_guideline-S11"
+      ],
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13308670/"
+    },
+    {
+      "id": 19,
+      "key": "walsh",
+      "title": "Walsh TR, Efthimiou J, Dréno B. Systematic review of antibiotic resistance in acne: an increasing topical and oral threat. Lancet Infect Dis. 2016;16(3):e23-e33",
+      "evidence_rows": [
+        "safety_guideline-S15"
+      ],
+      "url": "https://orca.cardiff.ac.uk/102767/1/acne.pdf"
+    },
+    {
+      "id": 20,
+      "key": "pracderm",
+      "title": "Practical Dermatology. Sub-antimicrobial dosing review, April 2007",
+      "evidence_rows": [
+        "basic-S7"
+      ],
+      "url": "https://assets.bmctoday.net/practicaldermatology/pdfs/PD0407AR-Adv.pdf"
+    },
+    {
+      "id": 21,
+      "key": "acticlate",
+      "title": "FDA. Acticlate (doxycycline hyclate) label, NDA 205931, 2014",
+      "evidence_rows": [
+        "basic-S6"
+      ],
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205931Orig1s000LBL.pdf"
+    },
+    {
+      "id": 22,
+      "key": "nct388",
+      "title": "ClinicalTrials.gov NCT00388778: The effect of doxycycline 100mg and doxycycline 20mg in treatment of mild and moderate acne (Shahid Beheshti University)",
+      "evidence_rows": [
+        "basic-S12",
+        "efficacy-S3"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00388778"
+    },
+    {
+      "id": 23,
+      "key": "nct1320",
+      "title": "ClinicalTrials.gov NCT01320033: CD2475/101 40 mg tablets vs placebo and doxycycline 100 mg capsules once daily in acne vulgaris (Galderma R&D)",
+      "evidence_rows": [
+        "basic-S11",
+        "safety_guideline-S3"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01320033"
+    },
+    {
+      "id": 24,
+      "key": "nct5399",
+      "title": "ClinicalTrials.gov NCT05399290: Subantimicrobial doxycycline in acne (protocol/SAP)",
+      "evidence_rows": [
+        "efficacy-S4"
+      ],
+      "url": "https://cdn.clinicaltrials.gov/large-docs/90/NCT05399290/Prot_SAP_ICF_000.pdf"
+    },
+    {
+      "id": 25,
+      "key": "tfp",
+      "title": "CFPC Tools for Practice #364: Oral agents for acne, Part 2. April 2024",
+      "evidence_rows": [
+        "efficacy-S8"
+      ],
+      "url": "https://cfpclearn.ca/wp-content/uploads/2024/04/TFP-364-Oral-agents-for-acne-Part-2-FV-1.pdf"
+    },
+    {
+      "id": 26,
+      "key": "leyden",
+      "title": "Leyden J, et al. Comparison of tazarotene and minocycline maintenance therapies in acne vulgaris. Arch Dermatol. 2006;142:605-612 (NCT00145106)",
+      "evidence_rows": [
+        "relapse-S2"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00145106"
+    },
+    {
+      "id": 27,
+      "key": "poulin",
+      "title": "Poulin Y, et al. A 6-month maintenance therapy with adapalene-benzoyl peroxide gel prevents relapse and continuously improves efficacy among patients with severe acne vulgaris. Br J Dermatol. 2011;164(6):1376-1382",
+      "evidence_rows": [
+        "relapse-S8"
+      ],
+      "url": "https://academic.oup.com/bjd/article/164/6/1376/6644353"
+    },
+    {
+      "id": 28,
+      "key": "cohort26",
+      "title": "Long-term impact of antibiotic exposure duration on recurrence and microbial resistance in moderate-to-severe acne: a real-world retrospective analysis. Front Med. 2026 (reported by EMJ)",
+      "evidence_rows": [
+        "relapse-S4"
+      ],
+      "url": "https://www.emjreviews.com/dermatology/news/long-antibiotic-use-in-acne-linked-to-higher-recurrence-and-resistance/"
+    },
+    {
+      "id": 29,
+      "key": "lai",
+      "title": "Lai J, Barbieri JS. Acne relapse and isotretinoin retrial in patients with acne. JAMA Dermatol. 2025;161(4):367-374 (reported by Dermatology Times)",
+      "evidence_rows": [
+        "relapse-S5"
+      ],
+      "url": "https://www.dermatologytimes.com/view/higher-cumulative-isotretinoin-dose-may-reduce-acne-relapse-study-finds"
+    },
+    {
+      "id": 30,
+      "key": "oracea_hcp",
+      "title": "Galderma. Bacterial resistance and ORACEA (doxycycline) 40 mg capsules (HCP web page)",
+      "evidence_rows": [
+        "resistance-S6"
+      ],
+      "url": "https://www.oracea.com/hcp/bacterial-resistance"
+    },
+    {
+      "id": 31,
+      "key": "rev2017",
+      "title": "Narrative review of subantimicrobial-dose doxycycline in acne and rosacea (MDedge/Cutis PDF, September 2017)",
+      "evidence_rows": [
+        "resistance-S8"
+      ],
+      "url": "https://cdn.mdedge.com/files/s3fs-public/Document/September-2017/074020118.pdf"
+    },
+    {
+      "id": 32,
+      "key": "levy",
+      "title": "Levy RM, Huang EY, Roling D, et al. Effect of antibiotics on the oropharyngeal flora in patients with acne. Arch Dermatol. 2003;139(4):467-471",
+      "evidence_rows": [
+        "resistance-S4"
+      ],
+      "doc_id": "Arch Dermatol 2003;139(4):467-471（子 agent 给出的 PubMed 链接 12707093 实为 Skidmore 2003，故不采用）"
+    },
+    {
+      "id": 33,
+      "key": "actas",
+      "title": "Cutibacterium acnes tetracycline resistance profile in patients with acne vulgaris in a Colombian dermatologic center. Actas Dermosifiliogr. 2021 (and other C. acnes surveys cited with it)",
+      "evidence_rows": [
+        "resistance-S12"
+      ],
+      "url": "https://www.actasdermo.org/en-cutibacterium-acnes-tetracycline-resistance-profile-articulo-S1578219021002444"
+    },
+    {
+      "id": 34,
+      "key": "marg05",
+      "title": "Margolis DJ, et al. Antibiotic treatment of acne may be associated with upper respiratory tract infections. Arch Dermatol. 2005",
+      "evidence_rows": [
+        "resistance-S10",
+        "safety_guideline-S18"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16172310/"
+    },
+    {
+      "id": 35,
+      "key": "layton",
+      "title": "Layton AM, Cunliffe WJ. Phototoxic eruptions due to doxycycline — a dose-related phenomenon. Clin Exp Dermatol. 1993;18(5):425-427",
+      "evidence_rows": [
+        "safety_guideline-S6"
+      ],
+      "url": "https://clinician.nejm.org/doxycycline-associated-phototoxicity-JD199311010000004"
+    },
+    {
+      "id": 36,
+      "key": "bjell",
+      "title": "Bjellerup M. Medium-wave ultraviolet radiation (UVB) is important in doxycycline phototoxicity. Acta Derm Venereol. 1986;66:510-514",
+      "evidence_rows": [
+        "safety_guideline-S7"
+      ],
+      "url": "https://medicaljournals.se/acta/download/10.2340/0001555566510514"
+    },
+    {
+      "id": 37,
+      "key": "marg11",
+      "title": "Margolis DJ, et al. Association of pharyngitis with oral antibiotic use for the treatment of acne. Arch Dermatol. 2011",
+      "evidence_rows": [
+        "safety_guideline-S19"
+      ],
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3673016"
+    },
+    {
+      "id": 38,
+      "key": "c360",
+      "title": "Consultant360. AAD updates care guidelines for management of acne vulgaris. 2024",
+      "evidence_rows": [
+        "safety_guideline-S21"
+      ],
+      "url": "https://www.consultant360.com/exclusive/aad-updates-care-guidelines-management-acne-vulgaris"
+    },
+    {
+      "id": 39,
+      "key": "aad16",
+      "title": "Summary table of Zaenglein AL, et al. AAD guidelines of care for acne vulgaris (2016) (secondary PDF, origin unconfirmed)",
+      "evidence_rows": [
+        "safety_guideline-S10"
+      ],
+      "url": "https://files.constantcontact.com/6c7b7138001/a1254756-c17c-432b-a188-bc0a0071d051.pdf"
+    },
+    {
+      "id": 40,
+      "key": "nice",
+      "title": "NICE. Acne vulgaris: management (NG198). 2021",
+      "evidence_rows": [
+        "relapse-S6"
+      ],
+      "url": "https://nice.org.uk/guidance/ng198"
+    },
+    {
+      "id": 41,
+      "key": "bsw",
+      "title": "BSW Integrated Care Board. Acne guidance, June 2023",
+      "evidence_rows": [
+        "relapse-S7"
+      ],
+      "url": "https://bswtogether.org.uk/medicines/wp-content/uploads/sites/3/2023/06/BSW-Acne-Guidance-Jun-2023-V0.6.pdf"
+    },
+    {
+      "id": 42,
+      "key": "ga18",
+      "title": "Thiboutot DM, et al. Practical management of acne for clinicians: an international consensus from the Global Alliance to Improve Outcomes in Acne. J Am Acad Dermatol. 2018;78:S1-S23",
+      "evidence_rows": [
+        "safety_guideline-S13"
+      ],
+      "url": "https://vivo.weill.cornell.edu/display/pubid29127053"
+    }
+  ]
+}

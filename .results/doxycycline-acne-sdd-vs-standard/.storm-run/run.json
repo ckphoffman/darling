@@ -5,14 +5,35 @@
   "execution_backend": "guarded-agent",
   "topic": "痤疮治疗中多西环素亚抗菌剂量长疗程与标准剂量短疗程的比较",
   "artifact_slug": "storm-research",
-  "phase": "PERSPECTIVES_READY",
-  "status": "running",
+  "phase": "COMPLETE",
+  "status": "complete",
   "attempt": 1,
-  "next_action": "run_interviews",
+  "next_action": null,
   "created_at": "2026-10-17T13:41:48.224771Z",
-  "updated_at": "2026-10-17T13:42:38.546264Z",
-  "artifacts": {},
+  "updated_at": "2026-10-17T14:00:24.694253Z",
+  "artifacts": {
+    "direct_gen_outline.html": {
+      "path": "direct_gen_outline.html",
+      "format": "html",
+      "sha256": "0f8cc366e942b6688b407a0b10415d982d7d3a4d5f8af153f048bfa24c510dbd"
+    },
+    "storm_gen_article.html": {
+      "path": "storm_gen_article.html",
+      "format": "html",
+      "sha256": "8081dc9b522e120e1e8e30f03b24bf893c0906f080f56cf96f13c158e94b10f3"
+    },
+    "storm_gen_article_polished.html": {
+      "path": "storm_gen_article_polished.html",
+      "format": "html",
+      "sha256": "01fafac588ff0cbd5b3bceb9eb22b0bddb90543e42fea77b78934b60e98b7534"
+    },
+    "storm_gen_outline.html": {
+      "path": "storm_gen_outline.html",
+      "format": "html",
+      "sha256": "71f5ad7e5a7855b27714a3121e255bcc43f1349be8f0b9253a409e265ccaba10"
+    }
+  },
   "metrics": {},
   "errors": [],
-  "last_event_id": 3
+  "last_event_id": 12
 }

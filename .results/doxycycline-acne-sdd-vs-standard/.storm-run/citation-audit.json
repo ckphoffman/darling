@@ -1,0 +1,952 @@
+{
+  "article": "storm_gen_article_polished.html",
+  "claims": [
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        1
+      ],
+      "claim": "痤疮 SDD 原型试验：20 mg bid（Periostat）对安慰剂，6 个月，随机 51 例、完成 40 例；炎性皮损减少多于安慰剂；皮肤菌群未见耐药增加；未报告停药后随访",
+      "evidence_note": "basic-S1: \"randomized to receive SD doxycycline (Periostat; CollaGenex Pharmaceuticals Inc, Newtown, Pa) or placebo twice daily for 6 months\"（placebo-RCT，acne） ｜ efficacy-S5: \"50.4% fewer inflammatory lesions vs 30.2% fewer for placebo (P=.04)\"（placebo-RCT，acne） ｜ resistance-S1: \"Forty patients completed 6 months of treatment. ... had no detectable antimicrobial effect on the skin flora, and did not result in any increase in the number or severity of resistant organisms.\"（placebo-RCT，acne） ｜ safety_guideline-S1: \"well tolerated, had no detectable antimicrobial effect on the skin flora, and did not result in any increase in the number or severity of resistant organisms\"（placebo-RCT，acne） ｜ relapse-S3: \"forehead skin flora samples were collected at baseline and at 6 months\"（placebo-RCT，acne）",
+      "source_ids": [
+        1
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        2
+      ],
+      "claim": "三臂 RCT：40 mg MR qd 对 100 mg qd 对安慰剂，16 周，n=662；作者结论为 40 mg 与 100 mg 疗效相当、药物相关不良事件少于 100 mg；检索片段中无耐药结局，也无停药随访",
+      "evidence_note": "basic-S2: \"662 subjects aged 12 years or older received subantimicrobial, MR-DC 40 mg tablets, DC 100 mg capsules, or placebo once daily for 16 weeks.\"（H2H-RCT，acne） ｜ efficacy-S1: \"MR-DC 40 mg demonstrated comparable efficacy and superior safety to DC 100 mg\"（H2H-RCT，acne） ｜ resistance-S9: \"MR-DC 40 mg was also comparable to DC 100 mg in the reduction of the number of inflammatory lesions, and percent reduction of total lesions. Incidence of drug-related AEs for MR-DC 40 mg was similar to placebo and was markedly smaller compared to DC 100 mg.\"（H2H-RCT，acne） ｜ safety_guideline-S2: \"incidence of drug-related AEs for MR-DC 40 mg was similar to placebo and was markedly smaller compared to DC 100 mg\"（H2H-RCT，acne） ｜ relapse-S9: \"MR-DC 40 mg was also comparable to DC 100 mg in the reduction of the number of inflammatory lesions, and percent reduction of total lesions.\"（H2H-RCT，acne）",
+      "source_ids": [
+        2
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        3
+      ],
+      "claim": "伊朗 RCT：20 mg bid 对 100 mg，约 3 个月，n=100；检索到的摘要只给出 SDD 组内变化（丘疹减少 84%、脓疱减少 90%）",
+      "evidence_note": "efficacy-S2: \"84% reduction in number of papules and a 90% reduction in number of pustules\"（H2H-RCT，acne） ｜ basic-S3: \"84% reduction in number of papules and a 90% reduction in number of pustules\"（H2H-RCT，acne） ｜ safety_guideline-S5: \"effective option for moderate acne vulgaris\"（H2H-RCT，acne）",
+      "source_ids": [
+        3
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        4
+      ],
+      "claim": "Oracea 只批准用于成人酒渣鼻炎性皮损，标签注明该剂型未在感染治疗中评估",
+      "evidence_note": "basic-S4: \"This formulation of doxycycline has not been evaluated in the treatment or prevention of infections.\"（regulatory，rosacea）",
+      "source_ids": [
+        4
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        5
+      ],
+      "claim": "20 mg bid 速释剂型的获批适应证是成人牙周炎（刮治和根面平整的辅助）",
+      "evidence_note": "basic-S5: \"PERIOSTAT is indicated for use as an adjunct to scaling and root planing to promote attachment level gain and to reduce pocket depth in patients with adult periodontitis.\"（regulatory，periodontitis）",
+      "source_ids": [
+        5
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        6
+      ],
+      "claim": "标准剂量 RCT 的典型方案：多西环素 100 mg qd 联合 adapalene/BPO 或赋形剂，12 周，n=459",
+      "evidence_note": "basic-S9: \"oral doxycycline 100 mg daily plus either the adapalene 0.1%/benzoyl peroxide 2.5% gel or a vehicle, once daily for 12 weeks\"（placebo-RCT，acne）",
+      "source_ids": [
+        6
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        7
+      ],
+      "claim": "转引 Moore 试验第 16 周炎性皮损平均减少：40 mg 16.1、100 mg 12.9、安慰剂 12.6；NMA 中 40 mg/d 与 100 mg/d 差异不显著；100 mg/d 的不良事件多于 40 mg/d（OR 4.70）",
+      "evidence_note": "efficacy-S6: \"Average decrease in inflammatory lesion count: doxycycline 40 mg group, 16.1; doxycycline 100 mg group, 12.9; placebo group, 12.6\"（review，acne） ｜ safety_guideline-S4: \"100 mg/d doxycycline group showed a significant increase in adverse events versus the 40 mg/d group (OR = 4.70, p < 0.01)\"（review，acne）",
+      "source_ids": [
+        7
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        8
+      ],
+      "claim": "只纳入 2 项 40 mg/d 对 100 mg/d 的研究；第 4 周炎性皮损 MD 0.06（95% CI −0.38 至 0.49），后续时间点异质性极高",
+      "evidence_note": "efficacy-S7: \"mean difference 0.06, 95% CI −0.38 to 0.49\"（review，acne） ｜ basic-S13: \"two studies comparing subantimicrobial (40 mg daily) and antimicrobial (100 mg daily) doses of doxycycline for facial acne\"（review，acne）",
+      "source_ids": [
+        8
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        9
+      ],
+      "claim": "牙周炎患者 4 项研究的汇总：测量对象是口腔龈下菌斑，18、24 个月时各组 MIC 与基线相近",
+      "evidence_note": "resistance-S2: \"The abstract is about oral subgingival plaque, not fecal or vaginal flora. ... organism MIC levels remained constant among all treatment groups at 18 and 24 months compared with baseline.\"（placebo-RCT，periodontitis）",
+      "source_ids": [
+        9
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        10
+      ],
+      "claim": "69 例牙周病患者，20 mg bid 9 个月；3、9 个月粪便与阴道菌群组成和药敏无组间差异；唯一显著差异是给药前基线的粪便多西环素耐药菌计数",
+      "evidence_note": "resistance-S3: \"A total of 69 periodontally diseased subjects were randomized to receive drug or placebo control for a 9-month period. ... The only significant between-group differences were in doxycycline-resistant counts in fecal samples at baseline, before any drug was given. No between-treatment differences were detected at either the 3- or 9-month sample period either in the predominant bacterial taxa present or in their antibiotic susceptibilities.\"（placebo-RCT，periodontitis）",
+      "source_ids": [
+        10
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        11
+      ],
+      "claim": "综述转述：34 例接受 40 mg 多西环素 9 个月者的龈下样本未见抗菌选择压力，龈下菌群药敏未改变",
+      "evidence_note": "resistance-S5: \"in 34 subjects treated for nine months with 40 mg anti-inflammatory-dose doxycycline, subgingival (gum-pocket) samples showed no sign of antimicrobial selection pressure. It also did not alter the antibiotic susceptibility of subgingival flora, and cross-resistance was not observed.\"（review，rosacea）",
+      "source_ids": [
+        11
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        12
+      ],
+      "claim": "无对照的会议摘要：先 100 mg/d、后改 20 mg bid 维持至第 16 周；文中以“血药浓度达不到 MIC”论证长期使用不产生耐药",
+      "evidence_note": "basic-S10: \"most patients treated with SD Doxy had a similar or lower total lesion count of papules plus pustules from the week-8 visit to the week-16 visit\"（case-series，acne） ｜ resistance-S7: \"long-term use of SD Doxy is not associated with antibiotic resistance because the doxycycline plasma levels do not reach the minimal inhibitory concentration at this dose\"（pharmacology/PK，acne）",
+      "source_ids": [
+        12
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        13
+      ],
+      "claim": "12 周多西环素联合 adapalene 后停用多西环素，再随机分到 adapalene 或赋形剂维持 16 周；未能保持≥50%改善的比例为赋形剂组 46%、adapalene 组 25%",
+      "evidence_note": "relapse-S1: \"Eligible subjects completing the combination study were rerandomized consecutively in a 1:1 ratio to receive either adapalene gel, 0.1%, or its gel vehicle once daily in the evening for an additional 16 weeks.\"（placebo-RCT，acne）",
+      "source_ids": [
+        13
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        14
+      ],
+      "claim": "THIN 队列 94,487 例：多西环素暴露者克罗恩病风险约 2.25 倍，结局罕见",
+      "evidence_note": "safety_guideline-S16: \"had a 2.25-fold greater risk of developing Crohn's disease than did acne patients not exposed to antibiotics\"（cohort，acne）",
+      "source_ids": [
+        14
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        15
+      ],
+      "claim": "倾向评分匹配队列：口服四环素类与异维 A 酸暴露均与 IBD 无显著关联，痤疮本身与 IBD 相关（OR 1.42）",
+      "evidence_note": "safety_guideline-S17: \"no statistically significant association between oral tetracycline-class antibiotic or isotretinoin exposure and IBD\"（cohort，acne）",
+      "source_ids": [
+        15
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        16
+      ],
+      "claim": "系统综述纳入 5 项研究，多数高偏倚风险，结论是口服抗生素与后续感染或耐药后果的关系缺乏高质量证据",
+      "evidence_note": "safety_guideline-S20: \"lack of high quality evidence on the relationship between oral antibiotics for acne treatment and subsequent AMR sequelae\"（review，acne）",
+      "source_ids": [
+        16
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        17
+      ],
+      "claim": "AAD 2024：口服多西环素为强推荐；系统性抗生素应尽量短，“typically no more than 3-4 months, as recommended by international guidelines”",
+      "evidence_note": "safety_guideline-S9: \"systemic antibiotic use should be limited to the shortest duration possible, typically no more than 3-4 months, as recommended by international guidelines\"（guideline-position，acne）",
+      "source_ids": [
+        17
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        18
+      ],
+      "claim": "EuroGuiDerm 2026：以 strong consensus 建议全身抗生素限于 3 个月；痤疮试验多为 12 周；借用其他适应证的长期数据未发现超过 3 个月时特别相关的不良事件；限制理由写明为耐药",
+      "evidence_note": "safety_guideline-S11: \"A strong consensus was provided for recommending to limit use of systemic antibiotics in patients with acne to 3 months.\"（guideline-position，acne）",
+      "source_ids": [
+        18
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        19
+      ],
+      "claim": "耐药系统综述：口服抗生素只与外用维 A 酸和/或 BPO 合用，“ideally for no longer than 3 months”",
+      "evidence_note": "safety_guideline-S15: \"only with a topical retinoid, benzoyl peroxide, or their combination, and ideally for no longer than 3 months\"（review，acne）",
+      "source_ids": [
+        19
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        20
+      ],
+      "claim": "SDD 按血药浓度低于抗菌阈值定义（该综述给出 1.0 µg/mL），不是一个固定剂量",
+      "evidence_note": "basic-S7: \"the antimicrobial threshold plasma concentration for doxycycline is 1.0µg/mL\"（review，other）",
+      "source_ids": [
+        20
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        21
+      ],
+      "claim": "标准剂量多西环素标签中的痤疮适应证是重度痤疮的辅助治疗",
+      "evidence_note": "basic-S6: \"adjunctive therapy in severe acne\"（regulatory，acne）",
+      "source_ids": [
+        21
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        22
+      ],
+      "claim": "注册记录写的是 20 mg bid 对比 daily doxycycline 100 mg，没有张贴结果",
+      "evidence_note": "basic-S12: \"compares the safety and efficacy of twice daily subantimicrobial dose doxycycline 20mg with daily doxycycline 100mg in treatment of mild and moderate Acne\"（H2H-RCT，acne） ｜ efficacy-S3: \"The Effect of Doxycycline 100mg and Doxycycline 20mg in Treatment of Mild and Moderate Acne\"（H2H-RCT，acne）",
+      "source_ids": [
+        22
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        23
+      ],
+      "claim": "Moore 2015 对应的注册记录由 Galderma 发起；注册结果中“至少一次不良事件”为 63/216、83/223、89/222（40 mg、100 mg、安慰剂）",
+      "evidence_note": "basic-S11: \"Placebo Controlled Efficacy and Safety Study of CD2475/101 40 mg Tablets vs. Placebo and Doxycycline 100 mg Capsules Once Daily in the Treatment of Inflammatory Lesions of Acne Vulgaris\"（H2H-RCT，acne） ｜ safety_guideline-S3: \"Number of participants with at least one AE: CD2475/101 40 mg 63 of 216; Doxycycline 100 mg 83 of 223; Placebo 89 of 222\"（H2H-RCT，acne）",
+      "source_ids": [
+        23
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        24
+      ],
+      "claim": "已注册的青少年 SDD 对标准剂量非盲头对头试验（检索摘要：20 mg bid 对 100 mg bid，12 周），结果未知",
+      "evidence_note": "efficacy-S4: \"Subantimicrobial Doxycycline in Acne\"（H2H-RCT，acne）",
+      "source_ids": [
+        24
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        25
+      ],
+      "claim": "标准剂量口服抗生素比安慰剂多减少炎性皮损约 13–27%，各口服抗生素之间疗效相近",
+      "evidence_note": "efficacy-S8: \"efficacy appears similar between individual antibiotics\"（review，acne）",
+      "source_ids": [
+        25
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        26
+      ],
+      "claim": "米诺环素加 tazarotene 诱导后，单用 tazarotene、单用米诺环素、两者联用三种维持方案到第 24 周各组>80%仍维持改善；没有全部停药的对照组",
+      "evidence_note": "relapse-S2: \"all regimens were effective in sustaining improvements in acne\"（H2H-RCT，acne）",
+      "source_ids": [
+        26
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        27
+      ],
+      "claim": "重度痤疮初始治疗后用 adapalene-BPO 维持 6 个月可减少复发（只获得标题与设计，诱导药物未确认）",
+      "evidence_note": "relapse-S8: \"A 6-month maintenance therapy with adapalene-benzoyl peroxide gel prevents relapse and continuously improves efficacy among patients with severe acne vulgaris\"（placebo-RCT，acne）",
+      "source_ids": [
+        27
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        28
+      ],
+      "claim": "单中心回顾性队列 n=240：12 个月复发率 6–12 周组 23.8%、13–16 周组 35.0%、17–24 周组 46.3%（标准剂量多西环素或米诺环素）",
+      "evidence_note": "relapse-S4: \"Recurrence within 12 months was 23.8% in the short-term group, 35.0% in the standard-term group, and 46.3% among those receiving prolonged treatment.\"（cohort，acne）",
+      "source_ids": [
+        28
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        29
+      ],
+      "claim": "完成≥4 个月异维 A 酸的 19,907 例中，22.5% 因复发需要再次系统治疗，8.2% 接受第二个异维 A 酸疗程",
+      "evidence_note": "relapse-S5: \"22.5% experienced acne relapse requiring additional systemic treatment, while 8.2% required a second course of isotretinoin\"（cohort，acne）",
+      "source_ids": [
+        29
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        30
+      ],
+      "claim": "厂家页面称“9 个月临床研究未见细菌耐药证据”，未标出处与取样部位；同时写明超过 16 周的疗效与超过 9 个月的安全性尚未确立",
+      "evidence_note": "resistance-S6: \"no evidence of bacterial resistance in a 9-month clinical study ... the efficacy of ORACEA treatment beyond 16 weeks and safety beyond 9 months have not been established\"（regulatory，rosacea）",
+      "source_ids": [
+        30
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        31
+      ],
+      "claim": "综述把 SDD“对 P. acnes 及其他共生菌无抗菌活性、无耐药出现”写成既定结论",
+      "evidence_note": "resistance-S8: \"doxycycline at subantimicrobial doses has induced clinical responses in disorders such as acne vulgaris and rosacea, without antibiotic activity against P acnes and other commensal organisms and without emergence of antibiotic resistance\"（review，acne）",
+      "source_ids": [
+        31
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        32
+      ],
+      "claim": "横断面研究：口服抗生素（标准剂量）治疗痤疮者口咽 S. pyogenes 阳性 33% 对 10%，使用者分离株 85% 对至少一种四环素耐药，非使用者 20%",
+      "evidence_note": "resistance-S4: \"Antibiotic users had a markedly higher rate of oropharyngeal S. pyogenes, with positive cultures in 33% of users versus 10% of non-users. Most of those users' isolates (85%) resisted at least one tetracycline, compared with 20% of non-users' isolates.\"（cohort，acne）",
+      "source_ids": [
+        32
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        33
+      ],
+      "claim": "横断面 C. acnes 耐药调查：多西环素耐药率哥伦比亚 5.43%、另一炎性痤疮队列 6.3%、以色列 19.4%，均不区分剂量",
+      "evidence_note": "resistance-S12: \"A Colombian study found 5.43% of the strains were resistant to doxycycline. A recent study of inflammatory acne found a reported resistance among only 6.3% of isolates. An Israeli study found doxycycline resistance at 19.4%\"（case-series，acne）",
+      "source_ids": [
+        33
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        34
+      ],
+      "claim": "GPRD 队列 118,496 例痤疮患者，71.7% 用过外用或口服抗生素；使用抗生素者上呼吸道感染风险约 2.15 倍，口服与外用无显著差异",
+      "evidence_note": "resistance-S10: \"Among 118,496 patients with acne, 71.7% received a topical or oral antibiotic (tetracyclines, erythromycin, or clindamycin)\"（cohort，acne） ｜ safety_guideline-S18: \"antibiotics should be used only as long as you need to\"（cohort，acne）",
+      "source_ids": [
+        34
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        35
+      ],
+      "claim": "106 例痤疮患者服多西环素 150 或 200 mg/d，35.8% 出现光敏性皮疹；二手来源给出的分剂量率为约 20% 与约 42%",
+      "evidence_note": "safety_guideline-S6: \"Thirty-eight of the 106 patients (35.8%) developed a photosensitive eruption that occurred only on sun-exposed sites.\"（cohort，acne）",
+      "source_ids": [
+        35
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        36
+      ],
+      "claim": "小鼠尾部光毒性模型，结论是 UVB 增强多西环素光毒性，不是临床剂量-反应研究",
+      "evidence_note": "safety_guideline-S7: \"Medium-wave Ultraviolet Radiation (UVB) is important in Doxycycline Phototoxicity\"（in-vitro，other）",
+      "source_ids": [
+        36
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        37
+      ],
+      "claim": "口服抗生素与咽炎相关（aOR 4.34，95% CI 1.51–12.47），A 组链球菌定植率<1%",
+      "evidence_note": "safety_guideline-S19: \"less than 1% of subjects were colonized by Group A Streptococcus\"（cohort，acne）",
+      "source_ids": [
+        37
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        38
+      ],
+      "claim": "二手报道：AAD 2024 的系统综述只纳入随机对照试验",
+      "evidence_note": "safety_guideline-S21: \"the systematic review included only randomized clinical trials\"（guideline-position，acne）",
+      "source_ids": [
+        38
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        39
+      ],
+      "claim": "AAD 2016 汇总表把 SDD（20 mg bid 或 40 mg qd）列为可选方案，同样受 3–4 个月限制；替代疗法不合适时允许在随访下延长",
+      "evidence_note": "safety_guideline-S10: \"if alternative therapies are inappropriate, a longer duration is acceptable with consistent follow-up and re-evaluations\"（guideline-position，acne）",
+      "source_ids": [
+        39
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        40
+      ],
+      "claim": "NICE 对需要维持治疗者建议考虑 adapalene/BPO 固定复方外用维持",
+      "evidence_note": "relapse-S6: \"consider fixed combination adapalene/BPO [Epiduo®] as maintenance treatment\"（guideline-position，acne）",
+      "source_ids": [
+        40
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        41
+      ],
+      "claim": "地方指南：含抗生素（外用或口服）的方案只在特殊情况下继续超过 6 个月",
+      "evidence_note": "relapse-S7: \"only continue a treatment option that includes antibiotic (topical/oral) for > 6 months in exceptional circumstances\"（guideline-position，acne）",
+      "source_ids": [
+        41
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "kept; snippet from WebSearch text, not checked against the original",
+      "citation_ids": [
+        42
+      ],
+      "claim": "Global Alliance 共识明确定位于证据稀少、需要临床解读的领域，属于专家意见",
+      "evidence_note": "safety_guideline-S13: \"emphasis on areas where the evidence base may be sparse or need interpretation for daily practice\"（guideline-position，acne）",
+      "source_ids": [
+        42
+      ],
+      "support_status": "supported"
+    }
+  ],
+  "errors": [],
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "evidence_rows": [
+        "basic-S1",
+        "efficacy-S5",
+        "resistance-S1",
+        "safety_guideline-S1",
+        "relapse-S3"
+      ],
+      "id": 1,
+      "key": "skid",
+      "title": "Skidmore R, et al. Effects of subantimicrobial-dose doxycycline in the treatment of moderate acne. Arch Dermatol. 2003;139(4):459-464",
+      "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/479281"
+    },
+    {
+      "evidence_rows": [
+        "basic-S2",
+        "efficacy-S1",
+        "resistance-S9",
+        "safety_guideline-S2",
+        "relapse-S9"
+      ],
+      "id": 2,
+      "key": "moore",
+      "title": "Moore A, et al. Efficacy and safety of subantimicrobial dose, modified-release doxycycline 40 mg versus doxycycline 100 mg versus placebo for the treatment of inflammatory lesions in moderate and severe acne. J Drugs Dermatol. 2015;14(6):581-586",
+      "url": "https://jddonline.com/articles/dermatology/S1545961615P0581X"
+    },
+    {
+      "evidence_rows": [
+        "efficacy-S2",
+        "basic-S3",
+        "safety_guideline-S5"
+      ],
+      "id": 3,
+      "key": "toossi",
+      "title": "Toossi P, et al. Subantimicrobial-dose doxycycline in the treatment of moderate facial acne. J Drugs Dermatol. 2008;7(12):1149-1152",
+      "url": "https://jddonline.com/articles/dermatology/S1545961608P1149X"
+    },
+    {
+      "evidence_rows": [
+        "basic-S4"
+      ],
+      "id": 4,
+      "key": "oracea_pi",
+      "title": "Galderma. ORACEA (doxycycline) 40 mg capsules prescribing information, 2022",
+      "url": "https://www.galderma.com/us/sites/default/files/2022-04/Oracea%20PI.pdf"
+    },
+    {
+      "evidence_rows": [
+        "basic-S5"
+      ],
+      "id": 5,
+      "key": "periostat",
+      "title": "Periostat (doxycycline hyclate 20 mg) package insert / prescribing information",
+      "url": "https://www.drugs.com/pro/periostat.html"
+    },
+    {
+      "evidence_rows": [
+        "basic-S9"
+      ],
+      "id": 6,
+      "key": "gold",
+      "title": "Gold LS, et al. Effective and safe combination therapy for severe acne vulgaris. Cutis. 2010;85(2):94-104",
+      "url": "https://mdedge.com/dermatology/article/67917/acne/effective-and-safe-combination-therapy-severe-acne-vulgaris"
+    },
+    {
+      "evidence_rows": [
+        "efficacy-S6",
+        "safety_guideline-S4"
+      ],
+      "id": 7,
+      "key": "shang",
+      "title": "Shang, et al. Comparisons of efficacy and safety of different doses of doxycycline for the treatment of moderate-to-severe acne vulgaris: a systematic review and network meta-analysis. Dermatol Ther. 2025",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1155/dth/1713121"
+    },
+    {
+      "evidence_rows": [
+        "efficacy-S7",
+        "basic-S13"
+      ],
+      "id": 8,
+      "key": "quintero",
+      "title": "Arias Quintero DA, García-Perdomo HA. Effectiveness and safety of subantimicrobial dose doxycycline compared to standard dose doxycycline in the treatment of patients with acne: systematic review and meta-analysis. J Pharm Pract Res. 2025",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/jppr.70017"
+    },
+    {
+      "evidence_rows": [
+        "resistance-S2"
+      ],
+      "id": 9,
+      "key": "thomas",
+      "title": "Thomas J, Walker C, et al. Long-term use of subantimicrobial dose doxycycline does not lead to changes in antimicrobial susceptibility. J Periodontol. 2000;71:1472-1483",
+      "url": "https://independent.academia.edu/JOHNTHOMAS504"
+    },
+    {
+      "evidence_rows": [
+        "resistance-S3"
+      ],
+      "id": 10,
+      "key": "walker",
+      "title": "Walker C, Preshaw PM, et al. Subantimicrobial dose doxycycline: effects on intestinal and vaginal flora over 9 months (Newcastle University repository record, 2005)",
+      "url": "https://eprints.ncl.ac.uk/70546"
+    },
+    {
+      "evidence_rows": [
+        "resistance-S5"
+      ],
+      "id": 11,
+      "key": "ccid",
+      "title": "Safety and efficacy of doxycycline in the treatment of rosacea. Clin Cosmet Investig Dermatol (review)",
+      "url": "https://www.tandfonline.com/doi/full/10.2147/ccid.s4296"
+    },
+    {
+      "evidence_rows": [
+        "basic-S10",
+        "resistance-S7"
+      ],
+      "id": 12,
+      "key": "parish",
+      "title": "Parish LC, et al. Doxycycline 20-mg tablets administered twice daily as maintenance therapy for the treatment of acne. J Am Acad Dermatol. 2005;52(3 Suppl):P16 (abstract)",
+      "url": "https://www.jaad.org/article/S0190-9622(04)02850-6/fulltext"
+    },
+    {
+      "evidence_rows": [
+        "relapse-S1"
+      ],
+      "id": 13,
+      "key": "thib06",
+      "title": "Thiboutot D, et al. Adapalene gel 0.1% as maintenance therapy for acne vulgaris: a randomized, controlled, investigator-blind follow-up of a recent combination study. Arch Dermatol. 2006;142(5):597-602",
+      "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/405282"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S16"
+      ],
+      "id": 14,
+      "key": "marg10",
+      "title": "Margolis DJ, et al. Potential association between the oral tetracycline class of antimicrobials used to treat acne and inflammatory bowel disease. Am J Gastroenterol. 2010;105(12):2610-2616",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20700115/"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S17"
+      ],
+      "id": 15,
+      "key": "taylor23",
+      "title": "Taylor, Margolis, Kwatra, Barbieri. A propensity score matched cohort study identifying the association between acne, acne treatments and IBD. 2023",
+      "url": "https://www.em-consulte.com/article/1578877/a-propensity-score-matched-cohort-study-identifyin"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S20"
+      ],
+      "id": 16,
+      "key": "bhate",
+      "title": "Bhate K, et al. Is there an association between long-term antibiotics for acne and subsequent infection sequelae and antimicrobial resistance? A systematic review. BJGP Open. 2021;5(3)",
+      "url": "https://bjgpopen.org/node/4134"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S9"
+      ],
+      "id": 17,
+      "key": "aad24",
+      "title": "Reynolds RV, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30",
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S11"
+      ],
+      "id": 18,
+      "key": "egd26",
+      "title": "Nast A, et al. Update of the EuroGuiDerm evidence-based guideline for the treatment of acne — short version. J Eur Acad Dermatol Venereol. 2026;40:1162-1172",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13308670/"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S15"
+      ],
+      "id": 19,
+      "key": "walsh",
+      "title": "Walsh TR, Efthimiou J, Dréno B. Systematic review of antibiotic resistance in acne: an increasing topical and oral threat. Lancet Infect Dis. 2016;16(3):e23-e33",
+      "url": "https://orca.cardiff.ac.uk/102767/1/acne.pdf"
+    },
+    {
+      "evidence_rows": [
+        "basic-S7"
+      ],
+      "id": 20,
+      "key": "pracderm",
+      "title": "Practical Dermatology. Sub-antimicrobial dosing review, April 2007",
+      "url": "https://assets.bmctoday.net/practicaldermatology/pdfs/PD0407AR-Adv.pdf"
+    },
+    {
+      "evidence_rows": [
+        "basic-S6"
+      ],
+      "id": 21,
+      "key": "acticlate",
+      "title": "FDA. Acticlate (doxycycline hyclate) label, NDA 205931, 2014",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205931Orig1s000LBL.pdf"
+    },
+    {
+      "evidence_rows": [
+        "basic-S12",
+        "efficacy-S3"
+      ],
+      "id": 22,
+      "key": "nct388",
+      "title": "ClinicalTrials.gov NCT00388778: The effect of doxycycline 100mg and doxycycline 20mg in treatment of mild and moderate acne (Shahid Beheshti University)",
+      "url": "https://clinicaltrials.gov/study/NCT00388778"
+    },
+    {
+      "evidence_rows": [
+        "basic-S11",
+        "safety_guideline-S3"
+      ],
+      "id": 23,
+      "key": "nct1320",
+      "title": "ClinicalTrials.gov NCT01320033: CD2475/101 40 mg tablets vs placebo and doxycycline 100 mg capsules once daily in acne vulgaris (Galderma R&D)",
+      "url": "https://clinicaltrials.gov/study/NCT01320033"
+    },
+    {
+      "evidence_rows": [
+        "efficacy-S4"
+      ],
+      "id": 24,
+      "key": "nct5399",
+      "title": "ClinicalTrials.gov NCT05399290: Subantimicrobial doxycycline in acne (protocol/SAP)",
+      "url": "https://cdn.clinicaltrials.gov/large-docs/90/NCT05399290/Prot_SAP_ICF_000.pdf"
+    },
+    {
+      "evidence_rows": [
+        "efficacy-S8"
+      ],
+      "id": 25,
+      "key": "tfp",
+      "title": "CFPC Tools for Practice #364: Oral agents for acne, Part 2. April 2024",
+      "url": "https://cfpclearn.ca/wp-content/uploads/2024/04/TFP-364-Oral-agents-for-acne-Part-2-FV-1.pdf"
+    },
+    {
+      "evidence_rows": [
+        "relapse-S2"
+      ],
+      "id": 26,
+      "key": "leyden",
+      "title": "Leyden J, et al. Comparison of tazarotene and minocycline maintenance therapies in acne vulgaris. Arch Dermatol. 2006;142:605-612 (NCT00145106)",
+      "url": "https://clinicaltrials.gov/study/NCT00145106"
+    },
+    {
+      "evidence_rows": [
+        "relapse-S8"
+      ],
+      "id": 27,
+      "key": "poulin",
+      "title": "Poulin Y, et al. A 6-month maintenance therapy with adapalene-benzoyl peroxide gel prevents relapse and continuously improves efficacy among patients with severe acne vulgaris. Br J Dermatol. 2011;164(6):1376-1382",
+      "url": "https://academic.oup.com/bjd/article/164/6/1376/6644353"
+    },
+    {
+      "evidence_rows": [
+        "relapse-S4"
+      ],
+      "id": 28,
+      "key": "cohort26",
+      "title": "Long-term impact of antibiotic exposure duration on recurrence and microbial resistance in moderate-to-severe acne: a real-world retrospective analysis. Front Med. 2026 (reported by EMJ)",
+      "url": "https://www.emjreviews.com/dermatology/news/long-antibiotic-use-in-acne-linked-to-higher-recurrence-and-resistance/"
+    },
+    {
+      "evidence_rows": [
+        "relapse-S5"
+      ],
+      "id": 29,
+      "key": "lai",
+      "title": "Lai J, Barbieri JS. Acne relapse and isotretinoin retrial in patients with acne. JAMA Dermatol. 2025;161(4):367-374 (reported by Dermatology Times)",
+      "url": "https://www.dermatologytimes.com/view/higher-cumulative-isotretinoin-dose-may-reduce-acne-relapse-study-finds"
+    },
+    {
+      "evidence_rows": [
+        "resistance-S6"
+      ],
+      "id": 30,
+      "key": "oracea_hcp",
+      "title": "Galderma. Bacterial resistance and ORACEA (doxycycline) 40 mg capsules (HCP web page)",
+      "url": "https://www.oracea.com/hcp/bacterial-resistance"
+    },
+    {
+      "evidence_rows": [
+        "resistance-S8"
+      ],
+      "id": 31,
+      "key": "rev2017",
+      "title": "Narrative review of subantimicrobial-dose doxycycline in acne and rosacea (MDedge/Cutis PDF, September 2017)",
+      "url": "https://cdn.mdedge.com/files/s3fs-public/Document/September-2017/074020118.pdf"
+    },
+    {
+      "doc_id": "Arch Dermatol 2003;139(4):467-471（子 agent 给出的 PubMed 链接 12707093 实为 Skidmore 2003，故不采用）",
+      "evidence_rows": [
+        "resistance-S4"
+      ],
+      "id": 32,
+      "key": "levy",
+      "title": "Levy RM, Huang EY, Roling D, et al. Effect of antibiotics on the oropharyngeal flora in patients with acne. Arch Dermatol. 2003;139(4):467-471"
+    },
+    {
+      "evidence_rows": [
+        "resistance-S12"
+      ],
+      "id": 33,
+      "key": "actas",
+      "title": "Cutibacterium acnes tetracycline resistance profile in patients with acne vulgaris in a Colombian dermatologic center. Actas Dermosifiliogr. 2021 (and other C. acnes surveys cited with it)",
+      "url": "https://www.actasdermo.org/en-cutibacterium-acnes-tetracycline-resistance-profile-articulo-S1578219021002444"
+    },
+    {
+      "evidence_rows": [
+        "resistance-S10",
+        "safety_guideline-S18"
+      ],
+      "id": 34,
+      "key": "marg05",
+      "title": "Margolis DJ, et al. Antibiotic treatment of acne may be associated with upper respiratory tract infections. Arch Dermatol. 2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16172310/"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S6"
+      ],
+      "id": 35,
+      "key": "layton",
+      "title": "Layton AM, Cunliffe WJ. Phototoxic eruptions due to doxycycline — a dose-related phenomenon. Clin Exp Dermatol. 1993;18(5):425-427",
+      "url": "https://clinician.nejm.org/doxycycline-associated-phototoxicity-JD199311010000004"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S7"
+      ],
+      "id": 36,
+      "key": "bjell",
+      "title": "Bjellerup M. Medium-wave ultraviolet radiation (UVB) is important in doxycycline phototoxicity. Acta Derm Venereol. 1986;66:510-514",
+      "url": "https://medicaljournals.se/acta/download/10.2340/0001555566510514"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S19"
+      ],
+      "id": 37,
+      "key": "marg11",
+      "title": "Margolis DJ, et al. Association of pharyngitis with oral antibiotic use for the treatment of acne. Arch Dermatol. 2011",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3673016"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S21"
+      ],
+      "id": 38,
+      "key": "c360",
+      "title": "Consultant360. AAD updates care guidelines for management of acne vulgaris. 2024",
+      "url": "https://www.consultant360.com/exclusive/aad-updates-care-guidelines-management-acne-vulgaris"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S10"
+      ],
+      "id": 39,
+      "key": "aad16",
+      "title": "Summary table of Zaenglein AL, et al. AAD guidelines of care for acne vulgaris (2016) (secondary PDF, origin unconfirmed)",
+      "url": "https://files.constantcontact.com/6c7b7138001/a1254756-c17c-432b-a188-bc0a0071d051.pdf"
+    },
+    {
+      "evidence_rows": [
+        "relapse-S6"
+      ],
+      "id": 40,
+      "key": "nice",
+      "title": "NICE. Acne vulgaris: management (NG198). 2021",
+      "url": "https://nice.org.uk/guidance/ng198"
+    },
+    {
+      "evidence_rows": [
+        "relapse-S7"
+      ],
+      "id": 41,
+      "key": "bsw",
+      "title": "BSW Integrated Care Board. Acne guidance, June 2023",
+      "url": "https://bswtogether.org.uk/medicines/wp-content/uploads/sites/3/2023/06/BSW-Acne-Guidance-Jun-2023-V0.6.pdf"
+    },
+    {
+      "evidence_rows": [
+        "safety_guideline-S13"
+      ],
+      "id": 42,
+      "key": "ga18",
+      "title": "Thiboutot DM, et al. Practical management of acne for clinicians: an international consensus from the Global Alliance to Improve Outcomes in Acne. J Am Acad Dermatol. 2018;78:S1-S23",
+      "url": "https://vivo.weill.cornell.edu/display/pubid29127053"
+    }
+  ],
+  "used_citation_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+  ],
+  "valid": true
+}
