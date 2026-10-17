@@ -1,0 +1,16 @@
+{
+  "topic": "痤疮治疗中多西环素亚抗菌剂量（SDD）长疗程与标准剂量短疗程的比较",
+  "language": "zh-CN（保留英文术语）",
+  "audience": "临床医生 / 循证医学读者",
+  "comparison_objects_provisional": {
+    "SDD": "多西环素亚抗菌剂量：盐酸多西环素 20 mg bid（速释，Periostat），或 40 mg 每日一次改良释放剂型（30 mg 速释 + 10 mg 迟释，Oracea）；疗程 16 周至 6 个月及以上。由 Basic fact writer 核实各研究实际用法",
+    "standard": "多西环素标准抗菌剂量：50–200 mg/d，常用 100 mg/d（或首日 200 mg）；指南建议疗程约 3–4 个月（12–16 周），并联合外用维 A 酸和/或过氧化苯甲酰",
+    "condition": "寻常痤疮（acne vulgaris）。酒渣鼻、牙周炎的证据单独标注，不作为痤疮的直接证据"
+  },
+  "dimensions": ["疗效", "复发", "耐药", "安全性", "临床选择"],
+  "evidence_hierarchy": ["头对头 RCT", "安慰剂对照 RCT", "队列研究", "病例系列"],
+  "guidelines_role": "指南与专家共识作为需要拆解的立场，不作为证据；追查其引用的原始研究",
+  "source_boundary": "公开网络检索（PubMed、期刊网站、ClinicalTrials.gov、监管文件、指南全文）",
+  "output_boundary": ".results/doxycycline-acne-sdd-vs-standard/",
+  "retrieval": "Agent-led web search, host-ranked trace (experimental)"
+}
