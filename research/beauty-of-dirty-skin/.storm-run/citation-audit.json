@@ -1,0 +1,2476 @@
+{
+  "article": "storm_gen_article_polished.html",
+  "claims": [
+    {
+      "action": "keep",
+      "citation_ids": [
+        1
+      ],
+      "claim": "英文原书由 Hachette 旗下出版，出版方书目页标注 On Sale Apr 17, 2018",
+      "evidence_grade": "primary",
+      "evidence_note": "PUB（primary）：出版社书目页文案与 On Sale 字段",
+      "number_origin": "PUB: 出版社书目页文案与 On Sale 字段",
+      "source_ids": [
+        1
+      ],
+      "source_keys": [
+        "PUB"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        1
+      ],
+      "claim": "出版方文案把痤疮、玫瑰痤疮、银屑病、湿疹和早衰统称为 “manifestations of irregularities rooted in the gut”，并称微生物经由大脑与皮肤“对话”",
+      "evidence_grade": "primary",
+      "evidence_note": "PUB（primary）：出版社书目页文案与 On Sale 字段",
+      "number_origin": "PUB: 出版社书目页文案与 On Sale 字段",
+      "source_ids": [
+        1
+      ],
+      "source_keys": [
+        "PUB"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        1
+      ],
+      "claim": "出版方书目页文案中没有任何百分比，也没有“皮肤屏障”的书名框架",
+      "evidence_grade": "primary",
+      "evidence_note": "PUB（primary）：出版社书目页文案与 On Sale 字段",
+      "number_origin": "PUB: 出版社书目页文案与 On Sale 字段",
+      "source_ids": [
+        1
+      ],
+      "source_keys": [
+        "PUB"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "label 未证实",
+      "citation_ids": [
+        2
+      ],
+      "claim": "中文版在豆瓣条目中显示为北京科学技术出版社出版，信息栏没有“原作名”字段（未证实）",
+      "evidence_grade": "secondary",
+      "evidence_note": "DOUBAN（secondary）：豆瓣条目信息栏与内容简介",
+      "number_origin": "",
+      "source_ids": [
+        2
+      ],
+      "source_keys": [
+        "DOUBAN"
+      ],
+      "support_status": "unverified"
+    },
+    {
+      "action": "label 未证实",
+      "citation_ids": [
+        2
+      ],
+      "claim": "中文版简介把全书改写成“改善肠道状态才是改善皮肤屏障的关键”，并称作者“证实饮食会影响皮肤”、是“肌肤断糖理论的创始人”（未证实，仅见聚合站转载的出版方简介）",
+      "evidence_grade": "secondary",
+      "evidence_note": "DOUBAN（secondary）：豆瓣条目信息栏与内容简介",
+      "number_origin": "",
+      "source_ids": [
+        2
+      ],
+      "source_keys": [
+        "DOUBAN"
+      ],
+      "support_status": "unverified"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        3
+      ],
+      "claim": "作者 2010 年的综述写道 “Compelling evidence exists that high glycemic load diets may exacerbate acne”，同一摘要又承认研究 “limited by the lack of randomized controlled trials”",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2010（primary）：PMID 20338665 摘要",
+      "number_origin": "BOWE2010: PMID 20338665 摘要",
+      "source_ids": [
+        3
+      ],
+      "source_keys": [
+        "BOWE2010"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        4
+      ],
+      "claim": "该试验低 GL 组病灶减少更多，但干预组同时多减了约 3 kg 体重，作者自己写道需要研究 “isolate the independent effects of weight loss”",
+      "evidence_grade": "primary",
+      "evidence_note": "SMITH07A（primary）：PMID 17616769 摘要 Results",
+      "number_origin": "SMITH07A: PMID 17616769 摘要 Results",
+      "source_ids": [
+        4
+      ],
+      "source_keys": [
+        "SMITH07A"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        5
+      ],
+      "claim": "同一试验的另一篇报告也承认 “could not preclude the role of weight loss”",
+      "evidence_grade": "primary",
+      "evidence_note": "SMITH07B（primary）：PMID 17448569 摘要",
+      "number_origin": "SMITH07B: PMID 17448569 摘要",
+      "source_ids": [
+        5
+      ],
+      "source_keys": [
+        "SMITH07B"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        6
+      ],
+      "claim": "韩国 32 人 RCT 在能量摄入与 BMI 组间无差异的情况下，低 GL 组非炎性病灶下降更多（第 10 周组间 P=0.02），但低 GL 组脂肪摄入也同时下降",
+      "evidence_grade": "primary",
+      "evidence_note": "KWON2012（primary）：全文 Results 与 Table II",
+      "number_origin": "KWON2012: 全文 Results 与 Table II",
+      "source_ids": [
+        6
+      ],
+      "source_keys": [
+        "KWON2012"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        7
+      ],
+      "claim": "一项准随机试验中低 GI 组与高 GI 组病灶都改善，组间差异 “did not reach significance”",
+      "evidence_grade": "primary",
+      "evidence_note": "REYNOLDS2010（primary）：PMID 22253996 摘要",
+      "number_origin": "REYNOLDS2010: PMID 22253996 摘要",
+      "source_ids": [
+        7
+      ],
+      "source_keys": [
+        "REYNOLDS2010"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        8
+      ],
+      "claim": "一项 84 人 RCT 在过氧化苯甲酰基础上加低 GL 饮食，病灶计数组间 P=0.931",
+      "evidence_grade": "primary",
+      "evidence_note": "PAVITHRA2019（primary）：PMID 30264745 摘要",
+      "number_origin": "PAVITHRA2019: PMID 30264745 摘要",
+      "source_ids": [
+        8
+      ],
+      "source_keys": [
+        "PAVITHRA2019"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        9
+      ],
+      "claim": "另一项 2 周 RCT 只测到 IGF-1 小幅下降，没有测痤疮病灶",
+      "evidence_grade": "primary",
+      "evidence_note": "BURRIS2018（primary）：PMID 29691143 摘要",
+      "number_origin": "BURRIS2018: PMID 29691143 摘要",
+      "source_ids": [
+        9
+      ],
+      "source_keys": [
+        "BURRIS2018"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        10
+      ],
+      "claim": "法国 NutriNet-Santé 的横断面分析中，自报痤疮与“高脂高糖产品”相关（aOR 1.54），但暴露不是 GL",
+      "evidence_grade": "primary",
+      "evidence_note": "PENSO2020（primary）：PMID 32520303 摘要",
+      "number_origin": "PENSO2020: PMID 32520303 摘要",
+      "source_ids": [
+        10
+      ],
+      "source_keys": [
+        "PENSO2020"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        11
+      ],
+      "claim": "作者引用过的病例对照研究反而没有发现 GI、GL 与痤疮相关",
+      "evidence_grade": "primary",
+      "evidence_note": "KAYMAK2007（primary）：PMID 17655968 摘要",
+      "number_origin": "KAYMAK2007: PMID 17655968 摘要",
+      "source_ids": [
+        11
+      ],
+      "source_keys": [
+        "KAYMAK2007"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        12
+      ],
+      "claim": "常被引用的 Kitavan 与 Aché 人群无痤疮观察属于生态学研究，并未测量个体饮食与痤疮的关系",
+      "evidence_grade": "primary",
+      "evidence_note": "CORDAIN2002（primary）：PMID 12472346 摘要",
+      "number_origin": "CORDAIN2002: PMID 12472346 摘要",
+      "source_ids": [
+        12
+      ],
+      "source_keys": [
+        "CORDAIN2002"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        3
+      ],
+      "claim": "作者 2010 年对乳制品的原话是 “Dairy ingestion appears to be weakly associated with acne”",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2010（primary）：PMID 20338665 摘要",
+      "number_origin": "BOWE2010: PMID 20338665 摘要",
+      "source_ids": [
+        3
+      ],
+      "source_keys": [
+        "BOWE2010"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        13
+      ],
+      "claim": "47,355 名女性成年后回忆高中饮食，脱脂奶 PR 1.44、全脂 1.12",
+      "evidence_grade": "primary",
+      "evidence_note": "ADEB2005（primary）：PMID 15692464 摘要 Results",
+      "number_origin": "ADEB2005: PMID 15692464 摘要 Results",
+      "source_ids": [
+        13
+      ],
+      "source_keys": [
+        "ADEB2005"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        14
+      ],
+      "claim": "6,094 名女孩的前瞻队列中，全脂与脱脂的 PR 相同，都是 1.19",
+      "evidence_grade": "primary",
+      "evidence_note": "ADEB2006（primary）：PMID 17083856 摘要",
+      "number_origin": "ADEB2006: PMID 17083856 摘要",
+      "source_ids": [
+        14
+      ],
+      "source_keys": [
+        "ADEB2006"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        15
+      ],
+      "claim": "4,273 名男孩中只有脱脂奶达到显著（PR 1.19），痤疮为自报",
+      "evidence_grade": "primary",
+      "evidence_note": "ADEB2008（primary）：PMID 18194824 摘要",
+      "number_origin": "ADEB2008: PMID 18194824 摘要",
+      "source_ids": [
+        15
+      ],
+      "source_keys": [
+        "ADEB2008"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        16
+      ],
+      "claim": "一项病例对照研究只发现低脂/脱脂奶相关",
+      "evidence_grade": "primary",
+      "evidence_note": "LAROSA2016（primary）：PMID 27241803 摘要",
+      "number_origin": "LAROSA2016: PMID 27241803 摘要",
+      "source_ids": [
+        16
+      ],
+      "source_keys": [
+        "LAROSA2016"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        17
+      ],
+      "claim": "而挪威纵向研究方向相反：相关的是高量全脂乳制品，脱脂与半脱脂无显著关联",
+      "evidence_grade": "primary",
+      "evidence_note": "ULVESTAD2017（primary）：PMID 27422392 摘要",
+      "number_origin": "ULVESTAD2017: PMID 27422392 摘要",
+      "source_ids": [
+        17
+      ],
+      "source_keys": [
+        "ULVESTAD2017"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        18
+      ],
+      "claim": "用乳糖酶基因做工具变量的 20,416 名丹麦成人研究中，牛奶与痤疮既无观察性关联也无遗传关联",
+      "evidence_grade": "primary",
+      "evidence_note": "JUHLMR（primary）：PMID 30096803 摘要",
+      "number_origin": "JUHLMR: PMID 30096803 摘要",
+      "source_ids": [
+        18
+      ],
+      "source_keys": [
+        "JUHLMR"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        19
+      ],
+      "claim": "乳清方面，唯一测皮肤结局的双盲 RCT（49 名男性、每天 30 g、6 个月）结论为非劣效，乳清组没有更差",
+      "evidence_grade": "primary",
+      "evidence_note": "WHEYRCT（primary）：PMID 38291989 摘要",
+      "number_origin": "WHEYRCT: PMID 38291989 摘要",
+      "source_ids": [
+        19
+      ],
+      "source_keys": [
+        "WHEYRCT"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        20
+      ],
+      "claim": "5 例健美者的病例报告",
+      "evidence_grade": "primary",
+      "evidence_note": "SIMONART2012（primary）：PMID 23257731 摘要",
+      "number_origin": "SIMONART2012: PMID 23257731 摘要",
+      "source_ids": [
+        20
+      ],
+      "source_keys": [
+        "SIMONART2012"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        21
+      ],
+      "claim": "一项健身男性病例对照研究（乳清使用 47% vs 27.7%）",
+      "evidence_grade": "primary",
+      "evidence_note": "MUHAIDAT2024（primary）：PMID 38633058 摘要",
+      "number_origin": "MUHAIDAT2024: PMID 38633058 摘要",
+      "source_ids": [
+        21
+      ],
+      "source_keys": [
+        "MUHAIDAT2024"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        22
+      ],
+      "claim": "机制上，8 岁男孩的 7 天试验显示升高 IGF-1 的是酪蛋白（+15%），乳清升高的是胰岛素（+21%）而 IGF-1 不变，且没有测任何皮肤结局",
+      "evidence_grade": "primary",
+      "evidence_note": "HOPPE2009（primary）：PMID 19471293 摘要",
+      "number_origin": "HOPPE2009: PMID 19471293 摘要",
+      "source_ids": [
+        22
+      ],
+      "source_keys": [
+        "HOPPE2009"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "label 未证实",
+      "citation_ids": [
+        23
+      ],
+      "claim": "作者在采访中称脱脂奶 “often” 额外添加乳清和酪蛋白（未证实，仅见新闻采访转述）",
+      "evidence_grade": "secondary",
+      "evidence_note": "FOX（secondary）：搜索引擎摘录",
+      "number_origin": "",
+      "source_ids": [
+        23
+      ],
+      "source_keys": [
+        "FOX"
+      ],
+      "support_status": "unverified"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        24
+      ],
+      "claim": "美国牛奶标准允许用浓缩脱脂奶、脱脂奶粉等调整成分，条文中没有出现 whey 或 casein",
+      "evidence_grade": "primary",
+      "evidence_note": "CFR131（primary）：§131.110(a)(c) 原文",
+      "number_origin": "CFR131: §131.110(a)(c) 原文",
+      "source_ids": [
+        24
+      ],
+      "source_keys": [
+        "CFR131"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        25
+      ],
+      "claim": "营养声称类标准食品可为改善质地添加“safe and suitable”成分，但必须在配料表申报",
+      "evidence_grade": "primary",
+      "evidence_note": "CFR130（primary）：§130.10(d)(1)(g) 原文",
+      "number_origin": "CFR130: §130.10(d)(1)(g) 原文",
+      "source_ids": [
+        25
+      ],
+      "source_keys": [
+        "CFR130"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        26
+      ],
+      "claim": "作者 2011 年综述写道 “a recent study involving 56 patients with acne showed that the consumption of a Lactobacillus-fermented dairy beverage improved clinical aspects of acne”，并称 “the benefits of the probiotic drink alone lend further support”",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2011（primary）：PMC3038963 正文与 Competing interests 段",
+      "number_origin": "BOWE2011: PMC3038963 正文与 Competing interests 段",
+      "source_ids": [
+        26
+      ],
+      "source_keys": [
+        "BOWE2011"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        27
+      ],
+      "claim": "但被引研究随机分配的是 18 + 18 共 36 人，发酵乳组正是安慰剂组，主要结果是乳铁蛋白组相对发酵乳组的差异",
+      "evidence_grade": "primary",
+      "evidence_note": "KIM2010（primary）：PMID 20692602 摘要 Methods/Results",
+      "number_origin": "KIM2010: PMID 20692602 摘要 Methods/Results",
+      "source_ids": [
+        27
+      ],
+      "source_keys": [
+        "KIM2010"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        26
+      ],
+      "claim": "同一综述对 1961 年 Siver 的研究注明 “Without a placebo control”",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2011（primary）：PMC3038963 正文与 Competing interests 段",
+      "number_origin": "BOWE2011: PMC3038963 正文与 Competing interests 段",
+      "source_ids": [
+        26
+      ],
+      "source_keys": [
+        "BOWE2011"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        28
+      ],
+      "claim": "但 2015 年作者与合作者的综述把这项无对照病例系列称为 “the first clinical trial”",
+      "evidence_grade": "primary",
+      "evidence_note": "KOBER2015（primary）：PMC5418745 正文",
+      "number_origin": "KOBER2015: PMC5418745 正文",
+      "source_ids": [
+        28
+      ],
+      "source_keys": [
+        "KOBER2015"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        29
+      ],
+      "claim": "口服益生菌治痤疮的对照试验只有开放标签、无安慰剂的 45 人试验",
+      "evidence_grade": "primary",
+      "evidence_note": "JUNG2013（primary）：PMID 23582165 摘要",
+      "number_origin": "JUNG2013: PMID 23582165 摘要",
+      "source_ids": [
+        29
+      ],
+      "source_keys": [
+        "JUNG2013"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        30
+      ],
+      "claim": "20 人的先导 RCT（未计数病灶，OR 置信区间 2.2–411.1）",
+      "evidence_grade": "primary",
+      "evidence_note": "FABBROCINI2016（primary）：PMID 27596801 摘要",
+      "number_origin": "FABBROCINI2016: PMID 27596801 摘要",
+      "source_ids": [
+        30
+      ],
+      "source_keys": [
+        "FABBROCINI2016"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        31
+      ],
+      "claim": "一项 12 周试验中整体严重度改善比例 50% 对 29.4%（p=0.03），但总病灶差异 p=0.06，且 3 名作者为厂商员工",
+      "evidence_grade": "primary",
+      "evidence_note": "EGUREN2024（primary）：PMID 38751177 摘要与利益冲突声明",
+      "number_origin": "EGUREN2024: PMID 38751177 摘要与利益冲突声明",
+      "source_ids": [
+        31
+      ],
+      "source_keys": [
+        "EGUREN2024"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        32
+      ],
+      "claim": "另一项每组仅 14 人，菌株由厂商提供",
+      "evidence_grade": "primary",
+      "evidence_note": "KIMMJ2021（primary）：PMID 33921829 摘要",
+      "number_origin": "KIMMJ2021: PMID 33921829 摘要",
+      "source_ids": [
+        32
+      ],
+      "source_keys": [
+        "KIMMJ2021"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        33
+      ],
+      "claim": "一项 110 人、厂商主导的 RCT 中特定菌株 HY7714 使面部含水量上升，但两组 TEWL 都下降",
+      "evidence_grade": "primary",
+      "evidence_note": "LEE2015（primary）：PMID 26428734 摘要与作者单位",
+      "number_origin": "LEE2015: PMID 26428734 摘要与作者单位",
+      "source_ids": [
+        33
+      ],
+      "source_keys": [
+        "LEE2015"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        34
+      ],
+      "claim": "另一项由 L'Oréal/Nestlé 作者完成的 RCT 只报告了定性改善",
+      "evidence_grade": "primary",
+      "evidence_note": "GUENICHE2014（primary）：PMID 24322879 摘要",
+      "number_origin": "GUENICHE2014: PMID 24322879 摘要",
+      "source_ids": [
+        34
+      ],
+      "source_keys": [
+        "GUENICHE2014"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        35
+      ],
+      "claim": "一项芽孢益生菌序贯研究中全体受试者 TEWL 反而上升",
+      "evidence_grade": "primary",
+      "evidence_note": "RYBAK2023（primary）：PMID 36769543 摘要",
+      "number_origin": "RYBAK2023: PMID 36769543 摘要",
+      "source_ids": [
+        35
+      ],
+      "source_keys": [
+        "RYBAK2023"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        36
+      ],
+      "claim": "安全性方面，ICU 患者中已有益生菌胶囊菌株进入血液引起菌血症的基因组证据",
+      "evidence_grade": "primary",
+      "evidence_note": "YELIN2019（primary）：PMID 31700189 摘要",
+      "number_origin": "YELIN2019: PMID 31700189 摘要",
+      "source_ids": [
+        36
+      ],
+      "source_keys": [
+        "YELIN2019"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        37
+      ],
+      "claim": "斯坦福 17 周饮食试验中，每天约 6 份发酵食品提高了肠道菌群多样性、降低了部分炎症蛋白，但全文没有任何皮肤结局，且主要结局两组均不显著",
+      "evidence_grade": "primary",
+      "evidence_note": "WASTYK2021（primary）：PMC9020749 全文 Methods/Results",
+      "number_origin": "WASTYK2021: PMC9020749 全文 Methods/Results",
+      "source_ids": [
+        37
+      ],
+      "source_keys": [
+        "WASTYK2021"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        38
+      ],
+      "claim": "“发酵后酸奶 IGF-1 较低”只有食品加工的体外数据",
+      "evidence_grade": "primary",
+      "evidence_note": "KANG2006（primary）：PMID 16428610 摘要",
+      "number_origin": "KANG2006: PMID 16428610 摘要",
+      "source_ids": [
+        38
+      ],
+      "source_keys": [
+        "KANG2006"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        27
+      ],
+      "claim": "作者用作发酵乳证据的 Kim 2010 中，对照组本身就喝发酵乳",
+      "evidence_grade": "primary",
+      "evidence_note": "KIM2010（primary）：PMID 20692602 摘要 Methods/Results",
+      "number_origin": "KIM2010: PMID 20692602 摘要 Methods/Results",
+      "source_ids": [
+        27
+      ],
+      "source_keys": [
+        "KIM2010"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        39
+      ],
+      "claim": "唯一测了皮肤结局的口服益生元（GOS）RCT 显示水合改善，但没有测肠道菌群",
+      "evidence_grade": "primary",
+      "evidence_note": "HONG2017（primary）：PMID 28582809 摘要与期刊 PDF Results",
+      "number_origin": "HONG2017: PMID 28582809 摘要与期刊 PDF Results",
+      "source_ids": [
+        39
+      ],
+      "source_keys": [
+        "HONG2017"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        40
+      ],
+      "claim": "“人工甜味剂扰乱菌群”的原始证据以小鼠为主，人体部分只有 7 人，且不涉及皮肤",
+      "evidence_grade": "primary",
+      "evidence_note": "SUEZ2014（primary）：Extended Data Fig. 9 图注",
+      "number_origin": "SUEZ2014: Extended Data Fig. 9 图注",
+      "source_ids": [
+        40
+      ],
+      "source_keys": [
+        "SUEZ2014"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        41
+      ],
+      "claim": "120 人 RCT 显示包括 stevia 在内的四种甜味剂都改变了粪便与口腔菌群，只有糖精与三氯蔗糖显著损害血糖反应",
+      "evidence_grade": "primary",
+      "evidence_note": "SUEZ2022（primary）：PMID 35987213 摘要",
+      "number_origin": "SUEZ2022: PMID 35987213 摘要",
+      "source_ids": [
+        41
+      ],
+      "source_keys": [
+        "SUEZ2022"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        42
+      ],
+      "claim": "痤疮患者服用米诺环素 4 周后肠道多个乳杆菌和双歧杆菌下降，但这项 8 人研究没有报告任何痤疮临床结局",
+      "evidence_grade": "primary",
+      "evidence_note": "THOMPSON2020（primary）：PMC7992645 全文 Methods/Results",
+      "number_origin": "THOMPSON2020: PMC7992645 全文 Methods/Results",
+      "source_ids": [
+        42
+      ],
+      "source_keys": [
+        "THOMPSON2020"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        43
+      ],
+      "claim": "婴儿早年抗生素与特应性皮炎的关联在同胞对照后从 aHR 1.52 降到 1.24，作者认为部分由家庭因素混杂",
+      "evidence_grade": "primary",
+      "evidence_note": "MUBANGA2021（primary）：PMID 33914052 摘要",
+      "number_origin": "MUBANGA2021: PMID 33914052 摘要",
+      "source_ids": [
+        43
+      ],
+      "source_keys": [
+        "MUBANGA2021"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        44
+      ],
+      "claim": "作者本人合著的研究显示痤疮抗生素与上呼吸道感染相关，结局不是皮肤，也没有测菌群",
+      "evidence_grade": "primary",
+      "evidence_note": "MARGOLIS2005（primary）：PMID 16172310 摘要",
+      "number_origin": "MARGOLIS2005: PMID 16172310 摘要",
+      "source_ids": [
+        44
+      ],
+      "source_keys": [
+        "MARGOLIS2005"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        45
+      ],
+      "claim": "唯一明确的“抗生素后皮肤恶化”是罕见的革兰阴性毛囊炎，机制是局部菌群替换",
+      "evidence_grade": "primary",
+      "evidence_note": "LEYDEN1979（primary）：PMID 159666",
+      "number_origin": "LEYDEN1979: PMID 159666",
+      "source_ids": [
+        45
+      ],
+      "source_keys": [
+        "LEYDEN1979"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        46
+      ],
+      "claim": "美国皮肤科学会 2024 指南把“限制系统性抗生素使用”和“与外用药联用”列为良好实践声明",
+      "evidence_grade": "primary",
+      "evidence_note": "AAD2024（primary）：PMID 38300170 摘要",
+      "number_origin": "AAD2024: PMID 38300170 摘要",
+      "source_ids": [
+        46
+      ],
+      "source_keys": [
+        "AAD2024"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        47
+      ],
+      "claim": "FDA 2016 年禁止 19 种消费类抗菌洗剂成分的理由是长期安全性数据不足、且未证明比普通肥皂加水更能减少感染，规则正文没有提及皮肤菌群健康",
+      "evidence_grade": "primary",
+      "evidence_note": "FDA2016（primary）：81 FR 61106 正文",
+      "number_origin": "FDA2016: 81 FR 61106 正文",
+      "source_ids": [
+        47
+      ],
+      "source_keys": [
+        "FDA2016"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        48
+      ],
+      "claim": "22 名大学生在考试期痤疮加重，与压力升高相关（r=0.61）",
+      "evidence_grade": "primary",
+      "evidence_note": "CHIU2003（primary）：PMID 12873885 摘要",
+      "number_origin": "CHIU2003: PMID 12873885 摘要",
+      "source_ids": [
+        48
+      ],
+      "source_keys": [
+        "CHIU2003"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        49
+      ],
+      "claim": "94 名中学生中这一相关较弱（r=0.23），皮脂量无差异",
+      "evidence_grade": "primary",
+      "evidence_note": "YOSIPOVITCH2007（primary）：PMID 17340019 摘要",
+      "number_origin": "YOSIPOVITCH2007: PMID 17340019 摘要",
+      "source_ids": [
+        49
+      ],
+      "source_keys": [
+        "YOSIPOVITCH2007"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        50
+      ],
+      "claim": "人体急性应激可以升高肠通透性，但该研究没有测皮肤",
+      "evidence_grade": "primary",
+      "evidence_note": "VANUYTSEL2014（primary）：PMID 24153250 摘要",
+      "number_origin": "VANUYTSEL2014: PMID 24153250 摘要",
+      "source_ids": [
+        50
+      ],
+      "source_keys": [
+        "VANUYTSEL2014"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        51
+      ],
+      "claim": "作者引用的“压力致小肠细菌过度生长”证据来自小鼠，且乳杆菌并无差异",
+      "evidence_grade": "primary",
+      "evidence_note": "WANG2005（primary）：PMID 15800998 摘要",
+      "number_origin": "WANG2005: PMID 15800998 摘要",
+      "source_ids": [
+        51
+      ],
+      "source_keys": [
+        "WANG2005"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        52
+      ],
+      "claim": "她用来推断肠漏与内毒素的 1983 年研究，实际是在体外往血液里加 LPS 观察微血块",
+      "evidence_grade": "primary",
+      "evidence_note": "JUHLIN1983（primary）：PMID 6198846 摘要",
+      "number_origin": "JUHLIN1983: PMID 6198846 摘要",
+      "source_ids": [
+        52
+      ],
+      "source_keys": [
+        "JUHLIN1983"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        53
+      ],
+      "claim": "痤疮患者肠道菌群研究都是小样本横断面",
+      "evidence_grade": "primary",
+      "evidence_note": "DENG2018（primary）：PMID 29756631 摘要",
+      "number_origin": "DENG2018: PMID 29756631 摘要",
+      "source_ids": [
+        53
+      ],
+      "source_keys": [
+        "DENG2018"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        26
+      ],
+      "claim": "2011 年综述称 1930 年的假说 “has subsequently been proven correct in preliminary studies”，同时承认痤疮中 SIBO 的频率 “has not yet been investigated”",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2011（primary）：PMC3038963 正文与 Competing interests 段",
+      "number_origin": "BOWE2011: PMC3038963 正文与 Competing interests 段",
+      "source_ids": [
+        26
+      ],
+      "source_keys": [
+        "BOWE2011"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        54
+      ],
+      "claim": "链条中较强的一环是玫瑰痤疮-SIBO：根除后多数患者皮损清除，但皮肤评估者未设盲",
+      "evidence_grade": "primary",
+      "evidence_note": "PARODI2008（primary）：PMID 18456568 摘要",
+      "number_origin": "PARODI2008: PMID 18456568 摘要",
+      "source_ids": [
+        54
+      ],
+      "source_keys": [
+        "PARODI2008"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        55
+      ],
+      "claim": "后续病例对照未复现 SIBO 差异",
+      "evidence_grade": "primary",
+      "evidence_note": "GRAVINA2015（primary）：PMID 25653855 摘要",
+      "number_origin": "GRAVINA2015: PMID 25653855 摘要",
+      "source_ids": [
+        55
+      ],
+      "source_keys": [
+        "GRAVINA2015"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        56
+      ],
+      "claim": "丹麦全国队列中玫瑰痤疮与 SIBO 无关联（HR 0.71）",
+      "evidence_grade": "primary",
+      "evidence_note": "EGEBERG2017（primary）：PMID 27501017 摘要",
+      "number_origin": "EGEBERG2017: PMID 27501017 摘要",
+      "source_ids": [
+        56
+      ],
+      "source_keys": [
+        "EGEBERG2017"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        57
+      ],
+      "claim": "作者在该领域的一手工作是一项体外抑菌研究",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2006（primary）：PMID 17039652",
+      "number_origin": "BOWE2006: PMID 17039652",
+      "source_ids": [
+        57
+      ],
+      "source_keys": [
+        "BOWE2006"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        58
+      ],
+      "claim": "一项与宾夕法尼亚大学共有的痤疮细菌素专利",
+      "evidence_grade": "primary",
+      "evidence_note": "PATENT（primary）：Google Patents 专利记录（发明人、受让人、状态字段）",
+      "number_origin": "PATENT: Google Patents 专利记录（发明人、受让人、状态字段）",
+      "source_ids": [
+        58
+      ],
+      "source_keys": [
+        "PATENT"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        59
+      ],
+      "claim": "L'Oréal 的菌体裂解物乳膏使 SCORAD 优于安慰剂",
+      "evidence_grade": "primary",
+      "evidence_note": "GUENICHE2008（primary）：PMID 18795916 摘要 Results",
+      "number_origin": "GUENICHE2008: PMID 18795916 摘要 Results",
+      "source_ids": [
+        59
+      ],
+      "source_keys": [
+        "GUENICHE2008"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        60
+      ],
+      "claim": "活菌疗法 1 期试验主要终点为安全性，湿疹严重度全体无显著差异",
+      "evidence_grade": "primary",
+      "evidence_note": "NAKATSUJI2021（primary）：PMC8052297 摘要与 Fig 3",
+      "number_origin": "NAKATSUJI2021: PMC8052297 摘要与 Fig 3",
+      "source_ids": [
+        60
+      ],
+      "source_keys": [
+        "NAKATSUJI2021"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        61
+      ],
+      "claim": "3 株活菌外用 16 周的 154 人 RCT “failed to prove superior to placebo”",
+      "evidence_grade": "primary",
+      "evidence_note": "FB401（primary）：PMID 37579728 摘要 Results/Conclusions",
+      "number_origin": "FB401: PMID 37579728 摘要 Results/Conclusions",
+      "source_ids": [
+        61
+      ],
+      "source_keys": [
+        "FB401"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        62
+      ],
+      "claim": "唯一比较洗脸频率的 RCT 中，每天 1、2、4 次组间无显著差异，反而是每天 1 次组炎性病灶增加，作者结论是 “excessive face washing may not be as culpable as previously thought”",
+      "evidence_grade": "primary",
+      "evidence_note": "CHOI2006（primary）：PMID 17014635 摘要",
+      "number_origin": "CHOI2006: PMID 17014635 摘要",
+      "source_ids": [
+        62
+      ],
+      "source_keys": [
+        "CHOI2006"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        63
+      ],
+      "claim": "一项 45 人双盲 RCT 中，每天 2,000 mg EPA+DHA 补充 10 周使炎性与非炎性病灶显著减少",
+      "evidence_grade": "primary",
+      "evidence_note": "JUNG2014（primary）：PMID 24553997 摘要",
+      "number_origin": "JUNG2014: PMID 24553997 摘要",
+      "source_ids": [
+        63
+      ],
+      "source_keys": [
+        "JUNG2014"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        64
+      ],
+      "claim": "332 人 RCT 中口服元素锌 30 mg 的临床成功率为 31.2%，米诺环素为 63.4%",
+      "evidence_grade": "primary",
+      "evidence_note": "DRENO2001（primary）：PMID 11586012 摘要 Results",
+      "number_origin": "DRENO2001: PMID 11586012 摘要 Results",
+      "source_ids": [
+        64
+      ],
+      "source_keys": [
+        "DRENO2001"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        65
+      ],
+      "claim": "高黄烷醇可可 12 周使 UV 红斑下降",
+      "evidence_grade": "primary",
+      "evidence_note": "HEINRICH2006（primary）：PMID 16702322 摘要",
+      "number_origin": "HEINRICH2006: PMID 16702322 摘要",
+      "source_ids": [
+        65
+      ],
+      "source_keys": [
+        "HEINRICH2006"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        66
+      ],
+      "claim": "但同类 74 人 RCT 主要终点阴性",
+      "evidence_grade": "primary",
+      "evidence_note": "MOGOLLON2014（primary）：PMID 24970388 摘要",
+      "number_origin": "MOGOLLON2014: PMID 24970388 摘要",
+      "source_ids": [
+        66
+      ],
+      "source_keys": [
+        "MOGOLLON2014"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "label 未证实",
+      "citation_ids": [
+        67
+      ],
+      "claim": "书中锌剂量与菌株清单只见读者转述（未证实）",
+      "evidence_grade": "secondary",
+      "evidence_note": "GOODREADS（secondary）：读者评论摘录",
+      "number_origin": "",
+      "source_ids": [
+        67
+      ],
+      "source_keys": [
+        "GOODREADS"
+      ],
+      "support_status": "unverified"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        26,
+        27
+      ],
+      "claim": "Kim 2010 被写成“56 名患者”“单喝益生菌饮料有效”，原研究是 36 人且发酵乳是安慰剂组",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2011（primary）：PMC3038963 正文与 Competing interests 段；KIM2010（primary）：PMID 20692602 摘要 Methods/Results",
+      "number_origin": "BOWE2011: PMC3038963 正文与 Competing interests 段；KIM2010: PMID 20692602 摘要 Methods/Results",
+      "source_ids": [
+        26,
+        27
+      ],
+      "source_keys": [
+        "BOWE2011",
+        "KIM2010"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        3,
+        4,
+        11
+      ],
+      "claim": "“compelling evidence”的核心只有一项与减重混杂的小试验，且被引的病例对照研究是阴性",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2010（primary）：PMID 20338665 摘要；SMITH07A（primary）：PMID 17616769 摘要 Results；KAYMAK2007（primary）：PMID 17655968 摘要",
+      "number_origin": "BOWE2010: PMID 20338665 摘要；SMITH07A: PMID 17616769 摘要 Results；KAYMAK2007: PMID 17655968 摘要",
+      "source_ids": [
+        3,
+        4,
+        11
+      ],
+      "source_keys": [
+        "BOWE2010",
+        "SMITH07A",
+        "KAYMAK2007"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        51,
+        52
+      ],
+      "claim": "压力→菌群/通透性的“支持”来自小鼠，内毒素推断来自体外加 LPS 实验",
+      "evidence_grade": "primary",
+      "evidence_note": "WANG2005（primary）：PMID 15800998 摘要；JUHLIN1983（primary）：PMID 6198846 摘要",
+      "number_origin": "WANG2005: PMID 15800998 摘要；JUHLIN1983: PMID 6198846 摘要",
+      "source_ids": [
+        51,
+        52
+      ],
+      "source_keys": [
+        "WANG2005",
+        "JUHLIN1983"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        26
+      ],
+      "claim": "1930 年假说被写成“已在初步研究中证实”",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2011（primary）：PMC3038963 正文与 Competing interests 段",
+      "number_origin": "BOWE2011: PMC3038963 正文与 Competing interests 段",
+      "source_ids": [
+        26
+      ],
+      "source_keys": [
+        "BOWE2011"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        22
+      ],
+      "claim": "乳清“经 IGF-1 致痘”，而机制研究中升 IGF-1 的是酪蛋白不是乳清",
+      "evidence_grade": "primary",
+      "evidence_note": "HOPPE2009（primary）：PMID 19471293 摘要",
+      "number_origin": "HOPPE2009: PMID 19471293 摘要",
+      "source_ids": [
+        22
+      ],
+      "source_keys": [
+        "HOPPE2009"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        28
+      ],
+      "claim": "无对照病例系列在后来的综述中被称为 “the first clinical trial”",
+      "evidence_grade": "primary",
+      "evidence_note": "KOBER2015（primary）：PMC5418745 正文",
+      "number_origin": "KOBER2015: PMC5418745 正文",
+      "source_ids": [
+        28
+      ],
+      "source_keys": [
+        "KOBER2015"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        68
+      ],
+      "claim": "作者自有品牌的 Bowe Glowe 面霜宣称 “helps balance the skin microbiome”，关键成分列出 Prebiotics、Postbiotics，成分表含 lactobacillus ferment 与 inulin",
+      "evidence_grade": "primary",
+      "evidence_note": "BRAND_GLOWE（primary）：产品页文案、Key Ingredients 与脚注 (i)–(iv)",
+      "number_origin": "BRAND_GLOWE: 产品页文案、Key Ingredients 与脚注 (i)–(iv)",
+      "source_ids": [
+        68
+      ],
+      "source_keys": [
+        "BRAND_GLOWE"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        68
+      ],
+      "claim": "该产品“clinically-proven to increase the diversity of the skin microbiome”的依据是脚注中 20 至 32 名受试者的单组研究，未说明对照组",
+      "evidence_grade": "primary",
+      "evidence_note": "BRAND_GLOWE（primary）：产品页文案、Key Ingredients 与脚注 (i)–(iv)",
+      "number_origin": "BRAND_GLOWE: 产品页文案、Key Ingredients 与脚注 (i)–(iv)",
+      "source_ids": [
+        68
+      ],
+      "source_keys": [
+        "BRAND_GLOWE"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        69
+      ],
+      "claim": "Night Mode 胶囊宣称 “Support healthier skin by helping to ease stress”，页面注明未经 FDA 评估",
+      "evidence_grade": "primary",
+      "evidence_note": "BRAND_NIGHT（primary）：产品页文案",
+      "number_origin": "BRAND_NIGHT: 产品页文案",
+      "source_ids": [
+        69
+      ],
+      "source_keys": [
+        "BRAND_NIGHT"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        70
+      ],
+      "claim": "品牌当前目录中没有口服益生菌产品，饮剂 Bowe Growe 的产品页返回 404",
+      "evidence_grade": "primary",
+      "evidence_note": "BRAND_CATALOG（primary）：目录条目与 /products/bowe-growe 返回 404",
+      "number_origin": "BRAND_CATALOG: 目录条目与 /products/bowe-growe 返回 404",
+      "source_ids": [
+        70
+      ],
+      "source_keys": [
+        "BRAND_CATALOG"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        58
+      ],
+      "claim": "作者是一项痤疮细菌素专利的共同发明人",
+      "evidence_grade": "primary",
+      "evidence_note": "PATENT（primary）：Google Patents 专利记录（发明人、受让人、状态字段）",
+      "number_origin": "PATENT: Google Patents 专利记录（发明人、受让人、状态字段）",
+      "source_ids": [
+        58
+      ],
+      "source_keys": [
+        "PATENT"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        26
+      ],
+      "claim": "而她 2011 年综述声明 “no competing interests”",
+      "evidence_grade": "primary",
+      "evidence_note": "BOWE2011（primary）：PMC3038963 正文与 Competing interests 段",
+      "number_origin": "BOWE2011: PMC3038963 正文与 Competing interests 段",
+      "source_ids": [
+        26
+      ],
+      "source_keys": [
+        "BOWE2011"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "label 未证实",
+      "citation_ids": [
+        71
+      ],
+      "claim": "她在 Cutis 社论的披露中提到 Procter & Gamble 顾问关系（未证实，仅见搜索摘录）",
+      "evidence_grade": "secondary",
+      "evidence_note": "CUTIS2013（secondary）：搜索引擎摘录",
+      "number_origin": "",
+      "source_ids": [
+        71
+      ],
+      "source_keys": [
+        "CUTIS2013"
+      ],
+      "support_status": "unverified"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        70,
+        1
+      ],
+      "claim": "品牌商品目录中最早的上架记录晚于本书出版",
+      "evidence_grade": "primary",
+      "evidence_note": "BRAND_CATALOG（primary）：目录条目与 /products/bowe-growe 返回 404；PUB（primary）：出版社书目页文案与 On Sale 字段",
+      "number_origin": "BRAND_CATALOG: 目录条目与 /products/bowe-growe 返回 404；PUB: 出版社书目页文案与 On Sale 字段",
+      "source_ids": [
+        70,
+        1
+      ],
+      "source_keys": [
+        "BRAND_CATALOG",
+        "PUB"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        72
+      ],
+      "claim": "肠道与阴道：69 人、每日两次 20 mg、9 个月的 RCT 用培养法检测粪便和阴道菌群，没有发现对组成或耐药水平的影响",
+      "evidence_grade": "primary",
+      "evidence_note": "WALKER2005（primary）：PMID 16212578 摘要",
+      "number_origin": "WALKER2005: PMID 16212578 摘要",
+      "source_ids": [
+        72
+      ],
+      "source_keys": [
+        "WALKER2005"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        73
+      ],
+      "claim": "口腔：76 人 9 个月龈下菌群总体无差异，但 SDD 组螺旋体比例显著低于安慰剂",
+      "evidence_grade": "primary",
+      "evidence_note": "WALKER2000（primary）：PMID 11022777 摘要",
+      "number_origin": "WALKER2000: PMID 11022777 摘要",
+      "source_ids": [
+        73
+      ],
+      "source_keys": [
+        "WALKER2000"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        74
+      ],
+      "claim": "常被引用的另一篇 2000 年论文只测了龈下药敏，不含菌群组成",
+      "evidence_grade": "primary",
+      "evidence_note": "THOMAS2000（primary）：PMID 11022778 摘要",
+      "number_origin": "THOMAS2000: PMID 11022778 摘要",
+      "source_ids": [
+        74
+      ],
+      "source_keys": [
+        "THOMAS2000"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        75
+      ],
+      "claim": "40 mg 缓释剂型的 266 人试验只给出了“龈下菌群无显著改变”的定性陈述",
+      "evidence_grade": "primary",
+      "evidence_note": "PRESHAW2008（primary）：PMID 18315426 摘要",
+      "number_origin": "PRESHAW2008: PMID 18315426 摘要",
+      "source_ids": [
+        75
+      ],
+      "source_keys": [
+        "PRESHAW2008"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        76
+      ],
+      "claim": "皮肤（培养法）：51 人痤疮 6 个月未检出对皮肤菌群的抗菌作用",
+      "evidence_grade": "primary",
+      "evidence_note": "SKIDMORE2003（primary）：PMID 12707093 摘要",
+      "number_origin": "SKIDMORE2003: PMID 12707093 摘要",
+      "source_ids": [
+        76
+      ],
+      "source_keys": [
+        "SKIDMORE2003"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        77
+      ],
+      "claim": "皮肤（宏基因组）：在健康志愿者中，亚治疗剂量与治疗剂量的多西环素都改变了皮肤菌群，亚治疗剂量组 4 人中 2 人皮肤出现多西环素耐药菌",
+      "evidence_grade": "primary",
+      "evidence_note": "JO2021（primary）：PMC8878148 Results 与 Discussion",
+      "number_origin": "JO2021: PMC8878148 Results 与 Discussion",
+      "source_ids": [
+        77
+      ],
+      "source_keys": [
+        "JO2021"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        78
+      ],
+      "claim": "Oracea 标签称 “up to 18 months” 的研究未检出对口腔、皮肤、肠道和阴道菌群的长期影响，但标签未引用具体研究，也没有给出数据",
+      "evidence_grade": "primary",
+      "evidence_note": "ORACEA（primary）：标签 §12.4 原文",
+      "number_origin": "ORACEA: 标签 §12.4 原文",
+      "source_ids": [
+        78
+      ],
+      "source_keys": [
+        "ORACEA"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        79
+      ],
+      "claim": "同类低剂量米诺环素 40 mg 的 16 周 RCT 用 16S 测序，皮肤、粪便和阴道与安慰剂无显著差异",
+      "evidence_grade": "primary",
+      "evidence_note": "GALLO2025（primary）：PMID 41329149 摘要",
+      "number_origin": "GALLO2025: PMID 41329149 摘要",
+      "source_ids": [
+        79
+      ],
+      "source_keys": [
+        "GALLO2025"
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "keep",
+      "citation_ids": [
+        80
+      ],
+      "claim": "专门检验 40 mg/日对肠道菌群多样性的眼部玫瑰痤疮 RCT 已于 2025 年完成但尚未公布结果，其方案写明这一剂量 “has never been evaluated”",
+      "evidence_grade": "primary",
+      "evidence_note": "ORBS（primary）：ClinicalTrials.gov API v2 记录与方案摘要",
+      "number_origin": "ORBS: ClinicalTrials.gov API v2 记录与方案摘要",
+      "source_ids": [
+        80
+      ],
+      "source_keys": [
+        "ORBS"
+      ],
+      "support_status": "supported"
+    }
+  ],
+  "errors": [],
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": 1,
+      "key": "PUB",
+      "locator": "出版社书目页文案与 On Sale 字段",
+      "perspective": "P0",
+      "source_tier": "primary",
+      "title": "Hachette Book Group. The Beauty of Dirty Skin: The Surprising Science of Looking and Feeling Radiant from the Inside Out（出版社书目页，2018）",
+      "url": "https://www.hbgacademic.com/titles/whitney-bowe-md/the-beauty-of-dirty-skin/9781478975908/"
+    },
+    {
+      "id": 2,
+      "key": "DOUBAN",
+      "locator": "豆瓣条目信息栏与内容简介",
+      "perspective": "P0",
+      "source_tier": "secondary",
+      "title": "豆瓣读书：你的皮肤屏障90%可以靠营养修复（图书条目页，聚合站）",
+      "url": "https://book.douban.com/subject/35911787/"
+    },
+    {
+      "id": 3,
+      "key": "BOWE2010",
+      "locator": "PMID 20338665 摘要",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Bowe WP, Joshi SS, Shalita AR. Diet and acne. J Am Acad Dermatol. 2010;63(1):124-41. PMID 20338665",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20338665/"
+    },
+    {
+      "id": 4,
+      "key": "SMITH07A",
+      "locator": "PMID 17616769 摘要 Results",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Smith RN, Mann NJ, Braue A, et al. A low-glycemic-load diet improves symptoms in acne vulgaris patients: a randomized controlled trial. Am J Clin Nutr. 2007;86(1):107-15. PMID 17616769",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17616769/"
+    },
+    {
+      "id": 5,
+      "key": "SMITH07B",
+      "locator": "PMID 17448569 摘要",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Smith RN, Mann NJ, Braue A, et al. The effect of a high-protein, low glycemic-load diet versus a conventional, high glycemic-load diet on biochemical parameters associated with acne vulgaris: a randomized, investigator-masked, controlled trial. J Am Acad Dermatol. 2007;57(2):247-56. PMID 17448569",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17448569/"
+    },
+    {
+      "id": 6,
+      "key": "KWON2012",
+      "locator": "全文 Results 与 Table II",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Kwon HH, Yoon JY, Hong JS, et al. Clinical and histological effect of a low glycaemic load diet in treatment of acne vulgaris in Korean patients: a randomized, controlled trial. Acta Derm Venereol. 2012;92(3):241-6. PMID 22678562",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22678562/"
+    },
+    {
+      "id": 7,
+      "key": "REYNOLDS2010",
+      "locator": "PMID 22253996 摘要",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Reynolds RC, Lee S, Choi JY, et al. Effect of the glycemic index of carbohydrates on Acne vulgaris. Nutrients. 2010;2(10):1060-72. PMID 22253996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22253996/"
+    },
+    {
+      "id": 8,
+      "key": "PAVITHRA2019",
+      "locator": "PMID 30264745 摘要",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Pavithra G, Upadya GM, Rukmini MS. A randomized controlled trial of topical benzoyl peroxide 2.5% gel with a low glycemic load diet versus topical benzoyl peroxide 2.5% gel with a normal diet in acne (grades 1-3). Indian J Dermatol Venereol Leprol. 2019;85(5):486-490. PMID 30264745",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30264745/"
+    },
+    {
+      "id": 9,
+      "key": "BURRIS2018",
+      "locator": "PMID 29691143 摘要",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Burris J, Shikany JM, Rietkerk W, et al. A Low Glycemic Index and Glycemic Load Diet Decreases Insulin-like Growth Factor-1 among Adults with Moderate and Severe Acne: A Short-Duration, 2-Week Randomized Controlled Trial. J Acad Nutr Diet. 2018;118(10):1874-1885. PMID 29691143",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29691143/"
+    },
+    {
+      "id": 10,
+      "key": "PENSO2020",
+      "locator": "PMID 32520303 摘要",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Penso L, Touvier M, Deschasaux M, et al. Association Between Adult Acne and Dietary Behaviors: Findings From the NutriNet-Santé Prospective Cohort Study. JAMA Dermatol. 2020;156(8):854-862. PMID 32520303",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32520303/"
+    },
+    {
+      "id": 11,
+      "key": "KAYMAK2007",
+      "locator": "PMID 17655968 摘要",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Kaymak Y, Adisen E, Ilter N, et al. Dietary glycemic index and glucose, insulin, insulin-like growth factor-I, insulin-like growth factor binding protein 3, and leptin levels in patients with acne. J Am Acad Dermatol. 2007;57(5):819-23. PMID 17655968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17655968/"
+    },
+    {
+      "id": 12,
+      "key": "CORDAIN2002",
+      "locator": "PMID 12472346 摘要",
+      "perspective": "P1",
+      "source_tier": "primary",
+      "title": "Cordain L, Lindeberg S, Hurtado M, et al. Acne vulgaris: a disease of Western civilization. Arch Dermatol. 2002;138(12):1584-90. PMID 12472346",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12472346/"
+    },
+    {
+      "id": 13,
+      "key": "ADEB2005",
+      "locator": "PMID 15692464 摘要 Results",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Adebamowo CA, Spiegelman D, Danby FW, et al. High school dietary dairy intake and teenage acne. J Am Acad Dermatol. 2005;52(2):207-14. PMID 15692464",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15692464/"
+    },
+    {
+      "id": 14,
+      "key": "ADEB2006",
+      "locator": "PMID 17083856 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Adebamowo CA, Spiegelman D, Berkey CS, et al. Milk consumption and acne in adolescent girls. Dermatol Online J. 2006;12(4):1. PMID 17083856",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17083856/"
+    },
+    {
+      "id": 15,
+      "key": "ADEB2008",
+      "locator": "PMID 18194824 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Adebamowo CA, Spiegelman D, Berkey CS, et al. Milk consumption and acne in teenaged boys. J Am Acad Dermatol. 2008;58(5):787-93. PMID 18194824",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18194824/"
+    },
+    {
+      "id": 16,
+      "key": "LAROSA2016",
+      "locator": "PMID 27241803 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "LaRosa CL, Quach KA, Koons K, et al. Consumption of dairy in teenagers with and without acne. J Am Acad Dermatol. 2016;75(2):318-22. PMID 27241803",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27241803/"
+    },
+    {
+      "id": 17,
+      "key": "ULVESTAD2017",
+      "locator": "PMID 27422392 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Ulvestad M, Bjertness E, Dalgard F, et al. Acne and dairy products in adolescence: results from a Norwegian longitudinal study. J Eur Acad Dermatol Venereol. 2017;31(3):530-535. PMID 27422392",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27422392/"
+    },
+    {
+      "id": 18,
+      "key": "JUHLMR",
+      "locator": "PMID 30096803 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Juhl CR, Bergholdt HKM, Miller IM, et al. Lactase Persistence, Milk Intake, and Adult Acne: A Mendelian Randomization Study of 20,416 Danish Adults. Nutrients. 2018;10(8):. PMID 30096803",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30096803/"
+    },
+    {
+      "id": 19,
+      "key": "WHEYRCT",
+      "locator": "PMID 38291989 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Sompochpruetikul K, Khongcharoensombat T, Chongpison Y, et al. Whey protein and male acne: A double-blind, randomized controlled trial. J Dermatol. 2024;51(7):1022-1025. PMID 38291989",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38291989/"
+    },
+    {
+      "id": 20,
+      "key": "SIMONART2012",
+      "locator": "PMID 23257731 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Simonart T. Acne and whey protein supplementation among bodybuilders. Dermatology. 2012;225(3):256-8. PMID 23257731",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23257731/"
+    },
+    {
+      "id": 21,
+      "key": "MUHAIDAT2024",
+      "locator": "PMID 38633058 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Muhaidat J, Qablan A, Gharaibeh F, et al. The Effect of Whey Protein Supplements on Acne Vulgaris among Male Adolescents and Young Adults: A Case-Control Study from North of Jordan. Dermatol Res Pract. 2024;2024:2158229. PMID 38633058",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38633058/"
+    },
+    {
+      "id": 22,
+      "key": "HOPPE2009",
+      "locator": "PMID 19471293 摘要",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "Hoppe C, Mølgaard C, Dalum C, et al. Differential effects of casein versus whey on fasting plasma levels of insulin, IGF-1 and IGF-1/IGFBP-3: results from a randomized 7-day supplementation study in prepubertal boys. Eur J Clin Nutr. 2009;63(9):1076-83. PMID 19471293",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19471293/"
+    },
+    {
+      "id": 23,
+      "key": "FOX",
+      "locator": "搜索引擎摘录",
+      "perspective": "P2",
+      "source_tier": "secondary",
+      "title": "Fox News. Does dairy really cause acne?（采访报道）",
+      "url": "https://www.foxnews.com/health/does-dairy-really-cause-acne"
+    },
+    {
+      "id": 24,
+      "key": "CFR131",
+      "locator": "§131.110(a)(c) 原文",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "21 CFR §131.110 Milk（eCFR，2024-01-01 版）",
+      "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-131/subpart-B/section-131.110"
+    },
+    {
+      "id": 25,
+      "key": "CFR130",
+      "locator": "§130.10(d)(1)(g) 原文",
+      "perspective": "P2",
+      "source_tier": "primary",
+      "title": "21 CFR §130.10 Requirements for foods named by use of a nutrient content claim and a standardized term（govinfo CFR-2024）",
+      "url": "https://www.govinfo.gov/app/details/CFR-2024-title21-vol2/CFR-2024-title21-vol2-sec130-10"
+    },
+    {
+      "id": 26,
+      "key": "BOWE2011",
+      "locator": "PMC3038963 正文与 Competing interests 段",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Bowe WP, Logan AC. Acne vulgaris, probiotics and the gut-brain-skin axis - back to the future?. Gut Pathog. 2011;3(1):1. PMID 21281494",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3038963/"
+    },
+    {
+      "id": 27,
+      "key": "KIM2010",
+      "locator": "PMID 20692602 摘要 Methods/Results",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Kim J, Ko Y, Park YK, et al. Dietary effect of lactoferrin-enriched fermented milk on skin surface lipid and clinical improvement of acne vulgaris. Nutrition. 2010;26(9):902-9. PMID 20692602",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20692602/"
+    },
+    {
+      "id": 28,
+      "key": "KOBER2015",
+      "locator": "PMC5418745 正文",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Kober MM, Bowe WP. The effect of probiotics on immune regulation, acne, and photoaging. Int J Womens Dermatol. 2015;1(2):85-89. PMID 28491964",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5418745/"
+    },
+    {
+      "id": 29,
+      "key": "JUNG2013",
+      "locator": "PMID 23582165 摘要",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Jung GW, Tse JE, Guiha I, et al. Prospective, randomized, open-label trial comparing the safety, efficacy, and tolerability of an acne treatment regimen with and without a probiotic supplement and minocycline in subjects with mild to moderate acne. J Cutan Med Surg. 2013;17(2):114-22. PMID 23582165",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23582165/"
+    },
+    {
+      "id": 30,
+      "key": "FABBROCINI2016",
+      "locator": "PMID 27596801 摘要",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Fabbrocini G, Bertona M, Picazo Ó, et al. Supplementation with Lactobacillus rhamnosus SP1 normalises skin expression of genes implicated in insulin signalling and improves adult acne. Benef Microbes. 2016;7(5):625-630. PMID 27596801",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27596801/"
+    },
+    {
+      "id": 31,
+      "key": "EGUREN2024",
+      "locator": "PMID 38751177 摘要与利益冲突声明",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Eguren C, Navarro-Blasco A, Corral-Forteza M, et al. A Randomized Clinical Trial to Evaluate the Efficacy of an Oral Probiotic in Acne Vulgaris. Acta Derm Venereol. 2024;104:adv33206. PMID 38751177",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38751177/"
+    },
+    {
+      "id": 32,
+      "key": "KIMMJ2021",
+      "locator": "PMID 33921829 摘要",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Kim MJ, Kim KP, Choi E, et al. Effects of Lactobacillus plantarum CJLP55 on Clinical Improvement, Skin Condition and Urine Bacterial Extracellular Vesicles in Patients with Acne Vulgaris: A Randomized, Double-Blind, Placebo-Controlled Study. Nutrients. 2021;13(4):. PMID 33921829",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33921829/"
+    },
+    {
+      "id": 33,
+      "key": "LEE2015",
+      "locator": "PMID 26428734 摘要与作者单位",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Lee DE, Huh CS, Ra J, et al. Clinical Evidence of Effects of Lactobacillus plantarum HY7714 on Skin Aging: A Randomized, Double Blind, Placebo-Controlled Study. J Microbiol Biotechnol. 2015;25(12):2160-8. PMID 26428734",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26428734/"
+    },
+    {
+      "id": 34,
+      "key": "GUENICHE2014",
+      "locator": "PMID 24322879 摘要",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Gueniche A, Philippe D, Bastien P, et al. Randomised double-blind placebo-controlled study of the effect of Lactobacillus paracasei NCC 2461 on skin reactivity. Benef Microbes. 2014;5(2):137-45. PMID 24322879",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24322879/"
+    },
+    {
+      "id": 35,
+      "key": "RYBAK2023",
+      "locator": "PMID 36769543 摘要",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Rybak I, Haas KN, Dhaliwal SK, et al. Prospective Placebo-Controlled Assessment of Spore-Based Probiotic Supplementation on Sebum Production, Skin Barrier Function, and Acne. J Clin Med. 2023;12(3):. PMID 36769543",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36769543/"
+    },
+    {
+      "id": 36,
+      "key": "YELIN2019",
+      "locator": "PMID 31700189 摘要",
+      "perspective": "P3",
+      "source_tier": "primary",
+      "title": "Yelin I, Flett KB, Merakou C, et al. Genomic and epidemiological evidence of bacterial transmission from probiotic capsule to blood in ICU patients. Nat Med. 2019;25(11):1728-1732. PMID 31700189",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31700189/"
+    },
+    {
+      "id": 37,
+      "key": "WASTYK2021",
+      "locator": "PMC9020749 全文 Methods/Results",
+      "perspective": "P4",
+      "source_tier": "primary",
+      "title": "Wastyk HC, Fragiadakis GK, Perelman D, et al. Gut-microbiota-targeted diets modulate human immune status. Cell. 2021;184(16):4137-4153.e14. PMID 34256014",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9020749/"
+    },
+    {
+      "id": 38,
+      "key": "KANG2006",
+      "locator": "PMID 16428610 摘要",
+      "perspective": "P4",
+      "source_tier": "primary",
+      "title": "Kang SH, Kim JU, Imm JY, et al. The effects of dairy processes and storage on insulin-like growth factor-I (IGF-I) content in milk and in model IGF-I-fortified dairy products. J Dairy Sci. 2006;89(2):402-9. PMID 16428610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16428610/"
+    },
+    {
+      "id": 39,
+      "key": "HONG2017",
+      "locator": "PMID 28582809 摘要与期刊 PDF Results",
+      "perspective": "P4",
+      "source_tier": "primary",
+      "title": "Hong YH, Chang UJ, Kim YS, et al. Dietary galacto-oligosaccharides improve skin health: a randomized double blind clinical trial. Asia Pac J Clin Nutr. 2017;26(4):613-618. PMID 28582809",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28582809/"
+    },
+    {
+      "id": 40,
+      "key": "SUEZ2014",
+      "locator": "Extended Data Fig. 9 图注",
+      "perspective": "P4",
+      "source_tier": "primary",
+      "title": "Suez J, Korem T, Zeevi D, et al. Artificial sweeteners induce glucose intolerance by altering the gut microbiota. Nature. 2014;514(7521):181-6. PMID 25231862",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25231862/"
+    },
+    {
+      "id": 41,
+      "key": "SUEZ2022",
+      "locator": "PMID 35987213 摘要",
+      "perspective": "P4",
+      "source_tier": "primary",
+      "title": "Suez J, Cohen Y, Valdés-Mas R, et al. Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance. Cell. 2022;185(18):3307-3328.e19. PMID 35987213",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35987213/"
+    },
+    {
+      "id": 42,
+      "key": "THOMPSON2020",
+      "locator": "PMC7992645 全文 Methods/Results",
+      "perspective": "P5",
+      "source_tier": "primary",
+      "title": "Thompson KG, Rainer BM, Antonescu C, et al. Minocycline and Its Impact on Microbial Dysbiosis in the Skin and Gastrointestinal Tract of Acne Patients. Ann Dermatol. 2020;32(1):21-30. PMID 33911705",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7992645/"
+    },
+    {
+      "id": 43,
+      "key": "MUBANGA2021",
+      "locator": "PMID 33914052 摘要",
+      "perspective": "P5",
+      "source_tier": "primary",
+      "title": "Mubanga M, Lundholm C, D'Onofrio BM, et al. Association of Early Life Exposure to Antibiotics With Risk of Atopic Dermatitis in Sweden. JAMA Netw Open. 2021;4(4):e215245. PMID 33914052",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33914052/"
+    },
+    {
+      "id": 44,
+      "key": "MARGOLIS2005",
+      "locator": "PMID 16172310 摘要",
+      "perspective": "P5",
+      "source_tier": "primary",
+      "title": "Margolis DJ, Bowe WP, Hoffstad O, et al. Antibiotic treatment of acne may be associated with upper respiratory tract infections. Arch Dermatol. 2005;141(9):1132-6. PMID 16172310",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16172310/"
+    },
+    {
+      "id": 45,
+      "key": "LEYDEN1979",
+      "locator": "PMID 159666",
+      "perspective": "P5",
+      "source_tier": "primary",
+      "title": "Leyden JJ, McGinley KJ, Mills OH. Pseudomonas aeruginosa gram-negative folliculitis. Arch Dermatol. 1979;115(10):1203-4. PMID 159666",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/159666/"
+    },
+    {
+      "id": 46,
+      "key": "AAD2024",
+      "locator": "PMID 38300170 摘要",
+      "perspective": "P5",
+      "source_tier": "primary",
+      "title": "Reynolds RV, Yeung H, Cheng CE, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30. PMID 38300170",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/"
+    },
+    {
+      "id": 47,
+      "key": "FDA2016",
+      "locator": "81 FR 61106 正文",
+      "perspective": "P5",
+      "source_tier": "primary",
+      "title": "U.S. FDA. Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Final Rule. 81 FR 61106 (2016-09-06)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2016-09-06/html/2016-21337.htm"
+    },
+    {
+      "id": 48,
+      "key": "CHIU2003",
+      "locator": "PMID 12873885 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Chiu A, Chon SY, Kimball AB. The response of skin disease to stress: changes in the severity of acne vulgaris as affected by examination stress. Arch Dermatol. 2003;139(7):897-900. PMID 12873885",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12873885/"
+    },
+    {
+      "id": 49,
+      "key": "YOSIPOVITCH2007",
+      "locator": "PMID 17340019 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Yosipovitch G, Tang M, Dawn AG, et al. Study of psychological stress, sebum production and acne vulgaris in adolescents. Acta Derm Venereol. 2007;87(2):135-9. PMID 17340019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17340019/"
+    },
+    {
+      "id": 50,
+      "key": "VANUYTSEL2014",
+      "locator": "PMID 24153250 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Vanuytsel T, van Wanrooy S, Vanheel H, et al. Psychological stress and corticotropin-releasing hormone increase intestinal permeability in humans by a mast cell-dependent mechanism. Gut. 2014;63(8):1293-9. PMID 24153250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24153250/"
+    },
+    {
+      "id": 51,
+      "key": "WANG2005",
+      "locator": "PMID 15800998 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Wang SX, Wu WC. Effects of psychological stress on small intestinal motility and bacteria and mucosa in mice. World J Gastroenterol. 2005;11(13):2016-21. PMID 15800998",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15800998/"
+    },
+    {
+      "id": 52,
+      "key": "JUHLIN1983",
+      "locator": "PMID 6198846 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Juhlin L, Michaëlsson G. Fibrin microclot formation in patients with acne. Acta Derm Venereol. 1983;63(6):538-40. PMID 6198846",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6198846/"
+    },
+    {
+      "id": 53,
+      "key": "DENG2018",
+      "locator": "PMID 29756631 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Deng Y, Wang H, Zhou J, et al. Patients with Acne Vulgaris Have a Distinct Gut Microbiota in Comparison with Healthy Controls. Acta Derm Venereol. 2018;98(8):783-790. PMID 29756631",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29756631/"
+    },
+    {
+      "id": 54,
+      "key": "PARODI2008",
+      "locator": "PMID 18456568 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Parodi A, Paolino S, Greco A, et al. Small intestinal bacterial overgrowth in rosacea: clinical effectiveness of its eradication. Clin Gastroenterol Hepatol. 2008;6(7):759-64. PMID 18456568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18456568/"
+    },
+    {
+      "id": 55,
+      "key": "GRAVINA2015",
+      "locator": "PMID 25653855 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Gravina A, Federico A, Ruocco E, et al. Helicobacter pylori infection but not small intestinal bacterial overgrowth may play a pathogenic role in rosacea. United European Gastroenterol J. 2015;3(1):17-24. PMID 25653855",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25653855/"
+    },
+    {
+      "id": 56,
+      "key": "EGEBERG2017",
+      "locator": "PMID 27501017 摘要",
+      "perspective": "P6",
+      "source_tier": "primary",
+      "title": "Egeberg A, Weinstock LB, Thyssen EP, et al. Rosacea and gastrointestinal disorders: a population-based cohort study. Br J Dermatol. 2017;176(1):100-106. PMID 27501017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27501017/"
+    },
+    {
+      "id": 57,
+      "key": "BOWE2006",
+      "locator": "PMID 17039652",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Bowe WP, Filip JC, DiRienzo JM, et al. Inhibition of propionibacterium acnes by bacteriocin-like inhibitory substances (BLIS) produced by Streptococcus salivarius. J Drugs Dermatol. 2006;5(9):868-70. PMID 17039652",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17039652/"
+    },
+    {
+      "id": 58,
+      "key": "PATENT",
+      "locator": "Google Patents 专利记录（发明人、受让人、状态字段）",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "US8415289B2. Bacterial-derived BLIS for treatment of acne. Inventors: Margolis D, Bowe W. Assignee: University of Pennsylvania",
+      "url": "https://patents.google.com/patent/US8415289B2/en"
+    },
+    {
+      "id": 59,
+      "key": "GUENICHE2008",
+      "locator": "PMID 18795916 摘要 Results",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Gueniche A, Knaudt B, Schuck E, et al. Effects of nonpathogenic gram-negative bacterium Vitreoscilla filiformis lysate on atopic dermatitis: a prospective, randomized, double-blind, placebo-controlled clinical study. Br J Dermatol. 2008;159(6):1357-63. PMID 18795916",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18795916/"
+    },
+    {
+      "id": 60,
+      "key": "NAKATSUJI2021",
+      "locator": "PMC8052297 摘要与 Fig 3",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Nakatsuji T, Hata TR, Tong Y, et al. Development of a human skin commensal microbe for bacteriotherapy of atopic dermatitis and use in a phase 1 randomized clinical trial. Nat Med. 2021;27(4):700-709. PMID 33619370",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8052297/"
+    },
+    {
+      "id": 61,
+      "key": "FB401",
+      "locator": "PMID 37579728 摘要 Results/Conclusions",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Jacobson ME, Myles IA, Paller AS, et al. A Randomized, Double-Blind, Placebo-Controlled, Multicenter, 16-Week Trial to Evaluate the Efficacy and Safety of FB-401 in Children, Adolescents, and Adult Subjects (Ages 2 Years and Older) with Mild-to-Moderate Atopic Dermatitis. Dermatology. 2024;240(1):85-94. PMID 37579728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37579728/"
+    },
+    {
+      "id": 62,
+      "key": "CHOI2006",
+      "locator": "PMID 17014635 摘要",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Choi JM, Lew VK, Kimball AB. A single-blinded, randomized, controlled clinical trial evaluating the effect of face washing on acne vulgaris. Pediatr Dermatol. 2006;23(5):421-7. PMID 17014635",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17014635/"
+    },
+    {
+      "id": 63,
+      "key": "JUNG2014",
+      "locator": "PMID 24553997 摘要",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Jung JY, Kwon HH, Hong JS, et al. Effect of dietary supplementation with omega-3 fatty acid and gamma-linolenic acid on acne vulgaris: a randomised, double-blind, controlled trial. Acta Derm Venereol. 2014;94(5):521-5. PMID 24553997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24553997/"
+    },
+    {
+      "id": 64,
+      "key": "DRENO2001",
+      "locator": "PMID 11586012 摘要 Results",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Dreno B, Moyse D, Alirezai M, et al. Multicenter randomized comparative double-blind controlled clinical trial of the safety and efficacy of zinc gluconate versus minocycline hydrochloride in the treatment of inflammatory acne vulgaris. Dermatology. 2001;203(2):135-40. PMID 11586012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11586012/"
+    },
+    {
+      "id": 65,
+      "key": "HEINRICH2006",
+      "locator": "PMID 16702322 摘要",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Heinrich U, Neukam K, Tronnier H, et al. Long-term ingestion of high flavanol cocoa provides photoprotection against UV-induced erythema and improves skin condition in women. J Nutr. 2006;136(6):1565-9. PMID 16702322",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16702322/"
+    },
+    {
+      "id": 66,
+      "key": "MOGOLLON2014",
+      "locator": "PMID 24970388 摘要",
+      "perspective": "P7",
+      "source_tier": "primary",
+      "title": "Mogollon JA, Boivin C, Lemieux S, et al. Chocolate flavanols and skin photoprotection: a parallel, double-blind, randomized clinical trial. Nutr J. 2014;13:66. PMID 24970388",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24970388/"
+    },
+    {
+      "id": 67,
+      "key": "GOODREADS",
+      "locator": "读者评论摘录",
+      "perspective": "P0",
+      "source_tier": "secondary",
+      "title": "Goodreads 读者评论：The Beauty of Dirty Skin",
+      "url": "https://www.goodreads.com/book/show/35959729-the-beauty-of-dirty-skin"
+    },
+    {
+      "id": 68,
+      "key": "BRAND_GLOWE",
+      "locator": "产品页文案、Key Ingredients 与脚注 (i)–(iv)",
+      "perspective": "P0",
+      "source_tier": "primary",
+      "title": "Dr. Whitney Bowe Beauty. Bowe Glowe™ 产品页（厂商自述）",
+      "url": "https://drwhitneybowebeauty.com/products/bowe-glowe-microbiome-nourishing-cream"
+    },
+    {
+      "id": 69,
+      "key": "BRAND_NIGHT",
+      "locator": "产品页文案",
+      "perspective": "P0",
+      "source_tier": "primary",
+      "title": "Dr. Whitney Bowe Beauty. Night Mode™ 产品页（厂商自述）",
+      "url": "https://drwhitneybowebeauty.com/products/night-mode-restorative-sleep-skin-capsules"
+    },
+    {
+      "id": 70,
+      "key": "BRAND_CATALOG",
+      "locator": "目录条目与 /products/bowe-growe 返回 404",
+      "perspective": "P0",
+      "source_tier": "primary",
+      "title": "Dr. Whitney Bowe Beauty. 商品目录 products.json 与 Bowe Growe 产品页（厂商站点）",
+      "url": "https://drwhitneybowebeauty.com/products.json"
+    },
+    {
+      "id": 71,
+      "key": "CUTIS2013",
+      "locator": "搜索引擎摘录",
+      "perspective": "P7",
+      "source_tier": "secondary",
+      "title": "Bowe WP. Probiotics in acne and rosacea. Cutis. 2013;92(1):6-7. PMID 23961518",
+      "url": "https://mdedge.com/content/probiotics-acne-and-rosacea"
+    },
+    {
+      "id": 72,
+      "key": "WALKER2005",
+      "locator": "PMID 16212578 摘要",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "Walker C, Preshaw PM, Novak J, et al. Long-term treatment with sub-antimicrobial dose doxycycline has no antibacterial effect on intestinal flora. J Clin Periodontol. 2005;32(11):1163-9. PMID 16212578",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16212578/"
+    },
+    {
+      "id": 73,
+      "key": "WALKER2000",
+      "locator": "PMID 11022777 摘要",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "Walker C, Thomas J, Nangó S, et al. Long-term treatment with subantimicrobial dose doxycycline exerts no antibacterial effect on the subgingival microflora associated with adult periodontitis. J Periodontol. 2000;71(9):1465-71. PMID 11022777",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11022777/"
+    },
+    {
+      "id": 74,
+      "key": "THOMAS2000",
+      "locator": "PMID 11022778 摘要",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "Thomas J, Walker C, Bradshaw M. Long-term use of subantimicrobial dose doxycycline does not lead to changes in antimicrobial susceptibility. J Periodontol. 2000;71(9):1472-83. PMID 11022778",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11022778/"
+    },
+    {
+      "id": 75,
+      "key": "PRESHAW2008",
+      "locator": "PMID 18315426 摘要",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "Preshaw PM, Novak MJ, Mellonig J, et al. Modified-release subantimicrobial dose doxycycline enhances scaling and root planing in subjects with periodontal disease. J Periodontol. 2008;79(3):440-52. PMID 18315426",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18315426/"
+    },
+    {
+      "id": 76,
+      "key": "SKIDMORE2003",
+      "locator": "PMID 12707093 摘要",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "Skidmore R, Kovach R, Walker C, et al. Effects of subantimicrobial-dose doxycycline in the treatment of moderate acne. Arch Dermatol. 2003;139(4):459-64. PMID 12707093",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12707093/"
+    },
+    {
+      "id": 77,
+      "key": "JO2021",
+      "locator": "PMC8878148 Results 与 Discussion",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "Jo JH, Harkins CP, Schwardt NH, et al. Alterations of human skin microbiome and expansion of antimicrobial resistance after systemic antibiotics. Sci Transl Med. 2021;13(625):eabd8077. PMID 34936382",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8878148/"
+    },
+    {
+      "id": 78,
+      "key": "ORACEA",
+      "locator": "标签 §12.4 原文",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "ORACEA (doxycycline) 40 mg capsules. FDA-approved prescribing information, section 12.4 Microbiology (openFDA)",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22ORACEA%22"
+    },
+    {
+      "id": 79,
+      "key": "GALLO2025",
+      "locator": "PMID 41329149 摘要",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "Gallo RL, Baldwin H, Harper J, et al. Impact of Low-Dose Oral Minocycline (DFD-29) on Skin, Gastrointestinal, and Vaginal Microflora in Healthy Adults. J Drugs Dermatol. 2025;24(12):1222-1230. PMID 41329149",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41329149/"
+    },
+    {
+      "id": 80,
+      "key": "ORBS",
+      "locator": "ClinicalTrials.gov API v2 记录与方案摘要",
+      "perspective": "P8",
+      "source_tier": "primary",
+      "title": "Mahmud H, Keenan JD, Gonzales J, et al. Ocular Rosacea microBiome Study (ORBS)-sub-microbial versus antibiotic dosing of doxycycline versus placebo in treatment of symptomatic ocular rosacea: study protocol for a parallel-arm randomized clinical trial. Trials. 2022;23(1):1033. PMID 36539810",
+      "url": "https://clinicaltrials.gov/study/NCT05296837"
+    }
+  ],
+  "used_citation_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "valid": true
+}

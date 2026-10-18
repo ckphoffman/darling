@@ -1,0 +1,725 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": 1,
+      "key": "PUB",
+      "title": "Hachette Book Group. The Beauty of Dirty Skin: The Surprising Science of Looking and Feeling Radiant from the Inside Out（出版社书目页，2018）",
+      "url": "https://www.hbgacademic.com/titles/whitney-bowe-md/the-beauty-of-dirty-skin/9781478975908/",
+      "source_tier": "primary",
+      "locator": "出版社书目页文案与 On Sale 字段",
+      "perspective": "P0"
+    },
+    {
+      "id": 2,
+      "key": "DOUBAN",
+      "title": "豆瓣读书：你的皮肤屏障90%可以靠营养修复（图书条目页，聚合站）",
+      "url": "https://book.douban.com/subject/35911787/",
+      "source_tier": "secondary",
+      "locator": "豆瓣条目信息栏与内容简介",
+      "perspective": "P0"
+    },
+    {
+      "id": 3,
+      "key": "BOWE2010",
+      "title": "Bowe WP, Joshi SS, Shalita AR. Diet and acne. J Am Acad Dermatol. 2010;63(1):124-41. PMID 20338665",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20338665/",
+      "source_tier": "primary",
+      "locator": "PMID 20338665 摘要",
+      "perspective": "P1"
+    },
+    {
+      "id": 4,
+      "key": "SMITH07A",
+      "title": "Smith RN, Mann NJ, Braue A, et al. A low-glycemic-load diet improves symptoms in acne vulgaris patients: a randomized controlled trial. Am J Clin Nutr. 2007;86(1):107-15. PMID 17616769",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17616769/",
+      "source_tier": "primary",
+      "locator": "PMID 17616769 摘要 Results",
+      "perspective": "P1"
+    },
+    {
+      "id": 5,
+      "key": "SMITH07B",
+      "title": "Smith RN, Mann NJ, Braue A, et al. The effect of a high-protein, low glycemic-load diet versus a conventional, high glycemic-load diet on biochemical parameters associated with acne vulgaris: a randomized, investigator-masked, controlled trial. J Am Acad Dermatol. 2007;57(2):247-56. PMID 17448569",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17448569/",
+      "source_tier": "primary",
+      "locator": "PMID 17448569 摘要",
+      "perspective": "P1"
+    },
+    {
+      "id": 6,
+      "key": "KWON2012",
+      "title": "Kwon HH, Yoon JY, Hong JS, et al. Clinical and histological effect of a low glycaemic load diet in treatment of acne vulgaris in Korean patients: a randomized, controlled trial. Acta Derm Venereol. 2012;92(3):241-6. PMID 22678562",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22678562/",
+      "source_tier": "primary",
+      "locator": "全文 Results 与 Table II",
+      "perspective": "P1"
+    },
+    {
+      "id": 7,
+      "key": "REYNOLDS2010",
+      "title": "Reynolds RC, Lee S, Choi JY, et al. Effect of the glycemic index of carbohydrates on Acne vulgaris. Nutrients. 2010;2(10):1060-72. PMID 22253996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22253996/",
+      "source_tier": "primary",
+      "locator": "PMID 22253996 摘要",
+      "perspective": "P1"
+    },
+    {
+      "id": 8,
+      "key": "PAVITHRA2019",
+      "title": "Pavithra G, Upadya GM, Rukmini MS. A randomized controlled trial of topical benzoyl peroxide 2.5% gel with a low glycemic load diet versus topical benzoyl peroxide 2.5% gel with a normal diet in acne (grades 1-3). Indian J Dermatol Venereol Leprol. 2019;85(5):486-490. PMID 30264745",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30264745/",
+      "source_tier": "primary",
+      "locator": "PMID 30264745 摘要",
+      "perspective": "P1"
+    },
+    {
+      "id": 9,
+      "key": "BURRIS2018",
+      "title": "Burris J, Shikany JM, Rietkerk W, et al. A Low Glycemic Index and Glycemic Load Diet Decreases Insulin-like Growth Factor-1 among Adults with Moderate and Severe Acne: A Short-Duration, 2-Week Randomized Controlled Trial. J Acad Nutr Diet. 2018;118(10):1874-1885. PMID 29691143",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29691143/",
+      "source_tier": "primary",
+      "locator": "PMID 29691143 摘要",
+      "perspective": "P1"
+    },
+    {
+      "id": 10,
+      "key": "PENSO2020",
+      "title": "Penso L, Touvier M, Deschasaux M, et al. Association Between Adult Acne and Dietary Behaviors: Findings From the NutriNet-Santé Prospective Cohort Study. JAMA Dermatol. 2020;156(8):854-862. PMID 32520303",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32520303/",
+      "source_tier": "primary",
+      "locator": "PMID 32520303 摘要",
+      "perspective": "P1"
+    },
+    {
+      "id": 11,
+      "key": "KAYMAK2007",
+      "title": "Kaymak Y, Adisen E, Ilter N, et al. Dietary glycemic index and glucose, insulin, insulin-like growth factor-I, insulin-like growth factor binding protein 3, and leptin levels in patients with acne. J Am Acad Dermatol. 2007;57(5):819-23. PMID 17655968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17655968/",
+      "source_tier": "primary",
+      "locator": "PMID 17655968 摘要",
+      "perspective": "P1"
+    },
+    {
+      "id": 12,
+      "key": "CORDAIN2002",
+      "title": "Cordain L, Lindeberg S, Hurtado M, et al. Acne vulgaris: a disease of Western civilization. Arch Dermatol. 2002;138(12):1584-90. PMID 12472346",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12472346/",
+      "source_tier": "primary",
+      "locator": "PMID 12472346 摘要",
+      "perspective": "P1"
+    },
+    {
+      "id": 13,
+      "key": "ADEB2005",
+      "title": "Adebamowo CA, Spiegelman D, Danby FW, et al. High school dietary dairy intake and teenage acne. J Am Acad Dermatol. 2005;52(2):207-14. PMID 15692464",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15692464/",
+      "source_tier": "primary",
+      "locator": "PMID 15692464 摘要 Results",
+      "perspective": "P2"
+    },
+    {
+      "id": 14,
+      "key": "ADEB2006",
+      "title": "Adebamowo CA, Spiegelman D, Berkey CS, et al. Milk consumption and acne in adolescent girls. Dermatol Online J. 2006;12(4):1. PMID 17083856",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17083856/",
+      "source_tier": "primary",
+      "locator": "PMID 17083856 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 15,
+      "key": "ADEB2008",
+      "title": "Adebamowo CA, Spiegelman D, Berkey CS, et al. Milk consumption and acne in teenaged boys. J Am Acad Dermatol. 2008;58(5):787-93. PMID 18194824",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18194824/",
+      "source_tier": "primary",
+      "locator": "PMID 18194824 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 16,
+      "key": "LAROSA2016",
+      "title": "LaRosa CL, Quach KA, Koons K, et al. Consumption of dairy in teenagers with and without acne. J Am Acad Dermatol. 2016;75(2):318-22. PMID 27241803",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27241803/",
+      "source_tier": "primary",
+      "locator": "PMID 27241803 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 17,
+      "key": "ULVESTAD2017",
+      "title": "Ulvestad M, Bjertness E, Dalgard F, et al. Acne and dairy products in adolescence: results from a Norwegian longitudinal study. J Eur Acad Dermatol Venereol. 2017;31(3):530-535. PMID 27422392",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27422392/",
+      "source_tier": "primary",
+      "locator": "PMID 27422392 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 18,
+      "key": "JUHLMR",
+      "title": "Juhl CR, Bergholdt HKM, Miller IM, et al. Lactase Persistence, Milk Intake, and Adult Acne: A Mendelian Randomization Study of 20,416 Danish Adults. Nutrients. 2018;10(8):. PMID 30096803",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30096803/",
+      "source_tier": "primary",
+      "locator": "PMID 30096803 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 19,
+      "key": "WHEYRCT",
+      "title": "Sompochpruetikul K, Khongcharoensombat T, Chongpison Y, et al. Whey protein and male acne: A double-blind, randomized controlled trial. J Dermatol. 2024;51(7):1022-1025. PMID 38291989",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38291989/",
+      "source_tier": "primary",
+      "locator": "PMID 38291989 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 20,
+      "key": "SIMONART2012",
+      "title": "Simonart T. Acne and whey protein supplementation among bodybuilders. Dermatology. 2012;225(3):256-8. PMID 23257731",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23257731/",
+      "source_tier": "primary",
+      "locator": "PMID 23257731 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 21,
+      "key": "MUHAIDAT2024",
+      "title": "Muhaidat J, Qablan A, Gharaibeh F, et al. The Effect of Whey Protein Supplements on Acne Vulgaris among Male Adolescents and Young Adults: A Case-Control Study from North of Jordan. Dermatol Res Pract. 2024;2024:2158229. PMID 38633058",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38633058/",
+      "source_tier": "primary",
+      "locator": "PMID 38633058 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 22,
+      "key": "HOPPE2009",
+      "title": "Hoppe C, Mølgaard C, Dalum C, et al. Differential effects of casein versus whey on fasting plasma levels of insulin, IGF-1 and IGF-1/IGFBP-3: results from a randomized 7-day supplementation study in prepubertal boys. Eur J Clin Nutr. 2009;63(9):1076-83. PMID 19471293",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19471293/",
+      "source_tier": "primary",
+      "locator": "PMID 19471293 摘要",
+      "perspective": "P2"
+    },
+    {
+      "id": 23,
+      "key": "FOX",
+      "title": "Fox News. Does dairy really cause acne?（采访报道）",
+      "url": "https://www.foxnews.com/health/does-dairy-really-cause-acne",
+      "source_tier": "secondary",
+      "locator": "搜索引擎摘录",
+      "perspective": "P2"
+    },
+    {
+      "id": 24,
+      "key": "CFR131",
+      "title": "21 CFR §131.110 Milk（eCFR，2024-01-01 版）",
+      "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-131/subpart-B/section-131.110",
+      "source_tier": "primary",
+      "locator": "§131.110(a)(c) 原文",
+      "perspective": "P2"
+    },
+    {
+      "id": 25,
+      "key": "CFR130",
+      "title": "21 CFR §130.10 Requirements for foods named by use of a nutrient content claim and a standardized term（govinfo CFR-2024）",
+      "url": "https://www.govinfo.gov/app/details/CFR-2024-title21-vol2/CFR-2024-title21-vol2-sec130-10",
+      "source_tier": "primary",
+      "locator": "§130.10(d)(1)(g) 原文",
+      "perspective": "P2"
+    },
+    {
+      "id": 26,
+      "key": "BOWE2011",
+      "title": "Bowe WP, Logan AC. Acne vulgaris, probiotics and the gut-brain-skin axis - back to the future?. Gut Pathog. 2011;3(1):1. PMID 21281494",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3038963/",
+      "source_tier": "primary",
+      "locator": "PMC3038963 正文与 Competing interests 段",
+      "perspective": "P3"
+    },
+    {
+      "id": 27,
+      "key": "KIM2010",
+      "title": "Kim J, Ko Y, Park YK, et al. Dietary effect of lactoferrin-enriched fermented milk on skin surface lipid and clinical improvement of acne vulgaris. Nutrition. 2010;26(9):902-9. PMID 20692602",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20692602/",
+      "source_tier": "primary",
+      "locator": "PMID 20692602 摘要 Methods/Results",
+      "perspective": "P3"
+    },
+    {
+      "id": 28,
+      "key": "KOBER2015",
+      "title": "Kober MM, Bowe WP. The effect of probiotics on immune regulation, acne, and photoaging. Int J Womens Dermatol. 2015;1(2):85-89. PMID 28491964",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5418745/",
+      "source_tier": "primary",
+      "locator": "PMC5418745 正文",
+      "perspective": "P3"
+    },
+    {
+      "id": 29,
+      "key": "JUNG2013",
+      "title": "Jung GW, Tse JE, Guiha I, et al. Prospective, randomized, open-label trial comparing the safety, efficacy, and tolerability of an acne treatment regimen with and without a probiotic supplement and minocycline in subjects with mild to moderate acne. J Cutan Med Surg. 2013;17(2):114-22. PMID 23582165",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23582165/",
+      "source_tier": "primary",
+      "locator": "PMID 23582165 摘要",
+      "perspective": "P3"
+    },
+    {
+      "id": 30,
+      "key": "FABBROCINI2016",
+      "title": "Fabbrocini G, Bertona M, Picazo Ó, et al. Supplementation with Lactobacillus rhamnosus SP1 normalises skin expression of genes implicated in insulin signalling and improves adult acne. Benef Microbes. 2016;7(5):625-630. PMID 27596801",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27596801/",
+      "source_tier": "primary",
+      "locator": "PMID 27596801 摘要",
+      "perspective": "P3"
+    },
+    {
+      "id": 31,
+      "key": "EGUREN2024",
+      "title": "Eguren C, Navarro-Blasco A, Corral-Forteza M, et al. A Randomized Clinical Trial to Evaluate the Efficacy of an Oral Probiotic in Acne Vulgaris. Acta Derm Venereol. 2024;104:adv33206. PMID 38751177",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38751177/",
+      "source_tier": "primary",
+      "locator": "PMID 38751177 摘要与利益冲突声明",
+      "perspective": "P3"
+    },
+    {
+      "id": 32,
+      "key": "KIMMJ2021",
+      "title": "Kim MJ, Kim KP, Choi E, et al. Effects of Lactobacillus plantarum CJLP55 on Clinical Improvement, Skin Condition and Urine Bacterial Extracellular Vesicles in Patients with Acne Vulgaris: A Randomized, Double-Blind, Placebo-Controlled Study. Nutrients. 2021;13(4):. PMID 33921829",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33921829/",
+      "source_tier": "primary",
+      "locator": "PMID 33921829 摘要",
+      "perspective": "P3"
+    },
+    {
+      "id": 33,
+      "key": "LEE2015",
+      "title": "Lee DE, Huh CS, Ra J, et al. Clinical Evidence of Effects of Lactobacillus plantarum HY7714 on Skin Aging: A Randomized, Double Blind, Placebo-Controlled Study. J Microbiol Biotechnol. 2015;25(12):2160-8. PMID 26428734",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26428734/",
+      "source_tier": "primary",
+      "locator": "PMID 26428734 摘要与作者单位",
+      "perspective": "P3"
+    },
+    {
+      "id": 34,
+      "key": "GUENICHE2014",
+      "title": "Gueniche A, Philippe D, Bastien P, et al. Randomised double-blind placebo-controlled study of the effect of Lactobacillus paracasei NCC 2461 on skin reactivity. Benef Microbes. 2014;5(2):137-45. PMID 24322879",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24322879/",
+      "source_tier": "primary",
+      "locator": "PMID 24322879 摘要",
+      "perspective": "P3"
+    },
+    {
+      "id": 35,
+      "key": "RYBAK2023",
+      "title": "Rybak I, Haas KN, Dhaliwal SK, et al. Prospective Placebo-Controlled Assessment of Spore-Based Probiotic Supplementation on Sebum Production, Skin Barrier Function, and Acne. J Clin Med. 2023;12(3):. PMID 36769543",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36769543/",
+      "source_tier": "primary",
+      "locator": "PMID 36769543 摘要",
+      "perspective": "P3"
+    },
+    {
+      "id": 36,
+      "key": "YELIN2019",
+      "title": "Yelin I, Flett KB, Merakou C, et al. Genomic and epidemiological evidence of bacterial transmission from probiotic capsule to blood in ICU patients. Nat Med. 2019;25(11):1728-1732. PMID 31700189",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31700189/",
+      "source_tier": "primary",
+      "locator": "PMID 31700189 摘要",
+      "perspective": "P3"
+    },
+    {
+      "id": 37,
+      "key": "WASTYK2021",
+      "title": "Wastyk HC, Fragiadakis GK, Perelman D, et al. Gut-microbiota-targeted diets modulate human immune status. Cell. 2021;184(16):4137-4153.e14. PMID 34256014",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9020749/",
+      "source_tier": "primary",
+      "locator": "PMC9020749 全文 Methods/Results",
+      "perspective": "P4"
+    },
+    {
+      "id": 38,
+      "key": "KANG2006",
+      "title": "Kang SH, Kim JU, Imm JY, et al. The effects of dairy processes and storage on insulin-like growth factor-I (IGF-I) content in milk and in model IGF-I-fortified dairy products. J Dairy Sci. 2006;89(2):402-9. PMID 16428610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16428610/",
+      "source_tier": "primary",
+      "locator": "PMID 16428610 摘要",
+      "perspective": "P4"
+    },
+    {
+      "id": 39,
+      "key": "HONG2017",
+      "title": "Hong YH, Chang UJ, Kim YS, et al. Dietary galacto-oligosaccharides improve skin health: a randomized double blind clinical trial. Asia Pac J Clin Nutr. 2017;26(4):613-618. PMID 28582809",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28582809/",
+      "source_tier": "primary",
+      "locator": "PMID 28582809 摘要与期刊 PDF Results",
+      "perspective": "P4"
+    },
+    {
+      "id": 40,
+      "key": "SUEZ2014",
+      "title": "Suez J, Korem T, Zeevi D, et al. Artificial sweeteners induce glucose intolerance by altering the gut microbiota. Nature. 2014;514(7521):181-6. PMID 25231862",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25231862/",
+      "source_tier": "primary",
+      "locator": "Extended Data Fig. 9 图注",
+      "perspective": "P4"
+    },
+    {
+      "id": 41,
+      "key": "SUEZ2022",
+      "title": "Suez J, Cohen Y, Valdés-Mas R, et al. Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance. Cell. 2022;185(18):3307-3328.e19. PMID 35987213",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35987213/",
+      "source_tier": "primary",
+      "locator": "PMID 35987213 摘要",
+      "perspective": "P4"
+    },
+    {
+      "id": 42,
+      "key": "THOMPSON2020",
+      "title": "Thompson KG, Rainer BM, Antonescu C, et al. Minocycline and Its Impact on Microbial Dysbiosis in the Skin and Gastrointestinal Tract of Acne Patients. Ann Dermatol. 2020;32(1):21-30. PMID 33911705",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7992645/",
+      "source_tier": "primary",
+      "locator": "PMC7992645 全文 Methods/Results",
+      "perspective": "P5"
+    },
+    {
+      "id": 43,
+      "key": "MUBANGA2021",
+      "title": "Mubanga M, Lundholm C, D'Onofrio BM, et al. Association of Early Life Exposure to Antibiotics With Risk of Atopic Dermatitis in Sweden. JAMA Netw Open. 2021;4(4):e215245. PMID 33914052",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33914052/",
+      "source_tier": "primary",
+      "locator": "PMID 33914052 摘要",
+      "perspective": "P5"
+    },
+    {
+      "id": 44,
+      "key": "MARGOLIS2005",
+      "title": "Margolis DJ, Bowe WP, Hoffstad O, et al. Antibiotic treatment of acne may be associated with upper respiratory tract infections. Arch Dermatol. 2005;141(9):1132-6. PMID 16172310",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16172310/",
+      "source_tier": "primary",
+      "locator": "PMID 16172310 摘要",
+      "perspective": "P5"
+    },
+    {
+      "id": 45,
+      "key": "LEYDEN1979",
+      "title": "Leyden JJ, McGinley KJ, Mills OH. Pseudomonas aeruginosa gram-negative folliculitis. Arch Dermatol. 1979;115(10):1203-4. PMID 159666",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/159666/",
+      "source_tier": "primary",
+      "locator": "PMID 159666",
+      "perspective": "P5"
+    },
+    {
+      "id": 46,
+      "key": "AAD2024",
+      "title": "Reynolds RV, Yeung H, Cheng CE, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30. PMID 38300170",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/",
+      "source_tier": "primary",
+      "locator": "PMID 38300170 摘要",
+      "perspective": "P5"
+    },
+    {
+      "id": 47,
+      "key": "FDA2016",
+      "title": "U.S. FDA. Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Final Rule. 81 FR 61106 (2016-09-06)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2016-09-06/html/2016-21337.htm",
+      "source_tier": "primary",
+      "locator": "81 FR 61106 正文",
+      "perspective": "P5"
+    },
+    {
+      "id": 48,
+      "key": "CHIU2003",
+      "title": "Chiu A, Chon SY, Kimball AB. The response of skin disease to stress: changes in the severity of acne vulgaris as affected by examination stress. Arch Dermatol. 2003;139(7):897-900. PMID 12873885",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12873885/",
+      "source_tier": "primary",
+      "locator": "PMID 12873885 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 49,
+      "key": "YOSIPOVITCH2007",
+      "title": "Yosipovitch G, Tang M, Dawn AG, et al. Study of psychological stress, sebum production and acne vulgaris in adolescents. Acta Derm Venereol. 2007;87(2):135-9. PMID 17340019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17340019/",
+      "source_tier": "primary",
+      "locator": "PMID 17340019 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 50,
+      "key": "VANUYTSEL2014",
+      "title": "Vanuytsel T, van Wanrooy S, Vanheel H, et al. Psychological stress and corticotropin-releasing hormone increase intestinal permeability in humans by a mast cell-dependent mechanism. Gut. 2014;63(8):1293-9. PMID 24153250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24153250/",
+      "source_tier": "primary",
+      "locator": "PMID 24153250 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 51,
+      "key": "WANG2005",
+      "title": "Wang SX, Wu WC. Effects of psychological stress on small intestinal motility and bacteria and mucosa in mice. World J Gastroenterol. 2005;11(13):2016-21. PMID 15800998",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15800998/",
+      "source_tier": "primary",
+      "locator": "PMID 15800998 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 52,
+      "key": "JUHLIN1983",
+      "title": "Juhlin L, Michaëlsson G. Fibrin microclot formation in patients with acne. Acta Derm Venereol. 1983;63(6):538-40. PMID 6198846",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6198846/",
+      "source_tier": "primary",
+      "locator": "PMID 6198846 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 53,
+      "key": "DENG2018",
+      "title": "Deng Y, Wang H, Zhou J, et al. Patients with Acne Vulgaris Have a Distinct Gut Microbiota in Comparison with Healthy Controls. Acta Derm Venereol. 2018;98(8):783-790. PMID 29756631",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29756631/",
+      "source_tier": "primary",
+      "locator": "PMID 29756631 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 54,
+      "key": "PARODI2008",
+      "title": "Parodi A, Paolino S, Greco A, et al. Small intestinal bacterial overgrowth in rosacea: clinical effectiveness of its eradication. Clin Gastroenterol Hepatol. 2008;6(7):759-64. PMID 18456568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18456568/",
+      "source_tier": "primary",
+      "locator": "PMID 18456568 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 55,
+      "key": "GRAVINA2015",
+      "title": "Gravina A, Federico A, Ruocco E, et al. Helicobacter pylori infection but not small intestinal bacterial overgrowth may play a pathogenic role in rosacea. United European Gastroenterol J. 2015;3(1):17-24. PMID 25653855",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25653855/",
+      "source_tier": "primary",
+      "locator": "PMID 25653855 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 56,
+      "key": "EGEBERG2017",
+      "title": "Egeberg A, Weinstock LB, Thyssen EP, et al. Rosacea and gastrointestinal disorders: a population-based cohort study. Br J Dermatol. 2017;176(1):100-106. PMID 27501017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27501017/",
+      "source_tier": "primary",
+      "locator": "PMID 27501017 摘要",
+      "perspective": "P6"
+    },
+    {
+      "id": 57,
+      "key": "BOWE2006",
+      "title": "Bowe WP, Filip JC, DiRienzo JM, et al. Inhibition of propionibacterium acnes by bacteriocin-like inhibitory substances (BLIS) produced by Streptococcus salivarius. J Drugs Dermatol. 2006;5(9):868-70. PMID 17039652",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17039652/",
+      "source_tier": "primary",
+      "locator": "PMID 17039652",
+      "perspective": "P7"
+    },
+    {
+      "id": 58,
+      "key": "PATENT",
+      "title": "US8415289B2. Bacterial-derived BLIS for treatment of acne. Inventors: Margolis D, Bowe W. Assignee: University of Pennsylvania",
+      "url": "https://patents.google.com/patent/US8415289B2/en",
+      "source_tier": "primary",
+      "locator": "Google Patents 专利记录（发明人、受让人、状态字段）",
+      "perspective": "P7"
+    },
+    {
+      "id": 59,
+      "key": "GUENICHE2008",
+      "title": "Gueniche A, Knaudt B, Schuck E, et al. Effects of nonpathogenic gram-negative bacterium Vitreoscilla filiformis lysate on atopic dermatitis: a prospective, randomized, double-blind, placebo-controlled clinical study. Br J Dermatol. 2008;159(6):1357-63. PMID 18795916",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18795916/",
+      "source_tier": "primary",
+      "locator": "PMID 18795916 摘要 Results",
+      "perspective": "P7"
+    },
+    {
+      "id": 60,
+      "key": "NAKATSUJI2021",
+      "title": "Nakatsuji T, Hata TR, Tong Y, et al. Development of a human skin commensal microbe for bacteriotherapy of atopic dermatitis and use in a phase 1 randomized clinical trial. Nat Med. 2021;27(4):700-709. PMID 33619370",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8052297/",
+      "source_tier": "primary",
+      "locator": "PMC8052297 摘要与 Fig 3",
+      "perspective": "P7"
+    },
+    {
+      "id": 61,
+      "key": "FB401",
+      "title": "Jacobson ME, Myles IA, Paller AS, et al. A Randomized, Double-Blind, Placebo-Controlled, Multicenter, 16-Week Trial to Evaluate the Efficacy and Safety of FB-401 in Children, Adolescents, and Adult Subjects (Ages 2 Years and Older) with Mild-to-Moderate Atopic Dermatitis. Dermatology. 2024;240(1):85-94. PMID 37579728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37579728/",
+      "source_tier": "primary",
+      "locator": "PMID 37579728 摘要 Results/Conclusions",
+      "perspective": "P7"
+    },
+    {
+      "id": 62,
+      "key": "CHOI2006",
+      "title": "Choi JM, Lew VK, Kimball AB. A single-blinded, randomized, controlled clinical trial evaluating the effect of face washing on acne vulgaris. Pediatr Dermatol. 2006;23(5):421-7. PMID 17014635",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17014635/",
+      "source_tier": "primary",
+      "locator": "PMID 17014635 摘要",
+      "perspective": "P7"
+    },
+    {
+      "id": 63,
+      "key": "JUNG2014",
+      "title": "Jung JY, Kwon HH, Hong JS, et al. Effect of dietary supplementation with omega-3 fatty acid and gamma-linolenic acid on acne vulgaris: a randomised, double-blind, controlled trial. Acta Derm Venereol. 2014;94(5):521-5. PMID 24553997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24553997/",
+      "source_tier": "primary",
+      "locator": "PMID 24553997 摘要",
+      "perspective": "P7"
+    },
+    {
+      "id": 64,
+      "key": "DRENO2001",
+      "title": "Dreno B, Moyse D, Alirezai M, et al. Multicenter randomized comparative double-blind controlled clinical trial of the safety and efficacy of zinc gluconate versus minocycline hydrochloride in the treatment of inflammatory acne vulgaris. Dermatology. 2001;203(2):135-40. PMID 11586012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11586012/",
+      "source_tier": "primary",
+      "locator": "PMID 11586012 摘要 Results",
+      "perspective": "P7"
+    },
+    {
+      "id": 65,
+      "key": "HEINRICH2006",
+      "title": "Heinrich U, Neukam K, Tronnier H, et al. Long-term ingestion of high flavanol cocoa provides photoprotection against UV-induced erythema and improves skin condition in women. J Nutr. 2006;136(6):1565-9. PMID 16702322",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16702322/",
+      "source_tier": "primary",
+      "locator": "PMID 16702322 摘要",
+      "perspective": "P7"
+    },
+    {
+      "id": 66,
+      "key": "MOGOLLON2014",
+      "title": "Mogollon JA, Boivin C, Lemieux S, et al. Chocolate flavanols and skin photoprotection: a parallel, double-blind, randomized clinical trial. Nutr J. 2014;13:66. PMID 24970388",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24970388/",
+      "source_tier": "primary",
+      "locator": "PMID 24970388 摘要",
+      "perspective": "P7"
+    },
+    {
+      "id": 67,
+      "key": "GOODREADS",
+      "title": "Goodreads 读者评论：The Beauty of Dirty Skin",
+      "url": "https://www.goodreads.com/book/show/35959729-the-beauty-of-dirty-skin",
+      "source_tier": "secondary",
+      "locator": "读者评论摘录",
+      "perspective": "P0"
+    },
+    {
+      "id": 68,
+      "key": "BRAND_GLOWE",
+      "title": "Dr. Whitney Bowe Beauty. Bowe Glowe™ 产品页（厂商自述）",
+      "url": "https://drwhitneybowebeauty.com/products/bowe-glowe-microbiome-nourishing-cream",
+      "source_tier": "primary",
+      "locator": "产品页文案、Key Ingredients 与脚注 (i)–(iv)",
+      "perspective": "P0"
+    },
+    {
+      "id": 69,
+      "key": "BRAND_NIGHT",
+      "title": "Dr. Whitney Bowe Beauty. Night Mode™ 产品页（厂商自述）",
+      "url": "https://drwhitneybowebeauty.com/products/night-mode-restorative-sleep-skin-capsules",
+      "source_tier": "primary",
+      "locator": "产品页文案",
+      "perspective": "P0"
+    },
+    {
+      "id": 70,
+      "key": "BRAND_CATALOG",
+      "title": "Dr. Whitney Bowe Beauty. 商品目录 products.json 与 Bowe Growe 产品页（厂商站点）",
+      "url": "https://drwhitneybowebeauty.com/products.json",
+      "source_tier": "primary",
+      "locator": "目录条目与 /products/bowe-growe 返回 404",
+      "perspective": "P0"
+    },
+    {
+      "id": 71,
+      "key": "CUTIS2013",
+      "title": "Bowe WP. Probiotics in acne and rosacea. Cutis. 2013;92(1):6-7. PMID 23961518",
+      "url": "https://mdedge.com/content/probiotics-acne-and-rosacea",
+      "source_tier": "secondary",
+      "locator": "搜索引擎摘录",
+      "perspective": "P7"
+    },
+    {
+      "id": 72,
+      "key": "WALKER2005",
+      "title": "Walker C, Preshaw PM, Novak J, et al. Long-term treatment with sub-antimicrobial dose doxycycline has no antibacterial effect on intestinal flora. J Clin Periodontol. 2005;32(11):1163-9. PMID 16212578",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16212578/",
+      "source_tier": "primary",
+      "locator": "PMID 16212578 摘要",
+      "perspective": "P8"
+    },
+    {
+      "id": 73,
+      "key": "WALKER2000",
+      "title": "Walker C, Thomas J, Nangó S, et al. Long-term treatment with subantimicrobial dose doxycycline exerts no antibacterial effect on the subgingival microflora associated with adult periodontitis. J Periodontol. 2000;71(9):1465-71. PMID 11022777",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11022777/",
+      "source_tier": "primary",
+      "locator": "PMID 11022777 摘要",
+      "perspective": "P8"
+    },
+    {
+      "id": 74,
+      "key": "THOMAS2000",
+      "title": "Thomas J, Walker C, Bradshaw M. Long-term use of subantimicrobial dose doxycycline does not lead to changes in antimicrobial susceptibility. J Periodontol. 2000;71(9):1472-83. PMID 11022778",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11022778/",
+      "source_tier": "primary",
+      "locator": "PMID 11022778 摘要",
+      "perspective": "P8"
+    },
+    {
+      "id": 75,
+      "key": "PRESHAW2008",
+      "title": "Preshaw PM, Novak MJ, Mellonig J, et al. Modified-release subantimicrobial dose doxycycline enhances scaling and root planing in subjects with periodontal disease. J Periodontol. 2008;79(3):440-52. PMID 18315426",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18315426/",
+      "source_tier": "primary",
+      "locator": "PMID 18315426 摘要",
+      "perspective": "P8"
+    },
+    {
+      "id": 76,
+      "key": "SKIDMORE2003",
+      "title": "Skidmore R, Kovach R, Walker C, et al. Effects of subantimicrobial-dose doxycycline in the treatment of moderate acne. Arch Dermatol. 2003;139(4):459-64. PMID 12707093",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12707093/",
+      "source_tier": "primary",
+      "locator": "PMID 12707093 摘要",
+      "perspective": "P8"
+    },
+    {
+      "id": 77,
+      "key": "JO2021",
+      "title": "Jo JH, Harkins CP, Schwardt NH, et al. Alterations of human skin microbiome and expansion of antimicrobial resistance after systemic antibiotics. Sci Transl Med. 2021;13(625):eabd8077. PMID 34936382",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8878148/",
+      "source_tier": "primary",
+      "locator": "PMC8878148 Results 与 Discussion",
+      "perspective": "P8"
+    },
+    {
+      "id": 78,
+      "key": "ORACEA",
+      "title": "ORACEA (doxycycline) 40 mg capsules. FDA-approved prescribing information, section 12.4 Microbiology (openFDA)",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22ORACEA%22",
+      "source_tier": "primary",
+      "locator": "标签 §12.4 原文",
+      "perspective": "P8"
+    },
+    {
+      "id": 79,
+      "key": "GALLO2025",
+      "title": "Gallo RL, Baldwin H, Harper J, et al. Impact of Low-Dose Oral Minocycline (DFD-29) on Skin, Gastrointestinal, and Vaginal Microflora in Healthy Adults. J Drugs Dermatol. 2025;24(12):1222-1230. PMID 41329149",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41329149/",
+      "source_tier": "primary",
+      "locator": "PMID 41329149 摘要",
+      "perspective": "P8"
+    },
+    {
+      "id": 80,
+      "key": "ORBS",
+      "title": "Mahmud H, Keenan JD, Gonzales J, et al. Ocular Rosacea microBiome Study (ORBS)-sub-microbial versus antibiotic dosing of doxycycline versus placebo in treatment of symptomatic ocular rosacea: study protocol for a parallel-arm randomized clinical trial. Trials. 2022;23(1):1033. PMID 36539810",
+      "url": "https://clinicaltrials.gov/study/NCT05296837",
+      "source_tier": "primary",
+      "locator": "ClinicalTrials.gov API v2 记录与方案摘要",
+      "perspective": "P8"
+    }
+  ]
+}

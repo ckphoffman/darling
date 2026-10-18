@@ -5,14 +5,35 @@
   "execution_backend": "guarded-agent",
   "topic": "Whitney Bowe《The Beauty of Dirty Skin》核心主张证据核查",
   "artifact_slug": "whitney-bowe-the-beauty-of-dirty-skin",
-  "phase": "PERSPECTIVES_READY",
-  "status": "running",
+  "phase": "COMPLETE",
+  "status": "complete",
   "attempt": 1,
-  "next_action": "run_interviews",
+  "next_action": null,
   "created_at": "2026-10-18T18:25:40.599358Z",
-  "updated_at": "2026-10-18T18:33:49.238789Z",
-  "artifacts": {},
+  "updated_at": "2026-10-18T18:50:12.138023Z",
+  "artifacts": {
+    "direct_gen_outline.html": {
+      "path": "direct_gen_outline.html",
+      "format": "html",
+      "sha256": "92badc31a9e56f4bb27a7f4afe37e3aaa4325ac3b15cb86b2d853154396308fe"
+    },
+    "storm_gen_article.html": {
+      "path": "storm_gen_article.html",
+      "format": "html",
+      "sha256": "bfb81ff09f8eb85b09f027fcfee8ed530b694919534615ba72bd5d59e8728627"
+    },
+    "storm_gen_article_polished.html": {
+      "path": "storm_gen_article_polished.html",
+      "format": "html",
+      "sha256": "c40614442f387d35fc8f06460e4e30cc71a1c7272b64692f2f9bfb2862b22b61"
+    },
+    "storm_gen_outline.html": {
+      "path": "storm_gen_outline.html",
+      "format": "html",
+      "sha256": "0751e481e354d835fc12b05c13beb263fa24b62448052a7b1a5297caa9199e74"
+    }
+  },
   "metrics": {},
   "errors": [],
-  "last_event_id": 3
+  "last_event_id": 12
 }

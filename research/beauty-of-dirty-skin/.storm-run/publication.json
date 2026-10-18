@@ -1,0 +1,11 @@
+{
+  "artifact_hashes": {
+    "direct_gen_outline.html": "92badc31a9e56f4bb27a7f4afe37e3aaa4325ac3b15cb86b2d853154396308fe",
+    "storm_gen_article.html": "bfb81ff09f8eb85b09f027fcfee8ed530b694919534615ba72bd5d59e8728627",
+    "storm_gen_article_polished.html": "c40614442f387d35fc8f06460e4e30cc71a1c7272b64692f2f9bfb2862b22b61",
+    "storm_gen_outline.html": "0751e481e354d835fc12b05c13beb263fa24b62448052a7b1a5297caa9199e74"
+  },
+  "published_at": "2026-10-18T18:50:12.137140Z",
+  "run_id": "storm-a767cfba-f4dc-4b53-b83e-55cde5b87e40",
+  "schema_version": 1
+}
