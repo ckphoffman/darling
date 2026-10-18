@@ -60,3 +60,9 @@
 
 ## 6. 缺口
 - Siver 1961 原文、Marchetti 1987 设计、部分资助声明、Gueniche 2014 数字未取得；无多菌株方案 RCT；未找到 B. coagulans 痤疮 RCT；"光泽"仅 HY7714 测过；所有试验 ≤12 周；meta 数字仅来自摘要。
+
+## 附：子 agent 二次回复补充（收到协调者提示后续跑）
+- Kober & Bowe 2015（PMC5418745，efetch db=pmc 提取）：把 Siver 1961 称为 "the first clinical trial"（2011 年称 "first formal clinical case report series"）——轻度升级；屏障部分引用 Gueniche 2014 基本准确，把 Gueniche 2010 离体实验当痤疮抗炎依据属机制推论。
+- Atefi 2025：额部 p=0.018。
+- Eguren 2024 分析人数：益生菌 40、安慰剂 34。
+- 新线索：BMJ Open 2026 试验方案（PMID 42242743）结果未出；2026 meta Abedin（PMID 41853869）、Warp（PMID 41703218）未打开。
