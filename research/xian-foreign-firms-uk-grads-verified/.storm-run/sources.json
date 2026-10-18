@@ -1,0 +1,688 @@
+{
+ "sources": [
+  {
+   "id": 1,
+   "source_key": "VE1b",
+   "title": "同页「企业招聘」列表中的建设银行条目（用于纠正上一轮误读）",
+   "url": "https://pjcareer.dlut.edu.cn/info/1051/45782.htm",
+   "publisher": "大连理工大学盘锦校区就业网",
+   "date": "2026-09-11",
+   "verification": "已核实（高校官网转载，已打开）"
+  },
+  {
+   "id": 2,
+   "source_key": "VE19",
+   "title": "Engineering - Graduate（Xi'an）",
+   "url": "https://apply.careers.hsbc.com/emergingtalent/job/Xi'an-Engineering-Graduate-SN-710077/1371118957/",
+   "publisher": "HSBC Global Services Limited（官方 Emerging Talent ATS）",
+   "date": "Opening Date 2026-09-01；Closing Date 2026-12-31",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 3,
+   "source_key": "VE20",
+   "title": "Xi'an - HSBC Global Services Limited Jobs",
+   "url": "https://apply.careers.hsbc.com/emergingtalent/search/?q=&locationsearch=Xi%27an",
+   "publisher": "HSBC 官方 ATS",
+   "date": "2026-10-18 查询",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 4,
+   "source_key": "VE2",
+   "title": "中国三星招聘（官方 ATS 公开岗位接口）",
+   "url": "https://dearsamsung.zhiye.com/api/Jobad/GetJobAdPageList",
+   "publisher": "三星中国（北森 ATS）",
+   "date": "接口未返回发布日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 5,
+   "source_key": "VE5",
+   "title": "Customer Engineer ( 2026/2027届本硕 ) R2624472",
+   "url": "https://jobs.appliedmaterials.com/en/job/shanghai/customer-engineer-2026-2027%e5%b1%8a%e6%9c%ac%e7%a1%95/95/98079687424",
+   "publisher": "Applied Materials 官方招聘站",
+   "date": "2026-09-23（官网 date posted；Workday startDate 显示 2026-09-28）",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 6,
+   "source_key": "VE21",
+   "title": "强生2027校园招聘（GOLD Associate 西安）",
+   "url": "https://chinacampus.jnj.com.cn/jnj/home/index/#/index",
+   "publisher": "强生中国官方校招站",
+   "date": "网申 2026-09-10 至 2026-10-31",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 7,
+   "source_key": "VC6b",
+   "title": "国际化人才双选会参会简章：特斯拉",
+   "url": "https://job.xjtu.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=81dbcd66c3ec4fdb91caed725e105c99",
+   "publisher": "西安交通大学就业网（企业简章）",
+   "date": "2026-09-28",
+   "verification": "已核实（高校官网转载，已打开）"
+  },
+  {
+   "id": 8,
+   "source_key": "VP3",
+   "title": "常见问题：申请认证对于在国（境）外学习时间有具体要求吗？",
+   "url": "https://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/cjwt/2026042823384074484/index.html",
+   "publisher": "教育部留学服务中心",
+   "date": "2023-08-09（现行页面）",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 9,
+   "source_key": "VP5",
+   "title": "认证申请材料——适用于中国内地居民",
+   "url": "https://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/sqcl/ndjm/2026042823583912537/index.html",
+   "publisher": "教育部留学服务中心",
+   "date": "2020-06-30（仍挂在办理入口）",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 10,
+   "source_key": "VP14",
+   "title": "关于西安市D\\E类人才认定的相关问题（网上咨询答复）",
+   "url": "https://xahrss.xa.gov.cn/hdjl/wszx/2062178155875008513.html",
+   "publisher": "西安市人社局",
+   "date": "答复 2026-06-05",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 11,
+   "source_key": "VP15",
+   "title": "西安市公安局关于进一步优化户籍管理工作的通知",
+   "url": "http://police.xa.gov.cn/zwgk/zfwj/bmwj/1712411225725870081.html",
+   "publisher": "西安市公安局",
+   "date": "未知",
+   "verification": "官方页面打不开"
+  },
+  {
+   "id": 12,
+   "source_key": "VE22",
+   "title": "西安高新区官网首页",
+   "url": "https://xdz.xa.gov.cn/",
+   "publisher": "西安高新区管委会",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 13,
+   "source_key": "VE23",
+   "title": "西安市商务局首页",
+   "url": "https://swj.xa.gov.cn/",
+   "publisher": "西安市商务局",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 14,
+   "source_key": "VC7b",
+   "title": "第九届双选会参会简章：联咏电子科技（西安）",
+   "url": "https://job.xjtu.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=6284472423354a639303f0f3a02a9e22",
+   "publisher": "西安交通大学就业网（企业简章）",
+   "date": "活动 2026-09-21",
+   "verification": "已核实（高校官网转载，已打开）"
+  },
+  {
+   "id": 15,
+   "source_key": "VE6",
+   "title": "汇丰科技中国",
+   "url": "https://www.about.hsbc.com.cn/zh-cn/careers/technology",
+   "publisher": "汇丰中国官网",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 16,
+   "source_key": "VE8",
+   "title": "Consultant Specialist（西安社招）",
+   "url": "https://portal.careers.hsbc.com/api/apply/v2/jobs/563774612237479?domain=hsbc.com",
+   "publisher": "HSBC 官方岗位库",
+   "date": "2026-09-10",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 17,
+   "source_key": "VC7a",
+   "title": "第九届双选会参会简章：汇丰软件开发西安分公司",
+   "url": "https://job.xjtu.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=6284472423354a639303f0f3a02a9e22",
+   "publisher": "西安交通大学就业网（企业简章）",
+   "date": "活动 2026-09-21",
+   "verification": "已核实（高校官网转载，已打开）"
+  },
+  {
+   "id": 18,
+   "source_key": "VE1",
+   "title": "三星(中国)半导体有限公司2027届校园招聘",
+   "url": "https://pjcareer.dlut.edu.cn/info/1051/45782.htm",
+   "publisher": "大连理工大学盘锦校区就业网（转载企业简章）",
+   "date": "2026-09-11",
+   "verification": "已核实（高校官网转载，已打开）"
+  },
+  {
+   "id": 19,
+   "source_key": "VT9",
+   "title": "Process Support Engineer R2629197",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/BeijingCHN/Process-Support-Engineer_R2629197",
+   "publisher": "Applied Materials 官方 Workday",
+   "date": "2026-09-23（startDate）",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 20,
+   "source_key": "VE3",
+   "title": "Technical Training-ETCH/PVD/CVD-Xi'an-New Graduate R2616719（上一轮线索）",
+   "url": "https://jobs.appliedmaterials.com/en/job/xi-an/technical-training-etch-pvd-cvd-xi-an-new-graduate/95/93524319664",
+   "publisher": "Applied Materials 官方招聘站",
+   "date": "上一轮摘要显示 2026-04-28",
+   "verification": "官方页面打不开"
+  },
+  {
+   "id": 21,
+   "source_key": "VE11",
+   "title": "Associate Analyst QC R-095201",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Xian-Shaanxi-China/Analyst-Quality-Control_R-095201",
+   "publisher": "Johnson & Johnson 官方 Workday",
+   "date": "2026-09-17",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 22,
+   "source_key": "VE12",
+   "title": "首页 | 西安杨森制药有限公司",
+   "url": "https://www.xian-janssen.com.cn/",
+   "publisher": "西安杨森 / 强生创新制药",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 23,
+   "source_key": "VT12",
+   "title": "强生 Workday 搜索（Xi an / 2027届 / 校园招聘）",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ",
+   "publisher": "Johnson & Johnson 官方 Workday",
+   "date": "2026-10-18 查询",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 24,
+   "source_key": "VC6a",
+   "title": "国际化人才双选会参会简章：中英人寿陕西分公司",
+   "url": "https://job.xjtu.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=81dbcd66c3ec4fdb91caed725e105c99",
+   "publisher": "西安交通大学就业网（企业简章）",
+   "date": "2026-09-28",
+   "verification": "已核实（高校官网转载，已打开）"
+  },
+  {
+   "id": 25,
+   "source_key": "VC7c",
+   "title": "第九届双选会参会简章：森松",
+   "url": "https://job.xjtu.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=6284472423354a639303f0f3a02a9e22",
+   "publisher": "西安交通大学就业网（企业简章）",
+   "date": "活动 2026-09-21",
+   "verification": "已核实（高校官网转载，已打开）"
+  },
+  {
+   "id": 26,
+   "source_key": "VT7",
+   "title": "西安 | 德勤中国",
+   "url": "https://www.deloitte.com/cn/zh/offices/xian.html",
+   "publisher": "德勤中国官网",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 27,
+   "source_key": "VT4",
+   "title": "2027 德勤校招项目",
+   "url": "https://www.deloitte.com/cn/zh/careers/explore-your-fit/students/graduate-program.html",
+   "publisher": "德勤中国官网",
+   "date": "dateModified 2026-07-30",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 28,
+   "source_key": "VT5",
+   "title": "欢迎海外留学生加入德勤",
+   "url": "https://www.deloitte.com/cn/zh/careers/explore-your-fit/students/explore-a-career-at-deloitte-china-overseas-graduate.html",
+   "publisher": "德勤中国官网",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 29,
+   "source_key": "VT17",
+   "title": "德勤校招 ATS",
+   "url": "https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/school.html",
+   "publisher": "德勤",
+   "date": "—",
+   "verification": "官方页面打不开"
+  },
+  {
+   "id": 30,
+   "source_key": "VT21",
+   "title": "德勤2027校园招聘（转载）",
+   "url": "https://campus.niuqizp.com/deadline-xian-2/",
+   "publisher": "牛企直聘（聚合站）",
+   "date": "页面未打开",
+   "verification": "仅有线索"
+  },
+  {
+   "id": 31,
+   "source_key": "VE17",
+   "title": "LOT Vacuum 地址页（韩文）",
+   "url": "https://www.lotvacuum.com/introduce/location.php",
+   "publisher": "LOT Vacuum 官网",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 32,
+   "source_key": "VC6c",
+   "title": "国际化人才双选会参会简章：北京三星通信技术研究有限公司",
+   "url": "https://job.xjtu.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=81dbcd66c3ec4fdb91caed725e105c99",
+   "publisher": "西安交通大学就业网（企业简章）",
+   "date": "2026-09-28",
+   "verification": "已核实（高校官网转载，已打开）"
+  },
+  {
+   "id": 33,
+   "source_key": "VC18",
+   "title": "Emerson Accounts Payable Receivable Analyst 1（西安）",
+   "url": "https://www.linkedin.com/jobs/view/4478759397",
+   "publisher": "LinkedIn",
+   "date": "列表显示 2026-10-13",
+   "verification": "仅有线索"
+  },
+  {
+   "id": 34,
+   "source_key": "VC19",
+   "title": "Schneider Electric Engineer I / Senior Technician I（西安）",
+   "url": "https://www.linkedin.com/jobs/view/4466184430",
+   "publisher": "LinkedIn",
+   "date": "列表显示 2026-09-15",
+   "verification": "仅有线索"
+  },
+  {
+   "id": 35,
+   "source_key": "VC20",
+   "title": "管培生-应届-西安-Terumo",
+   "url": "https://www.linkedin.com/jobs/view/4460923148",
+   "publisher": "LinkedIn（标注来源猎聘）",
+   "date": "列表显示 2026-09-02",
+   "verification": "仅有线索"
+  },
+  {
+   "id": 36,
+   "source_key": "VC21",
+   "title": "娇韵诗 管理培训生 – 销售（西安）",
+   "url": "https://www.linkedin.com/jobs/view/4477029848",
+   "publisher": "LinkedIn（标注来源猎聘）",
+   "date": "列表显示 2026-10-15",
+   "verification": "仅有线索"
+  },
+  {
+   "id": 37,
+   "source_key": "VC22",
+   "title": "施耐德招聘官网",
+   "url": "https://careers.se.com/",
+   "publisher": "Schneider Electric",
+   "date": "—",
+   "verification": "官方页面打不开"
+  },
+  {
+   "id": 38,
+   "source_key": "VE13",
+   "title": "Xi'an - EY Jobs",
+   "url": "https://careers.ey.com/ey/search/?q=&locationsearch=Xi'an",
+   "publisher": "EY 官方招聘站",
+   "date": "2026-10-18 查询",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 39,
+   "source_key": "VT3",
+   "title": "中国大陆学生工作机会 | 安永中国",
+   "url": "https://www.ey.com/zh_cn/careers/student-programs-in-chinese-mainland",
+   "publisher": "安永官网",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 40,
+   "source_key": "VE14",
+   "title": "Micron careers（西安查询）",
+   "url": "https://careers.micron.com/api/pcsx/search?domain=micron.com&location=Xi'an, Shaanxi, China",
+   "publisher": "Micron 官方招聘站",
+   "date": "2026-10-18 查询",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 41,
+   "source_key": "VT13",
+   "title": "Micron Workday（搜索 Xian）",
+   "url": "https://micron.wd1.myworkdayjobs.com/External",
+   "publisher": "Micron 官方 Workday",
+   "date": "Posted 30+ Days Ago",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 42,
+   "source_key": "VE15",
+   "title": "Xi'an - ZF Group Jobs",
+   "url": "https://jobs.zf.com/search/?q=Xi%27an",
+   "publisher": "ZF 官方招聘站",
+   "date": "2026-10-18 查询",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 43,
+   "source_key": "VT14",
+   "title": "Bosch SmartRecruiters（西安）",
+   "url": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings?city=Xian",
+   "publisher": "博世官方 ATS",
+   "date": "2026-05-11 至 2026-10-03",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 44,
+   "source_key": "VT15",
+   "title": "普华永道中国学生招聘页",
+   "url": "https://www.pwccn.com/zh/careers/students.html",
+   "publisher": "普华永道",
+   "date": "—",
+   "verification": "官方页面打不开"
+  },
+  {
+   "id": 45,
+   "source_key": "VT16",
+   "title": "KPMG China Overseas Application",
+   "url": "https://careers.kpmg.com.cn/graduates/application/overseaapplication.htm",
+   "publisher": "毕马威",
+   "date": "—",
+   "verification": "官方页面打不开"
+  },
+  {
+   "id": 46,
+   "source_key": "VT22",
+   "title": "施耐德2027秋招（转载）",
+   "url": "https://campus.niuqizp.com/",
+   "publisher": "牛企直聘（聚合站）",
+   "date": "页面未打开",
+   "verification": "仅有线索"
+  },
+  {
+   "id": 47,
+   "source_key": "VE4",
+   "title": "Search our Job Opportunities – Xi'an",
+   "url": "https://jobs.appliedmaterials.com/en/search-jobs/Xi'an",
+   "publisher": "Applied Materials 官方招聘站",
+   "date": "列表日期 2026-08-28 至 2026-09-23",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 48,
+   "source_key": "VC2",
+   "title": "2026年留学英才秋季线上招聘会",
+   "url": "https://www.cscse.edu.cn/cscse/sy/tzgg/2026101415255489242/index.html",
+   "publisher": "教育部留学服务中心",
+   "date": "2026-10-14",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 49,
+   "source_key": "VC1",
+   "title": "中国留学网首页",
+   "url": "https://www.cscse.edu.cn/",
+   "publisher": "教育部留学服务中心",
+   "date": "列表项 2026-10-14",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 50,
+   "source_key": "VC6",
+   "title": "第二届国际化人才双选会（2026年秋季）邀请函",
+   "url": "https://job.xjtu.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=81dbcd66c3ec4fdb91caed725e105c99",
+   "publisher": "西安交通大学学生就业创业指导服务中心",
+   "date": "落款 2026-09-28；活动 2026-10-27 14:00-17:00",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 51,
+   "source_key": "VC5",
+   "title": "西安交通大学2026年秋季校园招聘指南",
+   "url": "https://job.xjtu.edu.cn/frontpage/xjtu/html/newsDetail.html?id=4fb6866a56e24439b515cc8a128a9a3a",
+   "publisher": "西安交通大学学生就业创业指导服务中心",
+   "date": "2026-08-27",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 52,
+   "source_key": "VC7",
+   "title": "第九届「千家单位 万名学子」综合类双选会（2026年秋季）邀请函",
+   "url": "https://job.xjtu.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=6284472423354a639303f0f3a02a9e22",
+   "publisher": "西安交通大学学生就业创业指导服务中心",
+   "date": "活动 2026-09-21",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 53,
+   "source_key": "VC10",
+   "title": "全国重点高校2027届毕业生秋季巡回招聘会 西安电子科技大学专场(第二场)",
+   "url": "https://job.xidian.edu.cn/jobfair/view/id/40058",
+   "publisher": "西安电子科技大学就业网",
+   "date": "2026-10-10",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 54,
+   "source_key": "VC13",
+   "title": "请问2026年10月西安市职业介绍服务中心有现场招聘会吗？",
+   "url": "https://xahrss.xa.gov.cn/hdjl/zxrd/rsdl/2108815563589517314.html",
+   "publisher": "西安市人社局",
+   "date": "2026-10-10",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 55,
+   "source_key": "VC4",
+   "title": "关于邀请参加2026年陕西省赴外招才引才专场招聘会的函",
+   "url": "https://o.bysjy.com.cn/new_govern/yxqqnn2600000103/2026/doc/1784529376-6336.pdf",
+   "publisher": "中国西安人才市场管理委员会办公室（陕西省人才交流服务中心）",
+   "date": "2026-07-10",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 56,
+   "source_key": "VC17",
+   "title": "Graduate Jobs in Xi'an",
+   "url": "https://www.linkedin.com/jobs/search?keywords=graduate&location=Xi%27an",
+   "publisher": "LinkedIn",
+   "date": "2026-10-18 查询",
+   "verification": "仅有线索"
+  },
+  {
+   "id": 57,
+   "source_key": "VC15",
+   "title": "三星(中国)半导体2026届春季校园招聘正式启动（转载）",
+   "url": "https://campus.niuqizp.com/job-vmm5tzzMa.html",
+   "publisher": "牛气（聚合站）",
+   "date": "页面未显示日期",
+   "verification": "仅有线索"
+  },
+  {
+   "id": 58,
+   "source_key": "VC27",
+   "title": "Alumni",
+   "url": "https://www.nottingham.ac.uk/careers/alumni/index.aspx",
+   "publisher": "University of Nottingham Careers",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 59,
+   "source_key": "VC26",
+   "title": "International students",
+   "url": "https://www.nottingham.ac.uk/careers/students/international/index.aspx",
+   "publisher": "University of Nottingham Careers",
+   "date": "页面未显示日期",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 60,
+   "source_key": "VC12",
+   "title": "西北工业大学就业网",
+   "url": "https://job.nwpu.edu.cn/",
+   "publisher": "西北工业大学",
+   "date": "—",
+   "verification": "官方页面打不开"
+  },
+  {
+   "id": 61,
+   "source_key": "VC28",
+   "title": "One million UK alumni",
+   "url": "https://www.britishcouncil.cn/en/study-uk/one-million-ukalumni",
+   "publisher": "British Council",
+   "date": "—",
+   "verification": "官方页面打不开"
+  },
+  {
+   "id": 62,
+   "source_key": "VP2",
+   "title": "国（境）外学历学位认证办法",
+   "url": "https://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/409891/rzbf/2026042823373762003/index.html",
+   "publisher": "教育部留学服务中心",
+   "date": "列表日期 2023-01-28（现行）",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 63,
+   "source_key": "VP4",
+   "title": "常见问题：「未全程在境外学习」的表述",
+   "url": "https://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/cjwt/2026042823384144738/index.html",
+   "publisher": "教育部留学服务中心",
+   "date": "2024-08-12",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 64,
+   "source_key": "VP7",
+   "title": "关于跨境远程文凭证书不在认证范围内的郑重提醒",
+   "url": "https://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/tzgg61/2026051815272573928/index.html",
+   "publisher": "教育部留学服务中心",
+   "date": "2026-05-18",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 65,
+   "source_key": "VP1",
+   "title": "教育部留学服务中心网上服务大厅",
+   "url": "https://zwfw.cscse.edu.cn",
+   "publisher": "教育部留学服务中心",
+   "date": "首页最新公告 2026-10-10",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 66,
+   "source_key": "VP8",
+   "title": "认证申请材料（补充）英国",
+   "url": "https://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/sqcl/gwxlxwrzsqclbc/2026042823582841826/index.html",
+   "publisher": "教育部留学服务中心",
+   "date": "2019-04-29",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 67,
+   "source_key": "VP12",
+   "title": "税务系统2027年度考试录用公务员相关事项通知",
+   "url": "https://www.chinatax.gov.cn/chinatax/n896543r/c5252957/content.html",
+   "publisher": "国家税务总局",
+   "date": "2026-10-14",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 68,
+   "source_key": "VP20",
+   "title": "就业创业政策汇总",
+   "url": "https://xahrss.xa.gov.cn/ztzl/jycyfwzl/jycyzc/629ecfb6f8fd1c4c21ffd9a5.html",
+   "publisher": "西安市人社局",
+   "date": "2022-12-12（现行性未核实）",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 69,
+   "source_key": "VP11",
+   "title": "中央机关及其直属机构2027年度考试录用公务员报考指南（转载）",
+   "url": "https://shanghai.chinatax.gov.cn/xxgk/rsxx/202610/t481764.html",
+   "publisher": "国家税务总局上海市税务局",
+   "date": "2026-10-15",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 70,
+   "source_key": "VP13",
+   "title": "关于印发《西安市地区优秀人才和实用储备人才分类评价确认办法》的通知(已失效)",
+   "url": "https://xahrss.xa.gov.cn/xwzx/tzgg/636e0255f8fd1c4c2128957a.html",
+   "publisher": "西安市人社局",
+   "date": "2022-11-11 发布；施行至 2025-12-31，已失效",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 71,
+   "source_key": "VP17",
+   "title": "2026年西安市政府工作报告",
+   "url": "https://xadrc.xa.gov.cn/xxgk/ghjh/ndjh/2029375339674312705.html",
+   "publisher": "西安市发改委",
+   "date": "2026-03-05",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 72,
+   "source_key": "VP18",
+   "title": "陕西西安：灵活就业社保补贴开始申报",
+   "url": "https://chinajob.mohrss.gov.cn/h5/c/2026-03-16/509963.shtml",
+   "publisher": "中国就业网（人社部主办，转载人民网）",
+   "date": "2026-03-16",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 73,
+   "source_key": "VP21",
+   "title": "关于面向大学毕业生提供希望里·向阳等4个保租房项目房源的通告",
+   "url": "https://www.xa.gov.cn/gk/zfbz/zffp/2097616406225920001.html",
+   "publisher": "西安市保障性住房管理中心",
+   "date": "2026-09-09",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 74,
+   "source_key": "VP22",
+   "title": "【个人普惠性政策】西安硕博人才奖补政策指南",
+   "url": "https://xcaib.xa.gov.cn/zwgk/zdxxgk/jbmsbz/jycy/1707292682361581570.html",
+   "publisher": "西安航天基地管委会",
+   "date": "2023-09-28（依据市人社发〔2021〕28号，现行性未核实）",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 75,
+   "source_key": "VP19",
+   "title": "陕西西安：2027届高校毕业生一次性求职补贴开始申领",
+   "url": "https://chinajob.mohrss.gov.cn/h5/c/2026-06-16/554568.shtml",
+   "publisher": "中国就业网（转载人民网）",
+   "date": "2026-06-16",
+   "verification": "已核实（官方页面已打开）"
+  },
+  {
+   "id": 76,
+   "source_key": "VE24",
+   "title": "Roundtable addresses concerns of foreign-invested enterprises",
+   "url": "https://en.shaanxi.gov.cn/news/sn/202607/t20260703_3653403.html",
+   "publisher": "陕西省政府英文网",
+   "date": "2026-07-03（据搜索摘要）",
+   "verification": "官方页面打不开"
+  }
+ ]
+}
