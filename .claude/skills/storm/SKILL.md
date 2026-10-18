@@ -18,15 +18,22 @@ description: >-
 Route every request through exactly one mode, load only that mode's reference,
 and preserve the user's source, file, language, and side-effect boundaries.
 
+Every mode also loads `references/evidence-policy.md`: only primary sources
+(paper full text, official documentation, original data, source code,
+regulatory and legal documents) count as evidence; news, blogs, encyclopedias,
+and aggregators are leads only. Grade every conclusion, mark secondary-only
+conclusions as 未证实 (Unverified), and trace every number to its original
+origin or delete it.
+
 ## Mode Router
 
 | Intent | Mode | Load |
 |---|---|---|
-| Research, survey, full article, or cited background report | Classic STORM | `references/classic-storm.md`, `references/artifact-contract.md`, `references/safety-contract.md` |
-| Existing STORM repository, script, environment, or runner | Local Runner STORM | `references/local-runner.md`, `references/artifact-contract.md`, `references/safety-contract.md` |
-| Interactive roundtable, user steering, or mind map | Prompt-native Co-STORM preview | `references/co-storm.md`, `references/safety-contract.md` |
+| Research, survey, full article, or cited background report | Classic STORM | `references/classic-storm.md`, `references/artifact-contract.md`, `references/safety-contract.md`, `references/evidence-policy.md` |
+| Existing STORM repository, script, environment, or runner | Local Runner STORM | `references/local-runner.md`, `references/artifact-contract.md`, `references/safety-contract.md`, `references/evidence-policy.md` |
+| Interactive roundtable, user steering, or mind map | Prompt-native Co-STORM preview | `references/co-storm.md`, `references/safety-contract.md`, `references/evidence-policy.md` |
 | User-provided local corpus | Corpus-restricted Classic STORM | Classic references, but never expand the corpus boundary without permission |
-| Explicit quick answer, chat only, or no files | Chat Brief STORM | `references/classic-storm.md`, `references/safety-contract.md` |
+| Explicit quick answer, chat only, or no files | Chat Brief STORM | `references/classic-storm.md`, `references/safety-contract.md`, `references/evidence-policy.md` |
 
 Do not load the complete Co-STORM procedure for a Classic request or the full
 Classic artifact procedure for an interactive-only request. The compatibility
@@ -207,11 +214,14 @@ implementation.
   remote write, publish, or widen filesystem scope without current authority.
 - Static HTML must not execute retrieved scripts or unsafe URLs.
 - Fail closed when citation, UTF-8, HTML, state, or publication checks fail.
+- Never cite a secondary source as evidence, and never publish a number
+  without a traced primary origin.
 
 ## Completion Report
 
 Keep the final chat response compact. Report the selected mode, resolved output
-paths or conversation-local result, validation evidence, recovery status, and
-unresolved evidence or tooling gaps. Identify experimental retrieval routing or
+paths or conversation-local result, validation evidence, recovery status,
+unresolved evidence or tooling gaps, the count of 未证实 conclusions, and any
+numbers deleted for lack of an original origin. Identify experimental retrieval routing or
 official-run import when used. Never use an Agent's self-report as the only
 proof of completion.

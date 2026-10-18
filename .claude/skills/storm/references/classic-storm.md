@@ -6,9 +6,12 @@ and the explicit chat-only exception.
 ## Algorithm
 
 1. Frame topic, audience, scope, recency, language, source limits, and depth.
-2. Plan sources before retrieval. Prefer primary papers, standards, official
-   documentation, and strong surveys; use vendor material only for claims about
-   that vendor. When evidence retrieval is needed, load the experimental
+2. Plan sources before retrieval under `evidence-policy.md`: only primary
+   sources (paper full text, official documentation, original data, source
+   code, regulatory and legal documents) count as evidence. Use news, blogs,
+   encyclopedias, aggregators, and surveys only to find leads, then retrieve
+   the primary document they point to. Use vendor material only for claims
+   about that vendor. When evidence retrieval is needed, load the experimental
    `retrieval-backends.md`, infer the route from the user's available inputs,
    and keep its index and trace under `.storm-run/`.
 3. Generate `Basic fact writer` and up to three non-overlapping perspectives.
@@ -16,22 +19,27 @@ and the explicit chat-only exception.
    produce at most three non-empty queries, retrieve, and answer only from the
    gathered evidence.
 5. Build an information table containing perspective, question, query, source
-   id, URL or local id, title, date, snippet, supported claim, and reliability
-   note. Deduplicate by source and claim.
+   id, URL or local id, title, date, snippet, supported claim, `source_tier`,
+   and reliability note. Deduplicate by source and claim. Trace every number to
+   its original origin and record `number_origin`; drop the number when no
+   origin can be found.
 6. Generate the direct outline from the topic alone, then refine it from the
    interview evidence. Use only `#`, `##`, and `###`; exclude a duplicate topic
    heading and a References heading from outline artifacts.
 7. Write sections only from section-relevant evidence and cite factual claims
-   with temporary source ids.
+   with temporary source ids. Mark every claim supported only by secondary
+   sources as `（未证实）` / `(Unverified)` inline.
 8. Polish, remove duplication, reorder citations by first appearance, build the
-   numbered reference list, and record unsupported or stale evidence gaps.
+   numbered reference list with each entry's tier, and record unsupported,
+   unverified, or stale evidence gaps and deleted numbers.
 9. Apply `artifact-contract.md` before publication.
 
 ## Chat-Only Exception
 
 Only when the user explicitly asks for a quick answer, chat only, or no files,
 return a compact brief with scope, perspectives, question/query log, refined
-outline, cited synthesis, numbered references, and verification notes. Do not
+outline, cited synthesis with 未证实 labels, numbered references with tiers,
+and verification notes listing unverified conclusions and deleted numbers. Do not
 silently substitute this exception for normal Artifact STORM.
 
 ## Phase Evidence

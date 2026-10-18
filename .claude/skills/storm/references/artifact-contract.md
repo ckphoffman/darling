@@ -34,8 +34,13 @@ and do not count as additional public deliverables.
   polishing, and actually used.
 - Every used citation maps to exactly one source; every listed source is used or
   explicitly recorded as unused evidence.
-- Each factual claim records citation ids, source ids, support status, evidence
-  note, and action. Semantic support may be judged by an Agent, but the judgment
+- Every source records `source_tier` (`primary` or `secondary`) under
+  `evidence-policy.md`.
+- Each factual claim records citation ids, source ids, support status
+  (`supported` or `unverified`), `evidence_grade`, evidence note, action, and
+  `number_origin` when it contains a number. Secondary-only claims are
+  `unverified` and labeled 未证实 in the article; numbers without a primary
+  origin are deleted. Semantic support may be judged by an Agent, but the judgment
   and evidence must be persisted for audit.
 - Missing source mappings, duplicate ids, out-of-range ids, unsupported claims,
   or dangling references fail closed.

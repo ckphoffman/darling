@@ -14,6 +14,10 @@ from typing import Any
 
 
 CITATION_RE = re.compile(r"\[(\d+)\]")
+# Digits outside citation markers make a claim numeric and require a primary origin.
+NUMBER_RE = re.compile(r"\d")
+SOURCE_TIERS = {"primary", "secondary"}
+UNVERIFIED_MARKERS = ("未证实", "Unverified")
 
 
 class _VisibleTextParser(HTMLParser):
@@ -123,6 +127,8 @@ def audit_citations(
             for field in ("url", "url_or_doc_id", "document_id", "doc_id")
         ):
             errors.append(f"source {source_id}: missing URL or document id")
+        if source.get("source_tier") not in SOURCE_TIERS:
+            errors.append(f"source {source_id}: source_tier must be primary or secondary")
 
     duplicate_ids = sorted(source_id for source_id, count in source_counts.items() if count > 1)
     if duplicate_ids:
@@ -150,7 +156,13 @@ def audit_citations(
         if isinstance(source_id, int) and source_id not in used_id_set and not explicitly_unused:
             errors.append(f"source id {source_id} is dangling and not marked unused evidence")
 
+    source_tiers = {
+        source.get("id", source.get("source_id")): source.get("source_tier")
+        for source in sources
+        if isinstance(source, dict)
+    }
     audited_ids: set[int] = set()
+    unverified_claim_count = 0
     if not isinstance(claims, list) or not claims:
         errors.append("claims must be a non-empty list")
         claims = []
@@ -181,12 +193,40 @@ def audit_citations(
                 errors.append(f"{label}: citation id {citation_id} is not used by the article")
             if source_counts.get(citation_id, 0) != 1:
                 errors.append(f"{label}: citation id {citation_id} lacks exactly one source")
-        if claim.get("support_status") != "supported":
-            errors.append(f"{label}: support_status must be supported")
+        has_primary = any(source_tiers.get(cid) == "primary" for cid in citation_ids)
+        support_status = claim.get("support_status")
+        if support_status == "supported":
+            if citation_ids and not has_primary:
+                errors.append(
+                    f"{label}: supported requires at least one primary source; "
+                    "secondary-only claims must be unverified"
+                )
+        elif support_status == "unverified":
+            unverified_claim_count += 1
+            if has_primary:
+                errors.append(f"{label}: unverified claim cites a primary source; mark it supported")
+        else:
+            errors.append(f"{label}: support_status must be supported or unverified")
+        expected_grade = "primary" if has_primary else "secondary"
+        if claim.get("evidence_grade") != expected_grade:
+            errors.append(f"{label}: evidence_grade must be {expected_grade}")
+        claim_text = CITATION_RE.sub("", str(claim.get("claim", "")))
+        if NUMBER_RE.search(claim_text):
+            if not has_primary:
+                errors.append(f"{label}: numeric claim lacks a primary source; delete the number")
+            if not str(claim.get("number_origin", "")).strip():
+                errors.append(f"{label}: numeric claim missing number_origin")
         if not str(claim.get("evidence_note", "")).strip():
             errors.append(f"{label}: missing evidence_note")
         if not str(claim.get("action", "")).strip():
             errors.append(f"{label}: missing action")
+
+    marker_count = sum(visible_text.count(marker) for marker in UNVERIFIED_MARKERS)
+    if marker_count < unverified_claim_count:
+        errors.append(
+            f"article labels {marker_count} claims as unverified but "
+            f"{unverified_claim_count} claims are unverified"
+        )
 
     missing_claim_decisions = sorted(used_id_set - audited_ids)
     if missing_claim_decisions:

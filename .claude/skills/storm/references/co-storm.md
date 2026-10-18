@@ -4,6 +4,14 @@ Use only for an explicitly interactive roundtable, mind map, or user-steered
 research request. This is a prompt-native preview with simulated participants,
 not an upstream `CoStormRunner` or independently running expert agents.
 
+## Evidence Rules
+
+Apply `evidence-policy.md` to every utterance, mind-map node, and the final
+report: cite only primary sources as evidence, label secondary-only claims
+`（未证实）`, and drop numbers whose original origin is not traced. Simulated
+participants may raise leads from secondary sources but must say they are
+leads.
+
 ## Conversation-Local Board
 
 Maintain topic, scope, current focus, observe-or-participate state, compact

@@ -11,6 +11,7 @@ open this file, but should then follow only the relevant links:
 - Experimental official Classic runner import: `knowledge-storm-adapter.md`
 - Four public files, staging, HTML, UTF-8, and citation gates: `artifact-contract.md`
 - Retrieval, checkpoint, runner, and side-effect safety: `safety-contract.md`
+- Source tiers, conclusion grading, and number tracing: `evidence-policy.md`
 - Versioned guarded run state: `run-state.schema.json`
 - Persisted Co-STORM turn input: `co-storm-turn.schema.json`
 
