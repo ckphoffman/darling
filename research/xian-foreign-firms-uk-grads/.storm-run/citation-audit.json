@@ -1,0 +1,936 @@
+{
+  "article": "storm_gen_article_polished.html",
+  "claims": [
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        1
+      ],
+      "claim": "三星（中国）半导体 2027 届校招对境外院校归国留学生的毕业时间窗口为 2026.1–2027.7",
+      "evidence_note": "搜索摘要：2026~2027届本科及硕士；境外院校归国留学生毕业时间2026年1月至2027年7月（摘要转述，且被截断）；高校转载、摘要截断，未回官方页",
+      "source_ids": [
+        1
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        2
+      ],
+      "claim": "普华永道中国 2027 项目接受 2025/2026/2027 届，网申 2026-08 起，offer 2026-11 起；海外专项仅美加院校",
+      "evidence_note": "搜索摘要：welcome all applications from 2025, 2026 and 2027 graduates with a bachelor's degree or above; starting from August 2026; from November 2026; graduate from universities in the United States or Canada between August 2025 to August 2027；官方域名摘要，未见日期",
+      "source_ids": [
+        2
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        3
+      ],
+      "claim": "德勤 2027 校招网申 2026/08/03–2026/10/31",
+      "evidence_note": "搜索摘要：2026/08/03 ~ 2026/10/31；聚合站线索",
+      "source_ids": [
+        3
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        4
+      ],
+      "claim": "强生 2027 秋招地点含西安，网申截止 10-31",
+      "evidence_note": "搜索摘要：工作地点含西安，网申截止10-31（摘要转述）；聚合线索",
+      "source_ids": [
+        4
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        5
+      ],
+      "claim": "英国一年制授课硕士在 CSCSE 认证范围内",
+      "evidence_note": "搜索摘要：英国正规高校的一年制授课型硕士和研究型硕士均在认证范围之内；教培转述，官方原文未核",
+      "source_ids": [
+        5
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        6
+      ],
+      "claim": "西安旧人才分类评价要求 CSCSE 认证书及连续 6 个月社保，已失效",
+      "evidence_note": "搜索摘要：国外学位学历提供教育部留学服务中心认证的《国外学历学位认证书》；近期连续6个月（含）以上(最新参保状态，不含补缴)的社会保险参保证明；页面标注(已失效)；官方，已失效",
+      "source_ids": [
+        6
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        7
+      ],
+      "claim": "西安 D/E 类人才分类评价到期后不再受理",
+      "evidence_note": "搜索摘要：政策有效期届满后不再受理新的人才分类评价确认申请（摘要转述）；官方问答，摘要转述",
+      "source_ids": [
+        7
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        8
+      ],
+      "claim": "西安择业期 2 年内全日制毕业生有意在西安就业并有合法稳定住所可落户",
+      "evidence_note": "搜索摘要：毕业2年择业期内的全日制普通高等学校毕业生（大专及以上学历）有意愿在本市就业并拥有合法稳定住所人员；政府官网，日期与现行效力未核",
+      "source_ids": [
+        8
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        9
+      ],
+      "claim": "三星（中国）半导体实体位于西安高新综合保税区",
+      "evidence_note": "搜索摘要：三星（中国）半导体有限公司位于西安高新综合保税区，集存储芯片制造与封装测试于一体（摘要转述）；官方文件，年份不确定，摘要转述",
+      "source_ids": [
+        9
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        10
+      ],
+      "claim": "三星 2025 年加大西安工厂投资",
+      "evidence_note": "搜索摘要：Samsung boosted investment in its Xi'an plant by 67.5% year-on-year；媒体转述，未见日期",
+      "source_ids": [
+        10
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        11
+      ],
+      "claim": "三星（中国）半导体有 2026 届春招西安岗位",
+      "evidence_note": "搜索摘要：岗位含半导体工程师、环境安全工程师、采购专员（摘要转述）；高校转载，未见日期",
+      "source_ids": [
+        11
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        12
+      ],
+      "claim": "三星（中国）半导体 2026 届春招地点西安，网申入口为公众号【三星半导体校招】",
+      "evidence_note": "搜索摘要：招聘对象:2026届本科、硕士、博士应届毕业生；工作地点西安；网申通过公众号【三星半导体校招】；聚合站，未见日期",
+      "source_ids": [
+        12
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        13
+      ],
+      "claim": "应用材料西安中心 2006 年成立，位于高新区",
+      "evidence_note": "搜索摘要：西安中心2006年成立，是最早落户西安高新区的外资高科技企业之一（摘要转述）；官方页，未见日期",
+      "source_ids": [
+        13
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        14
+      ],
+      "claim": "应用材料 2026-04-28 发布西安 New Graduate 岗位",
+      "evidence_note": "搜索摘要：Technical Training-ETCH/PVD/CVD-Xi'an-New Graduate, Job ID R2616719, date posted 04/28/2026；官方域名，页面未能打开，学历要求不明",
+      "source_ids": [
+        14
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        15
+      ],
+      "claim": "汇丰科技中国 2027 校招地点含西安；娇韵诗中国有西安岗位",
+      "evidence_note": "搜索摘要：[上海广州西安]汇丰科技中国 2027校园招聘 全职 2026-09-24；汇总中另含娇韵诗中国西安岗位；聚合站线索",
+      "source_ids": [
+        15
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        16
+      ],
+      "claim": "安永智慧交付中心在西安外国语大学有管培生宣讲",
+      "evidence_note": "搜索摘要：09月16日 安永智慧交付中心招聘管培生 西安外国语大学 教学楼E区503；未见年份",
+      "source_ids": [
+        16
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        17
+      ],
+      "claim": "安永秋招面向 2026/2027 届、要求中国籍、2026-07-30 至 10-16；风险咨询实习含西安",
+      "evidence_note": "搜索摘要：2026/2027年应届毕业生；中国籍；2026年7月30日至10月16日；风险咨询实习工作城市含西安，网申2026.06.03–07.03；聚合站线索",
+      "source_ids": [
+        17
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        18
+      ],
+      "claim": "ZF LIFETEC 西安基地位于经开区",
+      "evidence_note": "搜索摘要：ZF LIFETEC 西安基地成立于2010年，扩建项目位于西安经开区（摘要转述）；媒体，摘要转述",
+      "source_ids": [
+        18
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        19
+      ],
+      "claim": "ZF LIFETEC 在西安有气体发生器扩能及研发中心项目",
+      "evidence_note": "搜索摘要：德国采埃孚（ZF LIFETEC）在西安的气体发生器扩能及研发中心，总投资1.5亿欧元（搜索摘要转述，非逐字）；媒体推介文，摘要转述",
+      "source_ids": [
+        19
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        20
+      ],
+      "claim": "ZF LIFETEC 2026 春招地点为武汉而非西安",
+      "evidence_note": "搜索摘要：工作地点武汉，网申 2026-04-08 至 2026-06-07（摘要转述）；聚合站线索",
+      "source_ids": [
+        20
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        21
+      ],
+      "claim": "韩资 LOT Vacuum 项目落地西安",
+      "evidence_note": "搜索摘要：LOT Vacuum, a globally leading vacuum technology company, is the first South Korean firm to achieve domestic production of dry vacuum pumps；媒体，日期未在原页确认",
+      "source_ids": [
+        21
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        22
+      ],
+      "claim": "美光西安只有 2024 年扩建报道，无 2025-07 后招聘证据",
+      "evidence_note": "搜索摘要：新厂房预计将于 2025 年下半年投产…新增 500 个就业岗位；早于时间门槛，仅背景",
+      "source_ids": [
+        22
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        23
+      ],
+      "claim": "美光检索结果为台湾地点校招，未见西安",
+      "evidence_note": "搜索摘要：2026–2027 应届毕业生、毕业两年内人才；工作地点桃园、苗栗、台中、台南；高校转载",
+      "source_ids": [
+        23
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        24
+      ],
+      "claim": "毕马威中国有面向海外中国毕业生的年度招聘",
+      "evidence_note": "搜索摘要：many exciting opportunities to Chinese graduates living and working overseas through our annual Graduate Recruitment Program；官方域名摘要",
+      "source_ids": [
+        24
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        25
+      ],
+      "claim": "毕马威 2027 项目滚动审核",
+      "evidence_note": "搜索摘要：applications are reviewed on a rolling basis；第三方",
+      "source_ids": [
+        25
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        26
+      ],
+      "claim": "国家留学人才就业服务平台 2025-12 升级上线",
+      "evidence_note": "搜索摘要：国家留学人才就业服务平台于2025年12月升级上线；官方媒体，原页未核对",
+      "source_ids": [
+        26
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        27
+      ],
+      "claim": "CSCSE 于 2026 年 4 月启动海归线上春季招聘",
+      "evidence_note": "搜索摘要：论坛期间还会启动升级版留学人员就业服务平台与海归线上春季招聘；原页未打开",
+      "source_ids": [
+        27
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        28
+      ],
+      "claim": "西交大 2026 春季双选会 1118 家单位参加",
+      "evidence_note": "搜索摘要：本次双选会吸引了来自全国30个省(自治区、直辖市)的1118家单位参加；无参会名单与外校准入说明",
+      "source_ids": [
+        28
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        29
+      ],
+      "claim": "西交大 2026 届毕业生约 14000 人，秋季招聘活跃",
+      "evidence_note": "搜索摘要：With about 14,000 graduates in the 2026 cohort, enthusiasm for job hunting was notably high.；媒体",
+      "source_ids": [
+        29
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        30
+      ],
+      "claim": "才聚陕西 2026-09 在武大、华科办专场，对象含 2026/2027 届硕博及往届未就业毕业生",
+      "evidence_note": "搜索摘要：招聘对象为武汉大学、华中科技大学及其他周边高校2026、2027届硕士、博士研究生以及往届未就业毕业生；政府函件托管于就业网，摘要",
+      "source_ids": [
+        30
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        31
+      ],
+      "claim": "海归人才招聘会 2025 年 9 月深圳站，非西安",
+      "evidence_note": "搜索摘要：2025第二十届海归人才招聘会暨首届在华外籍留学生招聘会-深圳站；媒体",
+      "source_ids": [
+        31
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        32
+      ],
+      "claim": "CSCSE 认证线上办理并出具电子证照",
+      "evidence_note": "搜索摘要：认证结果将以电子证照形式显示；教培转述",
+      "source_ids": [
+        32
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        33
+      ],
+      "claim": "留学回国人员应届身份由用人单位决定",
+      "evidence_note": "搜索摘要：留学回国人员不区分应届和往届，也没有三方协议，是否算应届由用人单位决定；二手来源",
+      "source_ids": [
+        33
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        34
+      ],
+      "claim": "公职招考中完成认证且未落实单位的留学回国人员可报应届岗位",
+      "evidence_note": "搜索摘要：面试前取得国外学位并完成教育部门学历认证的留学回国人员，还没有落实工作单位也可以报考仅允许应届高校毕业生报考的职位；聚合，具体公告未定位",
+      "source_ids": [
+        34
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        35
+      ],
+      "claim": "德勤 2026 春招全职面向 2025 及 2026 年毕业的国内外毕业生",
+      "evidence_note": "搜索摘要：全职岗：2025年及2026年毕业的国内外本科、硕士、博士毕业生；3月20日至4月24日；聚合站线索",
+      "source_ids": [
+        35
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        36
+      ],
+      "claim": "中兴（内资）2027 届海外毕业生窗口 2026.1.1–2027.12.31",
+      "evidence_note": "搜索摘要：港澳台及海外毕业生毕业时间2026年1月1日至2027年12月31日（摘要转述）；聚合，非外企",
+      "source_ids": [
+        36
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        37
+      ],
+      "claim": "部分非外企的海外窗口为 2026.1.1–2027.12.31",
+      "evidence_note": "搜索摘要：2026年1月1日至2027年12月31日（摘要称为华为、中兴等非外企的海外窗口）；求职机构线索",
+      "source_ids": [
+        37
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        38
+      ],
+      "claim": "西安灵活就业社保补贴要求西安户籍、离校 2 年内、在公共就业服务机构缴费，含留学归国人员",
+      "evidence_note": "搜索摘要：西安市户籍高校毕业生，离校2年内实现灵活就业或毕业年度自主创业的，在公共就业服务机构缴纳社会保险后，可申请补贴。高校毕业生含…留学归国人员；养老400元/月、医疗200元/月，最长2年；官方，版本日期未知",
+      "source_ids": [
+        38
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        39
+      ],
+      "claim": "陕西灵活就业高校毕业生社保补贴不超过实际缴费 2/3，最长 2 年",
+      "evidence_note": "搜索摘要：灵活就业高校毕业生社保补贴原则上不超过实际缴费的2/3，期限最长2年（摘要转述）；官方，摘要转述",
+      "source_ids": [
+        39
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        40
+      ],
+      "claim": "西安灵活就业社保补贴对象含留学归国人员，2025 年度申报 3/1–7/31",
+      "evidence_note": "搜索摘要：补贴对象包括离校2年内未就业的高校毕业生，其中明确包含留学归国人员；3月1日开始申报…7月31日截止（摘要转述）；官方媒体，摘要转述",
+      "source_ids": [
+        40
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        41
+      ],
+      "claim": "西安 2027 届一次性求职补贴限西安地区高校学籍",
+      "evidence_note": "搜索摘要：每人1500元，限西安地区高校学籍、特定困难情形（摘要转述）；官方，摘要转述",
+      "source_ids": [
+        41
+      ],
+      "support_status": "supported"
+    },
+    {
+      "action": "保留并在正文标注为仅有线索",
+      "citation_ids": [
+        42
+      ],
+      "claim": "陕西对吸纳 2026 届毕业生的中小微企业按个人缴费 25% 补贴",
+      "evidence_note": "搜索摘要：按照个人实际缴费额的25%给予社会保险补贴，对象为吸纳2026届高校毕业生的中小微企业（摘要转述）；官方，摘要转述",
+      "source_ids": [
+        42
+      ],
+      "support_status": "supported"
+    }
+  ],
+  "errors": [],
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "date": "未见日期",
+      "id": 1,
+      "publisher": "大连理工大学盘锦校区就业网（转载）",
+      "source_key": "E11",
+      "title": "三星（中国）半导体有限公司2027届校园招聘",
+      "url": "https://pjcareer.dlut.edu.cn/info/1051/45782.htm",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 2,
+      "publisher": "普华永道中国（官方）",
+      "source_key": "T1",
+      "title": "PwC China Careers – Students",
+      "url": "https://www.pwccn.com/en/careers/students.html?navId=1",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 3,
+      "publisher": "牛企直聘（聚合站）",
+      "source_key": "T5",
+      "title": "德勤2027校园招聘（转载）",
+      "url": "https://campus.niuqizp.com/deadline-xian-2/",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未能核实",
+      "id": 4,
+      "publisher": "今日校招（聚合）",
+      "source_key": "P16",
+      "title": "强生2027秋季校园招聘正式启动",
+      "url": "https://hahazhao.com/square/3738",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未能核实",
+      "id": 5,
+      "publisher": "新东方（教培机构）",
+      "source_key": "P1",
+      "title": "英国一年制硕士认证相关文章",
+      "url": "https://liuxue.xdf.cn/news/bj_7989835.shtml",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2022 年发布；施行 2022-12-01 至 2025-12-31",
+      "id": 6,
+      "publisher": "西安市人社局",
+      "source_key": "P6",
+      "title": "关于印发《西安市地区优秀人才和实用储备人才分类评价确认办法》的通知（已失效）",
+      "url": "http://xahrss.xa.gov.cn/xwzx/tzgg/636e0255f8fd1c4c2128957a.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2026-06（据摘要）",
+      "id": 7,
+      "publisher": "西安市人社局",
+      "source_key": "P12",
+      "title": "关于西安市D、E类人才认定的相关问题_网上咨询",
+      "url": "https://xahrss.xa.gov.cn/hdjl/wszx/2062178155875008513.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未能核实（页面无法打开）",
+      "id": 8,
+      "publisher": "西安市公安局",
+      "source_key": "P5",
+      "title": "西安市公安局关于进一步优化户籍管理工作的通知",
+      "url": "http://police.xa.gov.cn/zwgk/zfwj/bmwj/1712411225725870081.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期（文件名含 2024）",
+      "id": 9,
+      "publisher": "三星中国",
+      "source_key": "E6",
+      "title": "三星中国社会责任报告",
+      "url": "https://images.samsung.com.cn/is/content/samsung/assets/cn/sustainability/social-responsibility/report/0909-2024-samsung-social-responsibility.pdf",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 10,
+      "publisher": "TrendForce",
+      "source_key": "E2",
+      "title": "Samsung Xi'an plant investment",
+      "url": "https://www.trendforce.com/news/?p=55155",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 11,
+      "publisher": "西安理工大学就业网（转载）",
+      "source_key": "E12",
+      "title": "三星(中国)半导体有限公司2026届春季校园招聘简章",
+      "url": "https://51uns.bysjy.com.cn/Announce/Details/3466706?schoolCode=10700",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 12,
+      "publisher": "牛企直聘（聚合站）",
+      "source_key": "C8",
+      "title": "三星（中国）半导体 2026 届春招（转载）",
+      "url": "https://campus.niuqizp.com/job-vmm5tzzMa.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 13,
+      "publisher": "应用材料中国官网",
+      "source_key": "E8",
+      "title": "应用材料中国：上海与西安",
+      "url": "https://www.appliedmaterials.com/cn/zh_cn/about/china-shanghai-xian.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2026-04-28（摘要显示 date posted）",
+      "id": 14,
+      "publisher": "Applied Materials 官方招聘站",
+      "source_key": "E7",
+      "title": "Technical Training-ETCH/PVD/CVD-Xi'an-New Graduate (R2616719)",
+      "url": "https://jobs.appliedmaterials.com/en/job/xi-an/technical-training-etch-pvd-cvd-xi-an-new-graduate/95/93524319664",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "条目 2026-09-24",
+      "id": 15,
+      "publisher": "秋招网（聚合站）",
+      "source_key": "E14",
+      "title": "2027届外企校招岗位信息汇总",
+      "url": "https://qiuzhaowang.com/campus-recruitment/foreign-companies",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见年份",
+      "id": 16,
+      "publisher": "西安外国语大学",
+      "source_key": "E15",
+      "title": "西安外国语大学就业网宣讲列表",
+      "url": "http://jiuye.xisu.edu.cn/",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 17,
+      "publisher": "牛企直聘（聚合站）",
+      "source_key": "T8",
+      "title": "安永2027届校招 / 风险咨询实习（转载）",
+      "url": "https://campus.niuqizp.com/job-vmy5ztMNZ.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 18,
+      "publisher": "盖世汽车",
+      "source_key": "E9",
+      "title": "ZF LIFETEC launches capacity expansion project at Xi'an gas generator base",
+      "url": "https://autonews.gasgoo.com/articles/market-industry/zf-lifetec-launches-capacity-expansion-project-at-xian-gas-generator-base-2034242963738095616",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2025-07-01（据 URL）",
+      "id": 19,
+      "publisher": "每日经济新闻",
+      "source_key": "E1",
+      "title": "采埃孚 ZF LIFETEC 西安扩能及研发中心相关报道",
+      "url": "https://www.nbd.com.cn/articles/2025-07-01/3928366.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 20,
+      "publisher": "牛企直聘（聚合站）",
+      "source_key": "E10",
+      "title": "ZF LIFETEC 2026 春季招聘（转载）",
+      "url": "https://campus.niuqizp.com/job-vYm5Zan5N.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期（摘要称 2025-11）",
+      "id": 21,
+      "publisher": "iTiger 转载",
+      "source_key": "E3",
+      "title": "Two Foreign Investment Projects Successfully Land in Xi'an",
+      "url": "https://www.itiger.com/news/1153084471",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2024 年（早于 2025-07，仅作背景）",
+      "id": 22,
+      "publisher": "IT之家",
+      "source_key": "E13",
+      "title": "美光西安封测厂扩建报道",
+      "url": "https://www.ithome.com/0/758/462.htm",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 23,
+      "publisher": "亚洲大学",
+      "source_key": "C3",
+      "title": "台湾美光徵才（亚洲大学转载）",
+      "url": "https://cdgs.asia.edu.tw/",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 24,
+      "publisher": "毕马威中国（官方）",
+      "source_key": "T6",
+      "title": "KPMG China Overseas Application",
+      "url": "https://careers.kpmg.com.cn/graduates/application/overseaapplication.htm",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 25,
+      "publisher": "opportunitiesfeed（第三方）",
+      "source_key": "T7",
+      "title": "KPMG Graduate Programme 2027",
+      "url": "https://opportunitiesfeed.com/tag/graduate-programme-china/",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2026-02-13",
+      "id": 26,
+      "publisher": "新华网",
+      "source_key": "C4",
+      "title": "加强教育引导 丰富服务形式——教育部多措并举做好出国留学服务工作",
+      "url": "https://www.news.cn/20260213/dade1f082d5b48719edc88deace8eec2/c.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2026-03-27（据 URL）",
+      "id": 27,
+      "publisher": "科技日报",
+      "source_key": "C1",
+      "title": "中国留学论坛相关报道",
+      "url": "https://www.stdaily.com/web/gdxw/2026-03/27/content_493672.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2026-03-27",
+      "id": 28,
+      "publisher": "中国教育在线（陕西）",
+      "source_key": "C6",
+      "title": "西安交大第八届千家单位万名学子春季双选会",
+      "url": "https://www.eol.cn/shaanxi/shxgd/202603/t20260327_2725022.shtml",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2025-09-29",
+      "id": 29,
+      "publisher": "China Daily 西安交大专页",
+      "source_key": "C7",
+      "title": "XJTU autumn job fair",
+      "url": "https://subsites.chinadaily.com.cn/xjtu/2025-09/29/c_1129522.htm",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期（活动 2026-09）",
+      "id": 30,
+      "publisher": "陕西省人社厅 / 中国西安人才市场（托管于就业网）",
+      "source_key": "C2",
+      "title": "关于邀请参加2026年陕西省赴外招才引才专场招聘会的函（才聚陕西）",
+      "url": "https://o.bysjy.com.cn/new_govern/yxqqnn2600000103/2026/doc/1784529376-6336.pdf",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2025-09-05（据 URL）",
+      "id": 31,
+      "publisher": "中国日报网",
+      "source_key": "T12",
+      "title": "海归人才招聘会深圳站报道",
+      "url": "https://cn.chinadaily.com.cn/a/202509/05/WS68baa596a310f07257746fe4.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未能核实",
+      "id": 32,
+      "publisher": "新东方（教培机构）",
+      "source_key": "P2",
+      "title": "学历认证流程文章",
+      "url": "https://liuxue.xdf.cn/hangzhou/yglh_zhlh_sqzn/2473854.shtml",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未能核实",
+      "id": 33,
+      "publisher": "新东方（教培机构）",
+      "source_key": "P3",
+      "title": "留学生应届身份文章",
+      "url": "https://liuxue.xdf.cn/tangshan/mglh_bklh_sqzn/4351258.shtml",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未能核实",
+      "id": 34,
+      "publisher": "公务员考试网（聚合）",
+      "source_key": "P4",
+      "title": "公考留学生报考说明",
+      "url": "https://m.gwy.com/hbgwy/366466.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期（摘要称其中一则发布于 2026-03）",
+      "id": 35,
+      "publisher": "牛企直聘（聚合站）",
+      "source_key": "T10",
+      "title": "德勤2026春季招聘（转载）",
+      "url": "https://campus.niuqizp.com/schedule-hkYsrCzMM.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未能核实",
+      "id": 36,
+      "publisher": "超级简历（聚合）",
+      "source_key": "P15",
+      "title": "中兴通讯2027届校园招聘正式启动（内资，仅作口径参照）",
+      "url": "https://www.wondercv.com/xiaozhao/zte-2027-campus-recruitment-13739-a0e291/",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未见日期",
+      "id": 37,
+      "publisher": "名津求职（搜狐号）",
+      "source_key": "T2",
+      "title": "2026/2027海归求职应届生身份界定与毕业时间对照",
+      "url": "https://www.sohu.com/a/1052818380_120284448",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "未能核实（摘要称旧版汇总）",
+      "id": 38,
+      "publisher": "西安市人社局",
+      "source_key": "P13",
+      "title": "就业中心就业创业政策汇总",
+      "url": "http://xahrss.xa.gov.cn/ztzl/jycyfwzl/jycyzc/629ecfb6f8fd1c4c21ffd9a5.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2025-09-11（据 URL）",
+      "id": 39,
+      "publisher": "陕西省人社厅",
+      "source_key": "P14",
+      "title": "陕西省2025年就业政策宣传月活动专栏",
+      "url": "https://rst.shaanxi.gov.cn/ygdlm/2025jyxc/202509/t20250911_3565353.html",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2026-03-16（据 URL）",
+      "id": 40,
+      "publisher": "中国就业网（人社部）",
+      "source_key": "P7",
+      "title": "陕西西安：灵活就业社保补贴开始申报",
+      "url": "https://chinajob.mohrss.gov.cn/h5/c/2026-03-16/509963.shtml",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2026-06-16（据 URL）",
+      "id": 41,
+      "publisher": "中国就业网（人社部）",
+      "source_key": "P8",
+      "title": "陕西西安：2027届高校毕业生一次性求职补贴开始申领",
+      "url": "https://chinajob.mohrss.gov.cn/h5/c/2026-06-16/554568.shtml",
+      "verification": "仅有线索"
+    },
+    {
+      "date": "2026-07-07（据 URL）",
+      "id": 42,
+      "publisher": "陕西省人社厅",
+      "source_key": "P9",
+      "title": "陕西省人社厅通知公告（吸纳高校毕业生社保补贴）",
+      "url": "https://rst.shaanxi.gov.cn/sy/tzgg/202607/t20260707_3654352.html",
+      "verification": "仅有线索"
+    }
+  ],
+  "used_citation_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+  ],
+  "valid": true
+}

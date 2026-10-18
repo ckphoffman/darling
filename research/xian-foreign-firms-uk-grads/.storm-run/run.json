@@ -5,14 +5,35 @@
   "execution_backend": "guarded-agent",
   "topic": "西安外资企业招收英国留学归国应届生：企业、渠道、身份政策与时间线",
   "artifact_slug": "storm-research",
-  "phase": "PERSPECTIVES_READY",
-  "status": "running",
+  "phase": "COMPLETE",
+  "status": "complete",
   "attempt": 1,
-  "next_action": "run_interviews",
+  "next_action": null,
   "created_at": "2026-10-18T05:20:30.222004Z",
-  "updated_at": "2026-10-18T05:20:49.407805Z",
-  "artifacts": {},
+  "updated_at": "2026-10-18T05:29:18.723162Z",
+  "artifacts": {
+    "direct_gen_outline.html": {
+      "path": "direct_gen_outline.html",
+      "format": "html",
+      "sha256": "bb7ecce035af339e8aa0dcc04078a7179a641baaead8e1f2b701892c97e89e2e"
+    },
+    "storm_gen_article.html": {
+      "path": "storm_gen_article.html",
+      "format": "html",
+      "sha256": "5f523fca30fdf9a7c6af1de257124d3f21ef0b2c4008969fb544c2bb70156bc8"
+    },
+    "storm_gen_article_polished.html": {
+      "path": "storm_gen_article_polished.html",
+      "format": "html",
+      "sha256": "5b41f75745d62334f37351cf7f8a3fee029b76260eaf9a2e08abdb569c38ec34"
+    },
+    "storm_gen_outline.html": {
+      "path": "storm_gen_outline.html",
+      "format": "html",
+      "sha256": "55beef687bb4eedf5dd9ca5dda551547b03dd2a4aea720b687b244696e5f3a31"
+    }
+  },
   "metrics": {},
   "errors": [],
-  "last_event_id": 3
+  "last_event_id": 12
 }
