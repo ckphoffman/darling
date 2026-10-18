@@ -1,0 +1,7 @@
+{"topic":"Whitney Bowe《The Beauty of Dirty Skin》(中文版《你的皮肤屏障90%可以靠营养修复》) 核心主张证据核查",
+"audience":"普通读者，需决定书中哪些建议值得照做","language":"zh-CN",
+"source_boundary":"公开网络与文献数据库；一手来源（原始研究、官方文档、监管文件）为证据，书评/新闻/博客仅作线索",
+"evidence_hierarchy":["RCT","cohort","cross-sectional","mechanistic/animal"],
+"outcome_distinction":"区分测了皮肤结局 vs 只测中间指标（菌群、炎症因子）",
+"output_boundary":"research/beauty-of-dirty-skin/ (四个 HTML) + research/beauty-of-dirty-skin/notes/ (子 agent 原始回复)",
+"subquestions":["各主张判定","'90%靠营养修复'出处","作者商业利益重叠","低成本低风险建议","亚抗菌剂量多西环素对菌群组成的实测影响"]}
