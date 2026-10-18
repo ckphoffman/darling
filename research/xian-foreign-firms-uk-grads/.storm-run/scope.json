@@ -1,0 +1,9 @@
+{"topic":"西安外资企业招收英国留学归国应届生：企业、渠道、身份政策与时间线",
+ "audience":"2026.06 英国诺丁汉大学硕士（一年制）毕业、华东理工大学本科、求职意向不限、目标在西安工作的求职者",
+ "language":"zh-CN",
+ "today":"2026-10-18",
+ "recency":"仅采用 2025-07-01 之后发布的信息；更早信息只作背景并标注",
+ "foreign_definition":"外商独资、中外合资、港澳台资；必须在西安有实际办公地点和岗位",
+ "source_priority":["企业官方招聘页/官方公众号","政府/开发区/商务部门/人社部门公开信息","外国商会","高校就业网","招聘聚合站（仅线索，需回官方核实）"],
+ "output_boundary":"research/xian-foreign-firms-uk-grads/（四个 HTML 公开文件 + .storm-run 内部证据）",
+ "retrieval":"Agent-led web search，经 host 路径记录（experimental）"}
