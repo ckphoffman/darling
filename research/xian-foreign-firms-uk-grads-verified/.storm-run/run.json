@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "run_id": "storm-41cbe99f-bb91-44d7-b09d-9ddfcf399aa3",
+  "mode": "classic",
+  "execution_backend": "guarded-agent",
+  "topic": "西安外资企业招收英国留学归国应届生：官方页面核实版",
+  "artifact_slug": "storm-research",
+  "phase": "PERSPECTIVES_READY",
+  "status": "running",
+  "attempt": 1,
+  "next_action": "run_interviews",
+  "created_at": "2026-10-18T05:36:37.411125Z",
+  "updated_at": "2026-10-18T05:36:37.576398Z",
+  "artifacts": {},
+  "metrics": {},
+  "errors": [],
+  "last_event_id": 3
+}
