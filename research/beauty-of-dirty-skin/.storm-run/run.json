@@ -5,14 +5,14 @@
   "execution_backend": "guarded-agent",
   "topic": "Whitney Bowe《The Beauty of Dirty Skin》核心主张证据核查",
   "artifact_slug": "whitney-bowe-the-beauty-of-dirty-skin",
-  "phase": "SCOPED",
+  "phase": "PERSPECTIVES_READY",
   "status": "running",
   "attempt": 1,
-  "next_action": "generate_perspectives",
+  "next_action": "run_interviews",
   "created_at": "2026-10-18T18:25:40.599358Z",
-  "updated_at": "2026-10-18T18:25:47.692628Z",
+  "updated_at": "2026-10-18T18:33:49.238789Z",
   "artifacts": {},
   "metrics": {},
   "errors": [],
-  "last_event_id": 2
+  "last_event_id": 3
 }
